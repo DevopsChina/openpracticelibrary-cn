@@ -10,7 +10,9 @@ tags:
   - learn
 categories: 
   - foundation
-icon: /images/ubiquitous_language_galaxy_stable_difussion.jpeg
+resources:
+  - name: featured-image
+    src: /images/ubiquitous_language_galaxy_stable_difussion.jpeg
 ---
 中文
 ## whatIs
@@ -54,7 +56,7 @@ icon: /images/ubiquitous_language_galaxy_stable_difussion.jpeg
   the developers. A git repository where changes can be tracked and suggested
   could be an ideal place for it.
 
-
+![](/images/ubiquitous_language_galaxy_stable_difussion.jpeg)
   D﻿on't be afraid of drawing rather than writting. There might be concepts that are better explained in a diagram than in plain words.
 
 
