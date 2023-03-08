@@ -13,6 +13,8 @@ languageCode = "zh-CN"
 # Change the default theme to be use when building the site with Hugo
 theme = "FixIt"
 
+[permalinks]
+  posts = "practices/:title"
 
 # -------------------------------------------------------------------------------------
 # Menu Configuration
@@ -26,11 +28,11 @@ theme = "FixIt"
     pre = ""
     # you can add extra information after the name (HTML format is supported), such as icons
     post = ""
-    name = "Posts"
+    name = "Practices"
     url = "/posts/"
     # title will be shown when you hover on this menu link
     title = ""
-    weight = 1
+    weight = 2
     # FixIt 0.2.14 | NEW add user-defined content to menu items
     [menu.main.params]
       # add css class to a specific menu item
@@ -48,7 +50,7 @@ theme = "FixIt"
     name = "Categories"
     url = "/categories/"
     title = ""
-    weight = 2
+    weight = 1
     [menu.main.params]
       icon = "fa-solid fa-th"
   [[menu.main]]

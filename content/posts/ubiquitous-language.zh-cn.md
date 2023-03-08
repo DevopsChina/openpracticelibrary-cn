@@ -12,7 +12,7 @@ categories:
   - foundation
 resources:
   - name: featured-image
-    src: /images/ubiquitous_language_galaxy_stable_difussion.jpeg
+    src: images/ubiquitous_language_galaxy_stable_difussion.jpeg
 ---
 中文
 ## whatIs
@@ -57,6 +57,8 @@ resources:
   could be an ideal place for it.
 
 ![](/images/ubiquitous_language_galaxy_stable_difussion.jpeg)
+
+
   D﻿on't be afraid of drawing rather than writting. There might be concepts that are better explained in a diagram than in plain words.
 
 
