@@ -1,5 +1,9 @@
 # 《开放实践库》协作指南
 
+本项目的上游代码库是：https://github.com/openpracticelibrary/openpracticelibrary.git
+
+本项目是DevOps社区的志愿者维护的一个简体中文版本的《开放实践库》，英文版本源站点是：https://openpracticelibrary.com/
+
 ## 工作范围：
 
 - 197篇DevOps实践文章的翻译和校对。
