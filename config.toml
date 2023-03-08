@@ -4,7 +4,7 @@
 # =====================================================================================
 
 name = "开放实践库"
-baseURL = "https://openpracticelibrary.devopschina.org/"
+baseURL = "https://openpracticelibrary.devopschina.org/openpracticelibrary-cn"
 # determines default content language ["en", "zh-cn", "fr", "pl", ...]
 defaultContentLanguage = "zh-cn"
 # language code ["en", "zh-CN", "fr", "pl", ...]
