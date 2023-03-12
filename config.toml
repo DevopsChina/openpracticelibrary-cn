@@ -77,7 +77,7 @@ theme = "FixIt"
   # site keywords
   keywords = ["Hugo", "FixIt"]
   # site default theme ["light", "dark", "auto"]
-  defaultTheme = "auto"
+  defaultTheme = "light"
   # public git repo url only then enableGitInfo is true
   gitRepo = ""
   # FixIt 0.1.1 | NEW which hash function used for SRI, when empty, no SRI is used
@@ -154,7 +154,7 @@ theme = "FixIt"
     # FixIt 0.2.0 | NEW Header title config
     [params.header.title]
       # URL of the LOGO
-      logo = "/fixit.min.svg"
+      logo = "/images/logo.svg"
       # title name
       name = "开放实践库"
       # you can add extra information before the name (HTML format is supported), such as icons
