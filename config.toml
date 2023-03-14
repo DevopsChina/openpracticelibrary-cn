@@ -63,7 +63,16 @@ theme = "FixIt"
     weight = 3
     [menu.main.params]
       icon = "fa-solid fa-tags"
-
+  [[menu.main]]
+    identifier = "about"
+    pre = ""
+    post = ""
+    name = "关于"
+    url = "/about/"
+    title = "关于开放实践库"
+    weight = 4
+    [menu.main.params]
+      icon = "fa-solid fa-compass"
 # -------------------------------------------------------------------------------------
 # Theme Core Configuration
 # See: https://fixit.lruihao.cn/documentation/basics/#theme-configuration
