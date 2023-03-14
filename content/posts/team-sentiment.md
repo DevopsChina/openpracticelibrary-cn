@@ -87,7 +87,8 @@ resources:
   - link: 'https://www.teammood.com/en/'
     linkType: web
     description: Digital Mood Marble Tool
-mobiusTag: foundation
+categories: 
+  - foundation
 ---
 ## What is it?
 

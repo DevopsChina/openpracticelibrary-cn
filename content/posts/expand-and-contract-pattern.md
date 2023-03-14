@@ -9,7 +9,8 @@ perspectives: []
 jumbotron: /images/expand-contract-pattern.jpg
 participants: []
 templateKey: practice-page
-mobiusTag: delivery
+categories: 
+  - delivery
 icon: /images/expand-contract-pattern.jpg
 ---
 ## What is it/Why use it?

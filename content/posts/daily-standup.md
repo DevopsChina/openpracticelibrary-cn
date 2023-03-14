@@ -14,7 +14,8 @@ authors:
   - ilaria66
 tags:
   - culture
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/dsu.jpg
 whatIs: >-
   * The main point of a daily standup (Daily Scrum) is for the team to better

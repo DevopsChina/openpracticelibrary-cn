@@ -8,7 +8,8 @@ authors:
   - daveesra
 tags:
   - methods
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/woodland-trail-1229089.jpg
 whatIs: The name of the exercise “Plan your trip” speaks to the goal of
   determining the appropriate level of rigor. Most people can associate with

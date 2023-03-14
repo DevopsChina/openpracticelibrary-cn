@@ -58,7 +58,8 @@ subtitle: A method for describing a system at the highest level possible
 date: 2019-12-20T14:52:30.100Z
 tags:
   - ideate
-mobiusTag: discovery
+categories: 
+  - discovery
 icon: /images/screenshot_2022-02-16_10-41-33.png
 whatIs: >-
   A system diagram is a simple and very high level description of a system that

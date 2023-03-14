@@ -8,7 +8,8 @@ authors:
 tags:
   - methods
   - culture
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/mentorship-kick-off-open-pattern-mentorship-agreement.jpg
 whatIs: >-
   Mentorship as a general practice is one of the oldest forms of spreading

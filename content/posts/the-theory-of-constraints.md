@@ -7,7 +7,8 @@ authors:
   - tom-geraghty
 tags:
   - methods
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/three-contract-management-bottlenecks-eliminated-by-automation.png
 whatIs: >-
   Eliyahu Goldratt first described the Theory Of Constraints (ToC) in his 1984

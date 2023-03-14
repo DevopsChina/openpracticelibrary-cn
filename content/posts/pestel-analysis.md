@@ -7,7 +7,8 @@ authors:
   - mattnapro
 tags:
   - value
-mobiusTag: discovery
+categories: 
+  - discovery
 icon: /images/pestel.jpg
 whatIs: >-
   PESTEL analysis is a framework for scanning the environment for factors that

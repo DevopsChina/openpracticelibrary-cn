@@ -8,7 +8,8 @@ authors:
 tags:
   - validate
   - value
-mobiusTag: discovery
+categories: 
+  - discovery
 icon: /images/remoteaf-backlog-filter.png
 whatIs: >-
   The backlog filter is a tool used to surface high risk work items. This canvas

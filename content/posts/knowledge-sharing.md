@@ -7,7 +7,8 @@ authors:
   - shaypeleg
 tags:
   - culture
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/knowledge-sharing-openpracticelibrary.png
 whatIs: "This is a tool for a team to collect topics: What we know, what we want
   to learn, and then prioritise among possible knowledge sharing topics."

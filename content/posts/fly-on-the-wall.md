@@ -7,7 +7,8 @@ authors:
   - only-chrisbh
 tags:
   - validate
-mobiusTag: discovery
+categories: 
+  - discovery
 icon: /images/fly-on-the-wall.jpeg
 whatIs: This practice is designed to provide a crowdsourced approach to problem
   solving. The problem is posed to the group by 'the fly' and the group then

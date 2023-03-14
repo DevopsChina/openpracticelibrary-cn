@@ -7,7 +7,8 @@ authors:
   - alexismonville
 tags:
   - culture
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/2018-09-28-08.04.09.jpg
 whatIs: Moving Motivators is a practice to uncover what motivates your
   colleagues and yourself.

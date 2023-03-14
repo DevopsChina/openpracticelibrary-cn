@@ -132,7 +132,8 @@ resources:
       https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
     linkType: web
     description: Live Share
-mobiusTag: foundation
+categories: 
+  - foundation
 ---
 ## What is it?
 

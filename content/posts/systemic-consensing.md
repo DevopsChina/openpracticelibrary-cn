@@ -7,7 +7,8 @@ authors:
   - zene22
 tags:
   - culture
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/20220216_180527.jpg
 whatIs: >-
   A method helping to make sustainable decisions in groups of any size without

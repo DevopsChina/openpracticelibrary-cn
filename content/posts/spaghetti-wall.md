@@ -7,7 +7,8 @@ authors:
   - heyjerrybecker
 tags:
   - value
-mobiusTag: discovery
+categories: 
+  - discovery
 icon: /images/wall-of-ideas.jpeg
 whatIs: The Spaghetti Wall is a physical or digital workspace that is set up as
   a place to capture budding ideas/challenges in your organization. As we go

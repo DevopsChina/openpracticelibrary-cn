@@ -8,7 +8,8 @@ authors:
   - scheurich
 tags:
   - measure
-mobiusTag: delivery
+categories: 
+  - delivery
 icon: /images/dd8b1513-5617-49c4-b80f-f26b00691124.jpeg
 whatIs: >-
   What is the 4Ls Retrospective?

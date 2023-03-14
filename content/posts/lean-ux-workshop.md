@@ -9,7 +9,8 @@ authors:
   - mtakane
 tags:
   - ideate
-mobiusTag: discovery
+categories: 
+  - discovery
 icon: /images/img_20190402_114951.jpg
 whatIs: In a Lean UX Workshop, participants practice interviewing and learning
   about a user. Then, they prototype and refine a product that solves a real

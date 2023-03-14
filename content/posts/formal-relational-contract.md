@@ -9,7 +9,8 @@ authors:
 tags:
   - culture
   - validate
-mobiusTag: discovery
+categories: 
+  - discovery
 icon: /images/screenshot-2021-09-30-at-15.23.12.png
 whatIs: The formal relational contract is a new approach to contracts. It is an
   approach to govern the highly complex relationships that demand collaboration

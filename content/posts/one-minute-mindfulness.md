@@ -54,7 +54,8 @@ mediaGallery:
       https://openpracticelibrary.github.io/opl-media/images/one-minute-mindfulness.png
 perspectives: []
 difficulty: easy
-mobiusTag: foundation
+categories: 
+  - foundation
 ---
 ## What is it?
 

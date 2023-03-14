@@ -54,7 +54,8 @@ mediaGallery:
   - link: 'https://openpracticelibrary.github.io/opl-media/images/valves.jpg'
 people: '1'
 difficulty: moderate
-mobiusTag: foundation
+categories: 
+  - foundation
 ---
 ## What is it?
 

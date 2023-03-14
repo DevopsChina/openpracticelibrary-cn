@@ -8,7 +8,8 @@ authors:
   - kelliemonty
 tags:
   - culture
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/screen-shot-2021-09-20-at-2.46.35-pm.png
 whatIs: This is a simple practice that can be used as an alternative to the
   daily standup or sync meeting where we dig into deeper process items, gather

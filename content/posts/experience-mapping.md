@@ -8,7 +8,8 @@ authors:
   - karenbatt
 tags:
   - validate
-mobiusTag: discovery
+categories: 
+  - discovery
 icon: /images/customer_experience_journey_map_graphic.png
 whatIs: Experience Mapping or Journey Mapping is used to create a graphical
   representation of a process and the journey that someone takes through that,

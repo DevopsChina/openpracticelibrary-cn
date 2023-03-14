@@ -7,7 +7,8 @@ authors:
   - ilaria66
 tags:
   - methods
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/am4.jpg
 whatIs: >-
   Affinity Mapping is a practice used to organize ideas or insights. It allows

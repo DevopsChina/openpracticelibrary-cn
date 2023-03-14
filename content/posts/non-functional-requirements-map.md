@@ -74,7 +74,8 @@ howTo: >-
   There are no specific considerations for this practice.
 mediaGallery:
   - link: 'https://openpracticelibrary.com/images/non-functional-requirements-map.jpg'
-mobiusTag: discovery
+categories: 
+  - discovery
 ---
 ## What is it?
 

@@ -79,7 +79,8 @@ perspectives:
   - product-ownership
 difficulty: easy
 jumbotronAlt: Whole Product Plot
-mobiusTag: discovery
+categories: 
+  - discovery
 ---
 ## What is it?
 

@@ -5,7 +5,8 @@ subtitle: How to measure the Psychological Safety in teams and organisations
 date: 2022-08-12T07:35:04.275Z
 authors:
   - tom-geraghty
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/stagedive.jpg
 whatIs: >-
   **Psychological safety is the most important factor in high performing

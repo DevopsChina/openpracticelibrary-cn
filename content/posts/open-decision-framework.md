@@ -10,7 +10,8 @@ authors:
   - mtakane
 tags:
   - culture
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/odf.png
 whatIs: >-
   Open decision making is an approach to arriving at actionable agreements

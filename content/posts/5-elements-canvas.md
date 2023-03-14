@@ -8,7 +8,8 @@ tags:
   - validate
   - value
   - insight
-mobiusTag: discovery
+categories: 
+  - discovery
 icon: /images/screenshot-2021-04-13-at-12.33.22.png
 whatIs: It is a canvas that facilitates deeper understanding of the complexity
   of an issue. Where the pains are, where they come from, who owns the problem

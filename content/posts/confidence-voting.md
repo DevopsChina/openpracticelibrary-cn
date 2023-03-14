@@ -11,7 +11,8 @@ authors:
   - shaypeleg
 tags:
   - culture
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/fist-of-five-voting-method.jpg
 whatIs: >-
   * A practice that gains consensus around a team's agreement or disagreement on

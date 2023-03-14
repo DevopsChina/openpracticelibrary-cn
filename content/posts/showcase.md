@@ -12,7 +12,8 @@ authors:
   - ilaria66
 tags:
   - methods
-mobiusTag: delivery
+categories: 
+  - delivery
 icon: /images/final_showcase.png
 whatIs: >-
   * An event where stakeholders and interested parties are given a demonstration

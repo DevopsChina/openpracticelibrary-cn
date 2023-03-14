@@ -6,7 +6,8 @@ date: 2019-05-22T16:05:41.031Z
 authors:
   - tenfourty
 tags: []
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/establish-shared-principles.jpg
 whatIs: >-
   While it might be bizarre to say "Principles over Practices" in an article

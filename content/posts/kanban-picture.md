@@ -124,7 +124,8 @@ whyDo: It's simple and it's a funny explanation.
 mediaGallery:
   - link: >-
       https://openpracticelibrary.github.io/opl-media/images/kanban-picture-english.png
-mobiusTag: delivery
+categories: 
+  - delivery
 ---
 ## What is it?
 

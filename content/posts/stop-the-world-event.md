@@ -89,7 +89,8 @@ resources:
       https://hbr.org/2017/08/high-performing-teams-need-psychological-safety-heres-how-to-create-it
     linkType: web
     description: High Performing Teams Need Psychological Safety
-mobiusTag: foundation
+categories: 
+  - foundation
 ---
 ## What is it?
 

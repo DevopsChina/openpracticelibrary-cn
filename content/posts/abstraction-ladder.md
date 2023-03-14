@@ -7,7 +7,8 @@ authors:
   - heyjerrybecker
 tags:
   - value
-mobiusTag: discovery
+categories: 
+  - discovery
 icon: /images/abstraction-ladder-example.jpeg
 whatIs: Abstraction Laddering is a problem-framing activity that has
   participants reconsider problem statements by broadening or narrowing its

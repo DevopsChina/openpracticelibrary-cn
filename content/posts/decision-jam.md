@@ -7,7 +7,8 @@ authors:
   - heyjerrybecker
 tags:
   - ideate
-mobiusTag: discovery
+categories: 
+  - discovery
 icon: /images/decision-jam-small.png
 whatIs: This is a workshop exercise that you can use for **almost anything**.
   Created by the amazing team at [AJ&Smart](https://ajsmart.com/), the Lightning

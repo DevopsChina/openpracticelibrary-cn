@@ -8,7 +8,8 @@ authors:
   - valyonchev
 tags:
   - validate
-mobiusTag: delivery
+categories: 
+  - delivery
 icon: /images/ab-testing.jpg
 whatIs: This is a randomised experiment in which we compare and evaluate the
   performance of different versions of a product in pairs. Both product versions

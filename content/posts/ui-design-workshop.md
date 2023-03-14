@@ -121,7 +121,8 @@ mediaGallery:
 people: 2+
 difficulty: moderate
 jumbotronAlt: Whiteboard with UI sketches
-mobiusTag: delivery
+categories: 
+  - delivery
 ---
 ## What is it?
 

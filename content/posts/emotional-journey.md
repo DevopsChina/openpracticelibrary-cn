@@ -9,7 +9,8 @@ authors:
 tags:
   - value
   - validate
-mobiusTag: discovery
+categories: 
+  - discovery
 icon: /images/jordi-s-board-journey-map-1-1-.jpg
 whatIs: >-
   Emotional Journey is a powerful research practice to **identify and visualize

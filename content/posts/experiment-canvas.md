@@ -10,7 +10,8 @@ tags:
   - validate
   - measure
   - learn
-mobiusTag: options
+categories: 
+  - options
 icon: /images/experiment-canvas.jpeg
 whatIs: >-
   T﻿he Experiment Canvas, created by Chris Stone, is a practice and artifact

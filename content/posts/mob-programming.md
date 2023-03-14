@@ -11,7 +11,8 @@ authors:
   - mvmaestri
 tags:
   - culture
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/mob-programming.jpg
 whatIs: >-
   Mob programming is a practice where the whole team comes together to implement

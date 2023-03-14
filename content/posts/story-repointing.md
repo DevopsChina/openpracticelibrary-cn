@@ -118,7 +118,8 @@ mediaGallery:
       https://openpracticelibrary.github.io/opl-media/images/story_repointing1.jpg
   - link: >-
       https://openpracticelibrary.github.io/opl-media/images/estmation-tracker.jpg
-mobiusTag: delivery
+categories: 
+  - delivery
 ---
 ![Story RePointing Grid Image](/images/story_repointing1.jpg "RePointing Grid")
 

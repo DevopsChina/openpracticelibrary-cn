@@ -7,7 +7,8 @@ authors:
   - infosec812
 tags:
   - culture
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/decisions-1.jpg
 whatIs: >-
   ## Overview

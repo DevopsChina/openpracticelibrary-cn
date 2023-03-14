@@ -7,7 +7,8 @@ authors:
   - heyjerrybecker
 tags:
   - ideate
-mobiusTag: discovery
+categories: 
+  - discovery
 icon: /images/crazy-8s-1.jpg
 whatIs: >-
   Crazy 8’s is a core Design Sprint method. It is a fast sketching exercise that

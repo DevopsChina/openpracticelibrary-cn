@@ -8,7 +8,8 @@ authors:
 tags:
   - validate
   - value
-mobiusTag: discovery
+categories: 
+  - discovery
 icon: /images/screen-shot-2021-08-11-at-3.57.03-pm.png
 whatIs: Motivation Mapping is an exercise to understand the motivation for
   ourselves or the customer. We use a canvas divided in 6 sections and identify

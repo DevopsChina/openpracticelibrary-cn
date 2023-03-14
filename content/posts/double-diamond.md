@@ -9,7 +9,8 @@ authors:
   - dsunwar
 tags:
   - methods
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/pasted-image-0.png
 whatIs: >-
   This is a practice used in the design process or design workshop and it should

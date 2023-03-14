@@ -8,7 +8,8 @@ authors:
   - geoffprobst
 tags:
   - validate
-mobiusTag: discovery
+categories: 
+  - discovery
 icon: /images/change-agenda-cover.png
 whatIs: Change Agenda is a framework used to identify strategic shifts or
   changes that an organization, team, or engagement needs to achieve in order to

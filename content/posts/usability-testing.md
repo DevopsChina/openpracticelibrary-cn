@@ -7,7 +7,8 @@ authors:
   - rdebeasi
 tags:
   - validate
-mobiusTag: delivery
+categories: 
+  - delivery
 icon: /images/user-testing-val-cropped.png
 whatIs: >-
   In a usability testing session, the team observes real users interacting with

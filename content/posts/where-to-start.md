@@ -11,7 +11,8 @@ tags:
   - validate
   - value
   - culture
-mobiusTag: discovery
+categories: 
+  - discovery
 icon: /images/where-to-start.jpeg
 whatIs: >-
   This practice focus on helping people to unveil the most complex systems and

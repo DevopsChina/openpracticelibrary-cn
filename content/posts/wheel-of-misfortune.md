@@ -9,7 +9,8 @@ tags:
   - learn
   - culture
   - methods
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/fposter-small-wall_texture-product-750x1000.u5.jpg
 whatIs: >-
   You can see the Wheel of Misfortune as an informal exercise or a game that

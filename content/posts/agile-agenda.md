@@ -79,7 +79,8 @@ mediaGallery:
       https://openpracticelibrary.github.io/opl-media/images/agenda_with_faces.png
   - link: >-
       https://github.com/openpracticelibrary/opl-media/blob/master/images/Agile%20Agenda.jpg?raw=true
-mobiusTag: options
+categories: 
+  - options
 ---
 ## What is it?
 

@@ -9,7 +9,8 @@ authors:
 tags:
   - culture
   - insight
-mobiusTag: options
+categories: 
+  - options
 icon: /images/cognitive-loadometer-thumb-opl.png
 whatIs: >-
   Cognitive Loadometer is a simple tool to measure the Cognitive Load of a team.

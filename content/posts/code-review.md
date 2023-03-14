@@ -7,7 +7,8 @@ authors:
   - mabulgu
 tags:
   - learn
-mobiusTag: delivery
+categories: 
+  - delivery
 icon: /images/code-review.png
 whatIs: >-
   Code Review is a software quality assurance activity that someone other than

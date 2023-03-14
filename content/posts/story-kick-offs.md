@@ -7,7 +7,8 @@ date: 2019-02-12T03:58:39.284Z
 authors:
   - kartiknarayanan
 tags: []
-mobiusTag: delivery
+categories: 
+  - delivery
 icon: /images/story-kickoff.jpeg
 whatIs: >-
   * A joint walkthrough/explanation of the story by the product owner with the

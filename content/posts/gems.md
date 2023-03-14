@@ -8,7 +8,8 @@ authors:
   - only-chrisbh
 tags:
   - methods
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/gems.jpeg
 whatIs: >-
   Created by Kathy Keating, GEMs (**G**oal **E**xperiments **M**easures) provide

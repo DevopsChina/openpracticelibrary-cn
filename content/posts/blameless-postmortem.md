@@ -7,7 +7,8 @@ authors:
   - jfilipcz
 tags:
   - learn
-mobiusTag: delivery
+categories: 
+  - delivery
 icon: /images/markus-winkler-afw1hht0nss-unsplash.jpg
 whatIs: >-
   Blameless Postmortem is a post-incident practice assessing an incident or

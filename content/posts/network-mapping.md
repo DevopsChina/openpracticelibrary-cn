@@ -68,7 +68,8 @@ mediaGallery:
 people: 4+
 perspectives: []
 difficulty: easy
-mobiusTag: foundation
+categories: 
+  - foundation
 ---
 ## What is it?
 

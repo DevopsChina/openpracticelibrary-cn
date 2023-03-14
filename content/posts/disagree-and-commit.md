@@ -9,7 +9,8 @@ authors:
 tags:
   - ideate
   - insight
-mobiusTag: options
+categories: 
+  - options
 icon: /images/img_5175.jpg
 whatIs: An approach to enable teams to transition from thinking to doing, whilst
   ensuring the team are committed to the execution.

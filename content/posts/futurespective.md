@@ -7,7 +7,8 @@ authors:
   - agrossi-21
 tags:
   - methods
-mobiusTag: discovery
+categories: 
+  - discovery
 icon: /images/silhouette-looking-to-the-future.jpg
 whatIs: >-
   Futurespective is the exercise to place ourselves in the future by imagining

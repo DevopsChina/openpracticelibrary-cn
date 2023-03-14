@@ -7,7 +7,8 @@ authors:
   - ckavili
 tags:
   - methods
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/sli.png
 whatIs: "Service Level Indicators, or SLIs, is about having meaningful
   measurements of your service in terms of your user's perspective. They are

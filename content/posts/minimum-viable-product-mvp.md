@@ -6,7 +6,8 @@ date: 2019-09-04T10:22:28.956Z
 authors:
   - DAppleyard93
 tags: []
-mobiusTag: options
+categories: 
+  - options
 icon: /images/mvp.jpg
 whatIs: >-
   Minimal Viable Product (MVP) refers the the minimum amount that can be

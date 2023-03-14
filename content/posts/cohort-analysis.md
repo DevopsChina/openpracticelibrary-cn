@@ -86,7 +86,8 @@ whyDo: >-
 perspectives:
   - product-ownership
 difficulty: moderate
-mobiusTag: delivery
+categories: 
+  - delivery
 ---
 ## What is it?
 

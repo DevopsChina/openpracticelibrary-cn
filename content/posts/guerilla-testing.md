@@ -7,7 +7,8 @@ authors:
   - dsunwar
 tags:
   - measure
-mobiusTag: delivery
+categories: 
+  - delivery
 icon: /images/screenshot-2021-03-23-at-15.56.00.png
 whatIs: >-
   > #### *“Have trouble getting actual customers for usability testing because

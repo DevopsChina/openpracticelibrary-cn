@@ -9,7 +9,8 @@ authors:
   - ilaria66
 tags:
   - culture
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/dor.jpg
 whatIs: >-
   * Criteria that is used to identify any work item as ready to be be taken by a

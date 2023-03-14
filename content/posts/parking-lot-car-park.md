@@ -9,7 +9,8 @@ authors:
   - mtakane
 tags:
   - culture
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/parking-lot-example2.png
 whatIs: A visible location in a room or virtual whiteboard that looks to capture
   any type of topic that is not important to discuss at the time, but deemed

@@ -7,7 +7,8 @@ authors:
   - msanecki
 tags:
   - culture
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/hello-world.png
 whatIs: >-
   A "Hello, World!" or "Time to Hello World" event generally is a peer-2-peer

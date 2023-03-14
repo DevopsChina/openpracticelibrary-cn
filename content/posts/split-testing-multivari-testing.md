@@ -108,7 +108,8 @@ resources:
   - link: 'https://openpracticelibrary.com/practice/design-of-experiments/'
     linkType: web
     description: Design Of Experiments
-mobiusTag: delivery
+categories: 
+  - delivery
 ---
 ## What is it?
 

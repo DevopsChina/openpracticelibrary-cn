@@ -8,7 +8,8 @@ authors:
   - springdo
 tags:
   - culture
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/fail-wall.jpg
 whatIs: >-
   We find it easy to celebrate and share our success stories.  Celebrating

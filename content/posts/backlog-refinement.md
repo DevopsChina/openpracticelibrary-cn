@@ -14,7 +14,8 @@ authors:
   - mvmaestri
   - cverna
 tags: []
-mobiusTag: options
+categories: 
+  - options
 icon: /images/final_backlog-refinement.png
 whatIs: >-
   * Having a conversation to provide clarity surrounding the detail or

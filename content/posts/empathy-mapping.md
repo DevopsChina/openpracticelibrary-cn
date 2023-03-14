@@ -135,7 +135,8 @@ resources:
       https://medium.com/@harrybr/how-to-run-an-empathy-user-journey-mapping-workshop-813f3737067
     linkType: web
     description: How to Run an Empathy & User Journey Mapping Workshop
-mobiusTag: discovery
+categories: 
+  - discovery
 ---
 ## What is it?
 

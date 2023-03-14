@@ -7,7 +7,8 @@ authors:
   - ckavili
 tags:
   - methods
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/telescope-icon-telescope-planet-stars-earth-space-icon-white-isolated_138676-552.jpeg
 whatIs: >-
   In [control theory](https://en.wikipedia.org/wiki/Control_theory),

@@ -28,7 +28,8 @@ mediaGallery:
   - link: >-
       https://openpracticelibrary.github.io/opl-media/images/abstract-art-artist-820673.jpg
 resources: null
-mobiusTag: foundation
+categories: 
+  - foundation
 ---
 ## What is it?
 

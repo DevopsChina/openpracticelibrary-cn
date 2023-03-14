@@ -109,7 +109,8 @@ perspectives:
   - product-ownership
 difficulty: moderate
 jumbotronAlt: Canary
-mobiusTag: delivery
+categories: 
+  - delivery
 ---
 ## What is it?
 

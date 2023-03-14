@@ -24,7 +24,8 @@ title: Container
 subtitle: "A software package that contains everything the software needs to run. "
 date: 2018-09-04T06:19:38.381Z
 tags: []
-mobiusTag: delivery
+categories: 
+  - delivery
 icon: /images/containers.jpg
 whatIs: >-
   A technical description of a Linux container is a sandboxed process or

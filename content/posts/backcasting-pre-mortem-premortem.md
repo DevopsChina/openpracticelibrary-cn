@@ -128,7 +128,8 @@ howTo: >-
 mediaGallery:
   - link: >-
       https://github.com/openpracticelibrary/opl-media/blob/master/images/Pre-Mortem.jpg?raw=true
-mobiusTag: discovery
+categories: 
+  - discovery
 ---
 ## What is it?
 

@@ -87,7 +87,8 @@ mediaGallery:
       https://github.com/openpracticelibrary/opl-media/blob/master/images/i-have-a-dream-open-innovation-labs.jpg?raw=true
   - link: >-
       https://openpracticelibrary.github.io/opl-media/images/i-have-a-dream-open-innovation-labs-wide.jpg
-mobiusTag: foundation
+categories: 
+  - foundation
 ---
 ## What is the "I Have a Dream" practice?
 

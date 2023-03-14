@@ -6,7 +6,8 @@ date: 2018-11-08T15:37:34.730Z
 authors:
   - valyonchev
 tags: []
-mobiusTag: options
+categories: 
+  - options
 icon: /images/doe-thumbnail.jpg
 whatIs: >-
   All our ideas about new products, new services, new feature, any changes we

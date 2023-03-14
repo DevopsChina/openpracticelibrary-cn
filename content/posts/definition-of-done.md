@@ -10,7 +10,8 @@ authors:
   - mvmaestri
 tags:
   - culture
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/dod.jpeg
 whatIs: >-
   * Criteria agreed across the team and shared with others that should be met

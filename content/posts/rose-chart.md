@@ -8,7 +8,8 @@ authors:
   - darcief
 tags:
   - culture
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/rose-chart-example.png
 whatIs: Rose Charts are visual artifacts to display personal competencies in key
   learning areas in order to highlight strengths and opportunities for

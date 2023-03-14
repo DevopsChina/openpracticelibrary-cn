@@ -7,7 +7,8 @@ authors:
   - ilaria66
   - jonathanjohnston
 tags: []
-mobiusTag: discovery
+categories: 
+  - discovery
 icon: /images/stakeholder-map-1.jpg
 whatIs: It is a practice that helps you to understand more about your customer,
   mapping stakeholders and agreeing ways of communicating with different

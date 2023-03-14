@@ -10,7 +10,8 @@ authors:
   - valyonchev
 tags:
   - value
-mobiusTag: discovery
+categories: 
+  - discovery
 icon: /images/impact-mapping.jpeg
 whatIs: >-
   Impact Mapping is an engaging, graphical, strategic planning technique. It was

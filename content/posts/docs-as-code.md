@@ -8,7 +8,8 @@ authors:
   - alecthegeek
 tags:
   - methods
-mobiusTag: delivery
+categories: 
+  - delivery
 icon: /images/treat-docs-like-code.png
 whatIs: >-
   Docs As Code (also known as “Docs Like Code”) is a popular approach to

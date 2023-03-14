@@ -8,7 +8,8 @@ authors:
   - kattekrab
 tags:
   - ideate
-mobiusTag: discovery
+categories: 
+  - discovery
 icon: /images/6dimensions.png
 whatIs: >-
   This is a facilitated information gathering activity designed to explore,

@@ -8,7 +8,8 @@ authors:
   - rileyi
 tags:
   - learn
-mobiusTag: delivery
+categories: 
+  - delivery
 icon: /images/design-retro-active.jpeg
 whatIs: This post-delivery practice is an opportunity to review the design
   journey of an engagement.  It is an open forum critique involving the

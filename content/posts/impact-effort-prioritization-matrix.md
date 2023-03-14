@@ -89,7 +89,8 @@ resources:
   - link: 'https://gamestorming.com/impact-effort-matrix-2/'
     linkType: web
     description: Impact & Effort Matrix on Gamestorming.com
-mobiusTag: options
+categories: 
+  - options
 ---
 ## What is it?
 

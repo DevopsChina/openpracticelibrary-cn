@@ -10,7 +10,8 @@ authors:
   - tdbeattie
 tags:
   - value
-mobiusTag: discovery
+categories: 
+  - discovery
 icon: /images/lean-value-tree-2.jpg
 whatIs: The Lean Value Tree (LVT) is a conceptual tool to facilitate, share, and
   drive a company's strategy and vision across all levels and teams of an

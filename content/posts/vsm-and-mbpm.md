@@ -12,7 +12,8 @@ authors:
   - eranderson921
 tags:
   - methods
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/vsm.jpg
 whatIs: >-
   Value Stream Mapping (VSM) is a third generation lean process improvement

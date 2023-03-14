@@ -7,7 +7,8 @@ authors:
   - manapio
 tags:
   - methods
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/pickplaypassicon.png
 whatIs: >-
   Pick-play-pass is a game used to cohesively organize divergent perspectives.

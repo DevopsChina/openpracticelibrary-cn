@@ -12,7 +12,8 @@ authors:
   - adamclark
 tags:
   - value
-mobiusTag: discovery
+categories: 
+  - discovery
 icon: /images/eventstormtile.jpeg
 whatIs: >-
   Event Storming is a rapid, interactive approach to business process discovery

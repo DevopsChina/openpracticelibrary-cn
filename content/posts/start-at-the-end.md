@@ -8,7 +8,8 @@ authors:
   - infosec812
   - mtakane
 tags: []
-mobiusTag: discovery
+categories: 
+  - discovery
 icon: /images/start-at-the-end-sutter-health.jpeg
 whatIs: >-
   Start At The End is a simple exercise to identify a set of assumptions which

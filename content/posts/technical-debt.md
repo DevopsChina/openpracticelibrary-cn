@@ -8,7 +8,8 @@ authors:
 tags:
   - value
   - methods
-mobiusTag: delivery
+categories: 
+  - delivery
 icon: /images/Tech debt Radar.jpg
 whatIs: >-
   Technical debt as a concept reflects the cost of rework caused by taking

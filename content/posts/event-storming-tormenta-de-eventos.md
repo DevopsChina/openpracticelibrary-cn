@@ -7,7 +7,8 @@ authors:
   - MaggiePerera
   - sdstolworthy
 tags: null
-mobiusTag: discovery
+categories: 
+  - discovery
 icon: /images/final_event-storming.png
 whatIs: >-
   El Event Storming es una manera rápida e interactiva de descubrir procesos de

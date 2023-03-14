@@ -7,7 +7,8 @@ authors:
   - kattekrab
 tags:
   - insight
-mobiusTag: options
+categories: 
+  - options
 icon: /images/actionsteps-miro-template.png
 whatIs: >-
   Commitment to action

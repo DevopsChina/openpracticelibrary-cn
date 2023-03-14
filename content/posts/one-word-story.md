@@ -8,7 +8,8 @@ authors:
   - skraft-redhat
 tags:
   - culture
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/tell-a-story.webp
 whatIs: >-
   This is a common practice that is used for improvisation theatre. It is an

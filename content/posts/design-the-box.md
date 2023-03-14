@@ -63,7 +63,8 @@ howTo: >-
 mediaGallery:
   - link: >-
       https://github.com/openpracticelibrary/opl-media/blob/master/images/design-the-box-300x195-1.jpg?raw=true
-mobiusTag: discovery
+categories: 
+  - discovery
 ---
 ## What is it?
 

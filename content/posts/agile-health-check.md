@@ -8,7 +8,8 @@ authors:
 tags:
   - measure
   - learn
-mobiusTag: delivery
+categories: 
+  - delivery
 icon: /images/health-check-sliders.jpg
 whatIs: A team evaluation of how to get better based on agile principles.
 whyDo: >-

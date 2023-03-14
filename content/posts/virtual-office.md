@@ -7,7 +7,8 @@ authors:
   - j-sutter
 tags:
   - culture
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/virtual-office_cover.jpg
 whatIs: >-
   Building a Virtual Office when working remotely is a blend of introduction

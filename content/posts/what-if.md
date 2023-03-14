@@ -7,7 +7,8 @@ authors:
   - heyjerrybecker
 tags:
   - ideate
-mobiusTag: options
+categories: 
+  - options
 icon: /images/what-if-template.png
 whatIs: The "What If..." practice is a team activity that seeks to identify the
   current "rules" or "norms" surrounding a particular challenge, then eliminate

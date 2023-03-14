@@ -107,7 +107,8 @@ resources:
   - link: 'https://openpracticelibrary.com/practice/cohort-analysis/'
     linkType: web
     description: Cohort Analysis
-mobiusTag: delivery
+categories: 
+  - delivery
 ---
 ## What is it?
 

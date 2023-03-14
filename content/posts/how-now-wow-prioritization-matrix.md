@@ -7,7 +7,8 @@ authors:
   - valyonchev
   - kattekrab
 tags: []
-mobiusTag: options
+categories: 
+  - options
 icon: /images/how-now-wow.jpg
 whatIs: >-
   How-Now-Wow is a prioritisation matrix / idea selection tool, which is often

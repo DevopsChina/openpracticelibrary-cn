@@ -7,7 +7,8 @@ authors:
   - ckavili
 tags:
   - methods
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/screenshot-2021-04-21-at-01.01.49.png
 whatIs: >-
   GitOps is a pattern to manage the flow of work from development to production

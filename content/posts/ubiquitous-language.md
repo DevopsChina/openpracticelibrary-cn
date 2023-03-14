@@ -1,6 +1,6 @@
 ---
 templateKey: practice-page
-title: Ubiquitous Language
+title: Ubiquitous Language 语言
 subtitle: Unambigulously define the term and concepts of a business domain.
 date: 2023-01-10T09:22:39.364Z
 authors:
@@ -8,10 +8,13 @@ authors:
 tags:
   - culture
   - learn
-mobiusTag: foundation
-icon: /images/ubiquitous_language_galaxy_stable_difussion.jpeg
+categories: 
+  - foundation
+resources:
+  - name: featured-image
+    src: images/ubiquitous_language_galaxy_stable_difussion.jpeg
 ---
-
+中文
 ## whatIs
   U﻿biquitous Language is a practice of building up a canonical, rigorous and
   unambigous language between everyone involved in the software development
@@ -52,6 +55,8 @@ icon: /images/ubiquitous_language_galaxy_stable_difussion.jpeg
   reading & reviewing by everyone involved in the development process, not only
   the developers. A git repository where changes can be tracked and suggested
   could be an ideal place for it.
+
+![](/images/ubiquitous_language_galaxy_stable_difussion.jpeg)
 
 
   D﻿on't be afraid of drawing rather than writting. There might be concepts that are better explained in a diagram than in plain words.

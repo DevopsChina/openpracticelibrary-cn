@@ -37,7 +37,8 @@ mediaGallery:
   - link: >-
       https://openpracticelibrary.github.io/opl-media/images/post-it-notes-1284667_1920.jpg
 resources: null
-mobiusTag: foundation
+categories: 
+  - foundation
 ---
 ## What is it?
 

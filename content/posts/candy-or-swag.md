@@ -8,7 +8,8 @@ authors:
   - jameshbarton
 tags:
   - culture
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/candy-or-swag.png
 whatIs: The "Candy or Swag?" practice uses a game environment to reinforce
   critical [open organization values like collaboration and

@@ -5,7 +5,8 @@ subtitle: Review business strengths, weaknesses, opportunities, and threats.
 date: 2022-11-09T12:59:07.159Z
 authors:
   - InfoSec812
-mobiusTag: options
+categories: 
+  - options
 icon: /images/swot_wikimedia.png
 whatIs: >-
   SWOT analysis (or SWOT matrix) is a strategic planning and strategic

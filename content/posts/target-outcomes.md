@@ -8,7 +8,8 @@ authors:
   - jonathanjohnston
 tags:
   - value
-mobiusTag: discovery
+categories: 
+  - discovery
 icon: /images/final_target-outcomes.png
 whatIs: >-
   * A tool to capture and articulate the goals and outcomes a team are striving

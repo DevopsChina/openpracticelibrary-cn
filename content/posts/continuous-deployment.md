@@ -8,7 +8,8 @@ authors:
   - Zenigata
 tags:
   - methods
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/continuous-deployment.png
 whatIs: With Continuous Deployment (CD), the development team maintains software
   so that it can be released to production at any moment, specifically on

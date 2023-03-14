@@ -8,7 +8,8 @@ authors:
   - Zenigata
 tags:
   - culture
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/realtime-retro-prep.jpg
 whatIs: >-
   The Realtime Retrospective technique was created by Emily Webber. This is a

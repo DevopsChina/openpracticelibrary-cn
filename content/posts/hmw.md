@@ -7,7 +7,8 @@ authors:
   - valyonchev
 tags:
   - ideate
-mobiusTag: discovery
+categories: 
+  - discovery
 icon: /images/hmw.jpg
 whatIs: >-
   HMW, short for “How Might We …?”, is an analytical technique relying on

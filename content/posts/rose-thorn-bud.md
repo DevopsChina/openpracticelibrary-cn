@@ -8,7 +8,8 @@ authors:
 tags:
   - insight
   - measure
-mobiusTag: delivery
+categories: 
+  - delivery
 icon: /images/rose-thorn-bud.png
 whatIs: >-
   Rose, Thorn, Bud (RTB) is a team practice born in the Design Thinking

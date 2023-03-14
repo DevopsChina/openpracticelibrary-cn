@@ -7,7 +7,8 @@ authors:
   - ladynerd
 tags:
   - learn
-mobiusTag: delivery
+categories: 
+  - delivery
 icon: /images/glenn-carstens-peters-rlw-uc03gwc-unsplash.jpg
 whatIs: >-
   This Security Checklist from the team at [SafeStack.io](https://safestack.io)

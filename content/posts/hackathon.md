@@ -7,7 +7,8 @@ authors:
   - nick-woods
   - marthachittendenmilton
 tags: null
-mobiusTag: discovery
+categories: 
+  - discovery
 icon: /images/problem-3303396_1920.png
 whatIs: >-
   A hackathon is an event where teams get together for a short period of time to

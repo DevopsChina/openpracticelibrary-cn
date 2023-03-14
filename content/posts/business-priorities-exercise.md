@@ -8,7 +8,8 @@ authors:
   - j-sutter
 tags:
   - validate
-mobiusTag: discovery
+categories: 
+  - discovery
 icon: /images/img_0713-3.jpg
 whatIs: The Business Priorities Exercise is a collaborative approach to getting
   stakeholders to agree on 10,000ft what the top priorities are to drive

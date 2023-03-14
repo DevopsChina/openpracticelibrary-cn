@@ -8,7 +8,8 @@ authors:
   - JordiOlive
 tags:
   - ideate
-mobiusTag: discovery
+categories: 
+  - discovery
 icon: /images/service_design_blueprint.png
 whatIs: >-
   > “In 1982, the term “[Service

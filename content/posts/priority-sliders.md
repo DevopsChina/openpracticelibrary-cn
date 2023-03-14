@@ -53,7 +53,8 @@ participants:
   - Stakeholders
 area: discovery-loop-outcomes
 date: 2018-09-09T11:25:30.606Z
-mobiusTag: discovery
+categories: 
+  - discovery
 whatIs: >-
   * A tool that facilitates conversations about relative priorities and focuses
   upcoming activities.

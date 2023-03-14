@@ -87,7 +87,8 @@ participants:
 jumbotron: /images/mbpm-delta-air4-cluster-vm-provisioning.png
 area: discovery-loop-why
 date: 2020-08-03T18:28:36.558Z
-mobiusTag: discovery
+categories: 
+  - discovery
 whatIs: >-
   
 

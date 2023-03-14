@@ -160,7 +160,8 @@ whyDo: |-
 perspectives:
   - product-ownership
 difficulty: moderate
-mobiusTag: discovery
+categories: 
+  - discovery
 ---
 ## What is it?
 

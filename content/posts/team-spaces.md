@@ -426,7 +426,8 @@ mediaGallery:
       https://github.com/openpracticelibrary/opl-media/blob/master/images/Team%20Workspaces%203.jpg?raw=true
   - link: >-
       https://github.com/openpracticelibrary/opl-media/blob/master/images/Team%20Workspaces%201.png?raw=true
-mobiusTag: foundation
+categories: 
+  - foundation
 ---
 # What is it?
 

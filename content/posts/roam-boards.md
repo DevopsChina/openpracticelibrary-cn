@@ -8,7 +8,8 @@ authors:
   - mattnapro
 tags:
   - methods
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/arboretum.jpg
 whatIs: >-
   ROAM Boards are a simple visualization for categorizing project or program

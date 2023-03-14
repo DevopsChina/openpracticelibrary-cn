@@ -28,7 +28,7 @@ theme = "FixIt"
     pre = ""
     # you can add extra information after the name (HTML format is supported), such as icons
     post = ""
-    name = "Practices"
+    name = "实践"
     url = "/posts/"
     # title will be shown when you hover on this menu link
     title = ""
@@ -47,7 +47,7 @@ theme = "FixIt"
     identifier = "categories"
     pre = ""
     post = ""
-    name = "Categories"
+    name = "类型"
     url = "/categories/"
     title = ""
     weight = 1
@@ -57,7 +57,7 @@ theme = "FixIt"
     identifier = "tags"
     pre = ""
     post = ""
-    name = "Tags"
+    name = "标签"
     url = "/tags/"
     title = ""
     weight = 3
@@ -73,9 +73,9 @@ theme = "FixIt"
   # FixIt 0.2.15 | CHANGED FixIt theme version
   version = "0.2.X" # e.g. "0.2.X", "0.2.15", "v0.2.15" etc.
   # site description
-  description = ""
+  description = "开放实践库~中国DevOps社区协作项目"
   # site keywords
-  keywords = ["Hugo", "FixIt"]
+  keywords = ["DevOps", "实践"]
   # site default theme ["light", "dark", "auto"]
   defaultTheme = "light"
   # public git repo url only then enableGitInfo is true

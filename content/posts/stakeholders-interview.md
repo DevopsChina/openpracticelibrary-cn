@@ -8,7 +8,8 @@ authors:
   - angelsdimitri
   - JordiOlive
 tags: []
-mobiusTag: discovery
+categories: 
+  - discovery
 icon: /images/screenshot-2021-02-05-at-16.11.47.png
 whatIs: >-
   * One on one conversation to help better understand what stakeholders want and

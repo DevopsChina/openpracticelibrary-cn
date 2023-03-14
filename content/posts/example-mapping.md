@@ -72,7 +72,8 @@ resources:
   - link: 'https://xebia.com/blog/example-mapping-steering-the-conversation/'
     linkType: web
     description: Steering the Conversation with Example Mapping
-mobiusTag: options
+categories: 
+  - options
 ---
 ## What is it?
 

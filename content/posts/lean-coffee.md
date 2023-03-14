@@ -7,7 +7,8 @@ authors:
   - prakritiverma
 tags:
   - culture
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/lean-coffee-2.jpg
 whatIs: >-
   * Lean Coffee started in Seattle in 2009 by Jim Benson and Jeremy Lightsmith

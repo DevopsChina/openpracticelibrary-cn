@@ -167,7 +167,8 @@ resources:
   - link: 'https://openpracticelibrary.com/practice/blue-green-deployments/'
     linkType: web
     description: Blue Green Deployments
-mobiusTag: foundation
+categories: 
+  - foundation
 ---
 ## What is it?
 

@@ -7,7 +7,8 @@ authors:
   - tom-geraghty
 tags:
   - methods
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/person-pencil.jpeg
 whatIs: >-
   Originally created by Yvon Chouinard, founder of the clothing brand Patagonia,

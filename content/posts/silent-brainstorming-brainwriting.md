@@ -8,7 +8,8 @@ authors:
 tags:
   - validate
   - value
-mobiusTag: discovery
+categories: 
+  - discovery
 icon: /images/silentbrainwriting-openpracticelibrary.jpg
 whatIs: It is a quick way to generate a lot of diverse ideas whilst minimising
   bias introduced by others verbalising their suggestions before everybody has a

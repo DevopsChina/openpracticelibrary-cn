@@ -45,7 +45,8 @@ subtitle: Visualisation of work left to do within a specified time period
 date: 2018-04-07T22:33:55.000Z
 tags:
   - culture
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/final_burndown.png
 whatIs: >-
   A burndown chart is a visualisation of work left to do within a specified time

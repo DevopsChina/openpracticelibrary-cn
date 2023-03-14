@@ -5,7 +5,8 @@ subtitle: Layering security controls through your application
 date: 2022-02-07T02:11:01.053Z
 authors:
   - attacus
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/julia-joppien-g51k-d_klte-unsplash.jpg
 whatIs: >-
   Defence/defense(**\***) in depth (sometimes referred to as "layered security")

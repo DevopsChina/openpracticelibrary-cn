@@ -5,7 +5,8 @@ subtitle: "Keep risks in view for effective monitoring and control "
 date: 2022-01-14T21:16:23.177Z
 authors:
   - daveesra
-mobiusTag: delivery
+categories: 
+  - delivery
 icon: /images/istockphoto-1330287885-612x612.jpg
 whatIs: This practice ensures the team continues to update their risk log,
   analysis, and strategies as the project progresses and the environment

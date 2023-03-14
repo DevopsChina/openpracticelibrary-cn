@@ -8,7 +8,8 @@ authors:
   - Zenigata
 tags:
   - methods
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/test_tube_truck.jpg
 whatIs: Test Driven Development (TDD) is a software development process that
   relies on the repetition of a very short development cycle. Requirements are

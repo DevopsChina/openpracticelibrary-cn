@@ -6,7 +6,8 @@ date: 2019-05-02T07:12:57.079Z
 authors:
   - kattekrab
 tags: []
-mobiusTag: delivery
+categories: 
+  - delivery
 icon: /images/plus-minus-interesting.png
 whatIs: PMI is a quick and easy way to get people thinking for a
   retrospective.  It can also be used at the end of the day as a team checkin

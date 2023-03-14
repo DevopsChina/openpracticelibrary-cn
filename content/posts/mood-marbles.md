@@ -8,7 +8,8 @@ authors:
   - mtakane
 tags:
   - culture
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/mood-marbles.jpeg
 whatIs: >-
   Mood Marbles is a team culture practice that allows each person within a group

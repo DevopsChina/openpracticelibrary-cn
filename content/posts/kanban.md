@@ -6,7 +6,8 @@ subtitle: Visualized workflow management method to maximize efficiency and
 date: 2020-09-15T12:02:15.251Z
 authors:
   - rmarting
-mobiusTag: delivery
+categories: 
+  - delivery
 icon: /images/kanban-board.png
 whatIs: >-
   Kanban is a framework used to implement agile software development based in

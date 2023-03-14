@@ -8,7 +8,8 @@ authors:
   - heyjerrybecker
 tags:
   - value
-mobiusTag: discovery
+categories: 
+  - discovery
 icon: /images/alternative-worlds.png
 whatIs: >-
   The LUMA Institute best summarizes the ‘what’ of this valuable brainstorming

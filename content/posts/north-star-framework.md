@@ -8,7 +8,8 @@ authors:
   - valyonchev
 tags:
   - validate
-mobiusTag: discovery
+categories: 
+  - discovery
 icon: /images/northstar-dcp8.2.png
 whatIs: >-
   Creating a shared purpose for a product can be achieved by setting a North

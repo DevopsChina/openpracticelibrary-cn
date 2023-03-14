@@ -8,7 +8,8 @@ authors:
 tags:
   - ideate
   - insight
-mobiusTag: options
+categories: 
+  - options
 icon: /images/potatoes-1585060_1920.jpg
 whatIs: It's a way to encourage greater diversity of ideas and increase the
   psychological safety necessary for disagreement to occur productively within

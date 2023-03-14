@@ -8,7 +8,8 @@ authors:
   - makentenza
 tags:
   - methods
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/everything-as-code.jpeg
 whatIs: >-
   Everything as Code is the practice of treating all parts of the system as

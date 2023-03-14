@@ -116,7 +116,8 @@ resources:
   - link: 'https://gamestorming.com/force-field-analysis/'
     linkType: web
     description: Force Field Analysis from Gamestorming.com
-mobiusTag: foundation
+categories: 
+  - foundation
 ---
 ## What is it?
 

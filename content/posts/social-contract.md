@@ -13,7 +13,8 @@ authors:
   - kattekrab
 tags:
   - culture
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/social-contract.jpg
 whatIs: >-
   The Social Contract is a simple and effective way to enable team autonomy and

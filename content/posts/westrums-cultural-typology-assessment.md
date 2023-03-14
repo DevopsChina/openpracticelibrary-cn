@@ -7,7 +7,8 @@ date: 2021-06-11T09:50:37.924Z
 authors:
   - tom-geraghty
 tags: null
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/meghan-lamle-rupbbdebcfs-unsplash.jpg
 whatIs: >-
   We talk a lot about organisational culture, team cultures, and "good" or "bad"

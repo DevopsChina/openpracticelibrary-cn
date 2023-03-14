@@ -8,7 +8,8 @@ authors:
   - jameshbarton
   - rmarting
 tags: []
-mobiusTag: delivery
+categories: 
+  - delivery
 icon: /images/contract-first-api-development.png
 whatIs: >-
   Contract-First Development is about making your intent clear across team

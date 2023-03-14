@@ -9,7 +9,8 @@ authors:
   - shabshah
 tags:
   - culture
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/40453-5-grow-free-transparent-image-hq.jpeg
 whatIs: >-
   As per International Coach Federation (ICF)  (Professional) coaching is an

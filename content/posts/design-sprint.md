@@ -9,7 +9,8 @@ authors:
   - sandraarps
 tags:
   - ideate
-mobiusTag: options
+categories: 
+  - options
 icon: /images/screenshot-from-2018-12-20-08-55-34.png
 whatIs: >-
   It is a 5 day customer-centric process for rapidly solving a key challenge,

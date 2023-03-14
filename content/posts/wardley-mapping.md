@@ -9,7 +9,8 @@ tags:
   - value
   - insight
   - learn
-mobiusTag: discovery
+categories: 
+  - discovery
 icon: /images/wardleymap.jpg
 whatIs: >-
   Wardley Mapping is a framework of practices, invented by [Simon

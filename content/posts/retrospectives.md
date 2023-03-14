@@ -12,7 +12,8 @@ authors:
   - ilaria66
   - mvmaestri
 tags: []
-mobiusTag: delivery
+categories: 
+  - delivery
 icon: /images/heroes-journey-retro.png
 whatIs: >-
   Retrospectives provide opportunities for groups to reflect, inspect and adapt

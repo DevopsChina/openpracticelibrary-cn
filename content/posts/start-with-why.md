@@ -210,7 +210,8 @@ people: 1+
 perspectives: []
 difficulty: moderate
 jumbotronAlt: Start With Why
-mobiusTag: discovery
+categories: 
+  - discovery
 ---
 ## What is it?
 

@@ -8,7 +8,8 @@ authors:
   - skriesch
 tags:
   - insight
-mobiusTag: options
+categories: 
+  - options
 icon: /images/kanban-board.png
 whatIs: >
   The team can be really diverse and you can have also introverted people.

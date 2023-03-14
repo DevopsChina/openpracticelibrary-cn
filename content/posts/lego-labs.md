@@ -11,7 +11,8 @@ tags:
   - methods
   - culture
   - learn
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/productcon_legolabs_010.png
 whatIs: Legos inspire creativity and nostalgia, they also offer a great building
   block for experimentation (no pun intended 😜 ). This workshop is for large or

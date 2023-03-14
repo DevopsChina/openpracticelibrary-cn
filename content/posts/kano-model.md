@@ -7,7 +7,8 @@ authors:
   - valyonchev
 tags:
   - validate
-mobiusTag: discovery
+categories: 
+  - discovery
 icon: /images/kano.jpg
 whatIs: >-
   The Kano model is derived from the work of professor Noriaki Kano on product

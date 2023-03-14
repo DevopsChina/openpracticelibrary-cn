@@ -8,7 +8,8 @@ authors:
   - shabshah
 tags:
   - culture
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/pic-students-working-on-project.jpg
 whatIs: >-
   Open leadership is a blend of mindsets, behaviors, and practices that enable

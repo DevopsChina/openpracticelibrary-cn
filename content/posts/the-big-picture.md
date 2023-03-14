@@ -6,7 +6,8 @@ date: 2020-08-02T12:04:58.410Z
 authors:
   - springdo
   - joishika
-mobiusTag: discovery
+categories: 
+  - discovery
 icon: /images/big-pic.png
 whatIs: An Open Tech practice that costs little to produce but is great in
   creating a shared understanding of part of a system is the Big Picture

@@ -165,7 +165,8 @@ mediaGallery:
   - link: 'https://openpracticelibrary.github.io/opl-media/images/aeiou_worksheet.jpg'
   - link: 'https://youtu.be/Uvvd6pcNX84'
   - link: 'https://i.ytimg.com/vi/Uvvd6pcNX84/maxresdefault.jpg'
-mobiusTag: discovery
+categories: 
+  - discovery
 ---
 ## What is the AEIOU Observation Framework about?
 

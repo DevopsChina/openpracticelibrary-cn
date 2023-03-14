@@ -7,7 +7,8 @@ authors:
   - kattekrab
 tags:
   - culture
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/t2r2.jpg
 whatIs: T2R2 is an online meeting method that encourages people to participate
   and respond in real time.

@@ -8,7 +8,8 @@ authors:
   - jemjem
 tags:
   - culture
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/checkinclock-openpracticelibrary-kattekrab.png
 whatIs: >-
   Start each session or gathering by inviting everyone to speak in turn,

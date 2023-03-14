@@ -8,7 +8,8 @@ authors:
   - keithdm
 tags:
   - validate
-mobiusTag: discovery
+categories: 
+  - discovery
 icon: /images/chase-the-state.jpg
 whatIs: Often when developing software, teams lose sight of the big picture, and
   don’t truly understand where they are. This fast, structured  assessment

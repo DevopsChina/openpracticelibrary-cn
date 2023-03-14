@@ -8,7 +8,8 @@ authors:
   - Zenigata
 tags:
   - measure
-mobiusTag: delivery
+categories: 
+  - delivery
 icon: /images/auto-scaling-1.png
 whatIs: >-
   Autoscaling is a method of changing amount of computing resources based on the

@@ -7,7 +7,8 @@ authors:
   - dsunwar
   - sdstolworthy
 tags: []
-mobiusTag: discovery
+categories: 
+  - discovery
 icon: /images/persona1.png
 whatIs: >-
   A proto-persona is a description of the target users and audience of a product

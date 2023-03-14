@@ -67,7 +67,8 @@ whyDo: >-
   the attendees are contributing in a positive manner.
 perspectives: []
 difficulty: easy
-mobiusTag: foundation
+categories: 
+  - foundation
 ---
 ## What is it?
 

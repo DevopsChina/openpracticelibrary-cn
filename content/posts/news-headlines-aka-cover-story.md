@@ -110,7 +110,8 @@ whyDo: >-
 perspectives:
   - product-ownership
 difficulty: easy
-mobiusTag: discovery
+categories: 
+  - discovery
 ---
 ## What is it?
 

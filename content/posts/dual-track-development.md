@@ -9,7 +9,8 @@ authors:
 tags:
   - culture
   - methods
-mobiusTag: delivery
+categories: 
+  - delivery
 icon: /images/img_1863.jpg
 whatIs: Dual Track agile is a way to incorporate user experience designers into
   agile delivery teams to support cross team collaboration, align design and

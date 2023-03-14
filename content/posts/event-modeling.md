@@ -50,7 +50,8 @@ resources:
   - link: 'https://eventmodeling.org/posts/what-is-event-modeling/'
     linkType: web
     description: 'https://eventmodeling.org/posts/what-is-event-modeling/'
-mobiusTag: discovery
+categories: 
+  - discovery
 ---
 This practice is related to: [Domain Driven Design](https://openpracticelibrary.com/perspective/domain-driven-design/).
 

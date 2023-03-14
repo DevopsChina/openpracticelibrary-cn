@@ -7,7 +7,8 @@ authors:
   - heyjerrybecker
 tags:
   - ideate
-mobiusTag: discovery
+categories: 
+  - discovery
 icon: /images/opp-solution-tree.jpg
 whatIs: >-
   An Opportunity Solution Tree is a visual aid that can help you find the best

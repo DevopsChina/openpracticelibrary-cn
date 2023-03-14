@@ -8,7 +8,8 @@ authors:
   - judyobrienie
 tags:
   - value
-mobiusTag: discovery
+categories: 
+  - discovery
 icon: /images/data-flow-diagram-elements.png
 whatIs: >-
   Formally, threat modeling is a process by which potential threats are

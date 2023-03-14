@@ -32,7 +32,8 @@ subtitle: Shortening the feedback loop and increasing the quality of code.
 date: 2021-04-13T00:30:23.187Z
 tags:
   - methods
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/final_test-automation.png
 whatIs: >-
   Test automation allows teams to remove the slow and manual testing cycles

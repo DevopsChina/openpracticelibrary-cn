@@ -9,7 +9,8 @@ authors:
   - rdebeasi
 tags:
   - insight
-mobiusTag: options
+categories: 
+  - options
 icon: /images/final_value-slicing.png
 whatIs: >-
   User Story Mapping is an evolution of the traditional Agile backlog, made

@@ -9,7 +9,8 @@ tags:
   - value
   - learn
   - insight
-mobiusTag: delivery
+categories: 
+  - delivery
 icon: /images/lightning-talks.png
 whatIs: >-
   Lightning talks are short, highly focused and effective presentations.  When

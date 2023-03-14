@@ -8,7 +8,8 @@ authors:
   - haithamshahin333
 tags:
   - culture
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/steps.jpg
 whatIs: This norming and forming practice is run as teams form or embark upon
   new directions because it is important that they understand their reason for

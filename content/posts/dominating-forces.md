@@ -7,7 +7,8 @@ date: 2021-09-03T23:47:16.126Z
 authors:
   - aspanner
 tags: null
-mobiusTag: discovery
+categories: 
+  - discovery
 icon: /images/dominatingforces.png
 whatIs: >-
   This is a facilitated practice that communicates or validates existing or

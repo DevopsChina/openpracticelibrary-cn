@@ -7,7 +7,8 @@ authors:
   - rhdojun
 tags:
   - culture
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/pullstuckcar.jpg
 whatIs: Direct the focus of optimization on work items, e.g. tasks, problems,
   process steps, instead of the people. That means metrics also need to focus on

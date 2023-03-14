@@ -13,7 +13,8 @@ authors:
   - mvmaestri
 tags:
   - methods
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/final_relative-sizing.png
 whatIs: >-
   * A mechanism for sizing different items relative to each other.

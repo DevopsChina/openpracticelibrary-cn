@@ -6,7 +6,8 @@ subtitle: Mutation testing is used to design new software tests and evaluate the
 date: 2022-07-25T12:46:12.353Z
 authors:
   - sebw
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/mutation-testing.png
 whatIs: >-
   Mutation testing involves modifying a program in small ways.

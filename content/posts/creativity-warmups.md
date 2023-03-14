@@ -8,7 +8,8 @@ authors:
   - heyjerrybecker
 tags:
   - ideate
-mobiusTag: options
+categories: 
+  - options
 icon: /images/creativity-warmups.png
 whatIs: Creativity Warmups are a set of quick, creative thinking activities that
   act as a mental warmup to stretch the group's creative thinking.

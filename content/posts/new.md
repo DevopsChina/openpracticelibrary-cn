@@ -8,7 +8,8 @@ authors:
 tags:
   - culture
   - measure
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/stagedive.jpg
 whatIs: >-
   **Psychological safety is the most important factor in high performing

@@ -8,7 +8,8 @@ authors:
   - MaggiePerera
 tags:
   - culture
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/meditation.jpg
 whatIs: This practice consists of a meditation of 10 minutes based, on the Metta
   Bhavana Buddhist practice, that can help to develop an empathetic mindset

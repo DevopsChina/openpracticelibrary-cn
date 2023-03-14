@@ -89,7 +89,8 @@ mediaGallery:
   - link: 'https://youtu.be/63ck9AjH9O8'
   - link: >-
       https://github.com/openpracticelibrary/opl-media/blob/master/images/domain%20storytelling.png?raw=true
-mobiusTag: discovery
+categories: 
+  - discovery
 ---
 ## What is it?
 

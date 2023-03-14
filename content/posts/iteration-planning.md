@@ -12,7 +12,8 @@ authors:
   - noelo
   - mvmaestri
 tags: []
-mobiusTag: delivery
+categories: 
+  - delivery
 icon: /images/final_sprint-planning.png
 whatIs: >-
   * An event where a development team collaborates with the Product Owner to

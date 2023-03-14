@@ -8,7 +8,8 @@ authors:
   - david-beltz
 tags:
   - culture
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/jehyun-sung-486247-unsplash.jpg
 whatIs: This concept is based on the United States Marine Corps' practice of
   placing the needs of your Marines before you own. When a unit in the Marine

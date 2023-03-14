@@ -180,7 +180,8 @@ mediaGallery:
       https://openpracticelibrary.github.io/opl-media/images/visualisation-of-work.png
   - link: >-
       https://openpracticelibrary.github.io/opl-media/images/visualisation-of-work2.png
-mobiusTag: foundation
+categories: 
+  - foundation
 ---
 ## What is Visualisation of Work?
 

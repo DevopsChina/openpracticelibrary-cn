@@ -9,7 +9,8 @@ authors:
   - sandraarps
 tags:
   - culture
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/img_1606.jpg
 whatIs: To help the team identifying and evaluating risks (potential issues) and
   finding actions to avoid or minimise their impact on time, cost and or scope.

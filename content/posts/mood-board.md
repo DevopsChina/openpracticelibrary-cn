@@ -8,7 +8,8 @@ authors:
   - darcief
 tags:
   - ideate
-mobiusTag: options
+categories: 
+  - options
 icon: /images/mood-board.png
 whatIs: The Mood Board is a collaborative practice to take time to discover and
   share inspiration for product solutions, features, and/or design elements.

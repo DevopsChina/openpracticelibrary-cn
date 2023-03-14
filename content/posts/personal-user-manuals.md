@@ -6,7 +6,8 @@ date: 2021-08-05T13:05:58.124Z
 authors:
   - acammies
 tags: null
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/manual-3684460_1280.jpg
 whatIs: >-
   A personal user manual (PUM) is a document that allows you to explicitly

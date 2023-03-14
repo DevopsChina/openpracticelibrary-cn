@@ -36,7 +36,8 @@ subtitle: Submit small, frequent changes instead of large, infrequent changes
 date: 2018-08-10T12:22:43.000Z
 tags:
   - methods
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/continuous-integration-1.png
 whatIs: With Continuous Integration (CI), developers submit small, frequent
   changes instead of large, infrequent changes. When another developer accepts

@@ -63,7 +63,8 @@ resources:
       https://www.goodreads.com/book/show/40692351-changing-your-team-from-the-inside
     linkType: web
     description: Changing Your Team From The Inside
-mobiusTag: foundation
+categories: 
+  - foundation
 ---
 ## What is it?
 

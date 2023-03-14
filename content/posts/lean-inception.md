@@ -7,7 +7,8 @@ authors:
   - paulocaroli
   - fabiopereira
 tags: []
-mobiusTag: options
+categories: 
+  - options
 icon: /images/book-training-lean-inception.jpg
 whatIs: Lean inception is the effective combination of Design Thinking and Lean
   StartUp to decide the Minimum Viable Product (MVP). It is a collaborative

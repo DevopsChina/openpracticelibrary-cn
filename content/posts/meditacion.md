@@ -8,7 +8,8 @@ authors:
   - MaggiePerera
 tags:
   - culture
-mobiusTag: foundation
+categories: 
+  - foundation
 icon: /images/meditation.jpeg
 whatIs: Esta práctica consiste en una meditación de 10 minutos basada, en la
   práctica budista Metta Bhavana, que puede ayudar a desarrollar una mentalidad
