@@ -10,12 +10,12 @@ tags:
 categories: 
   - foundation
 type: posts
-description: Unambigulously define the term and concepts of a business domain.
+description: 明确定义业务领域的术语和概念，使其没有歧义。
 resources:
   - name: featured-image
     src: featured-image.png
 ---
-Unambigulously define the term and concepts of a business domain.
+明确定义业务领域的术语和概念，使其没有歧义。
 <!--more-->
 
 ## 什么是 Ubiquitous Language？
