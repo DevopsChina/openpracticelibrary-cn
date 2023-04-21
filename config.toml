@@ -14,7 +14,7 @@ languageCode = "zh-CN"
 theme = "FixIt"
 
 [permalinks]
-  posts = "practices/:title"
+  posts = "practice/:title"
 
 # -------------------------------------------------------------------------------------
 # Menu Configuration
