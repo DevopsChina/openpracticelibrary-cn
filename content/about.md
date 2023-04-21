@@ -2,6 +2,11 @@
 title: "简介"
 date: 2023-03-14T20:38:12+08:00
 draft: false
+resources:
+  - name: featured-image
+    src: featured-image.jpg
+  - name: featured-image-preview
+    src: featured-image-preview.jpg
 ---
 
 开放实践库是一个开源的、由社区驱动的最佳实践和工具的启发知识库。它帮助个人、团队和整个企业找出实现业务目标的最佳方法。
