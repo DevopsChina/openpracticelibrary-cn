@@ -88,7 +88,7 @@ theme = "FixIt"
   # site default theme ["light", "dark", "auto"]
   defaultTheme = "light"
   # public git repo url only then enableGitInfo is true
-  gitRepo = ""
+  gitRepo = "https://github.com/DevopsChina/openpracticelibrary-cn.git"
   # FixIt 0.1.1 | NEW which hash function used for SRI, when empty, no SRI is used
   # ["sha256", "sha384", "sha512", "md5"]
   fingerprint = ""
@@ -118,7 +118,7 @@ theme = "FixIt"
     tileColor = "#da532c"
     # FixIt 0.2.12 | CHANGED Android browser theme color
     [params.app.themeColor]
-      light = "#f8f8f8"
+      light = "#50F537"
       dark = "#252627"
 
   # FixIt 0.2.0 | NEW Search config
@@ -175,7 +175,7 @@ theme = "FixIt"
     # FixIt 0.2.12 | NEW Header subtitle config
     [params.header.subtitle]
       # subtitle name
-      name = ""
+      name = "中国DevOps社区"
       # whether to use typeit animation for subtitle name
       typeit = false
 
@@ -254,17 +254,17 @@ theme = "FixIt"
     rss = 10
     # Home page profile
     [params.home.profile]
-      enable = false
+      enable = true
       # Gravatar Email for preferred avatar in home page
       gravatarEmail = ""
       # URL of avatar shown in home page
-      avatarURL = ""
+      avatarURL = "/images/loop.png"
       # FixIt 0.2.17 | NEW identifier of avatar menu link
-      avatarMenu = ""
+      avatarMenu = "/categories/"
       # FixIt 0.2.7 | CHANGED title shown in home page (HTML format is supported)
-      title = ""
+      title = "DevOps开放最佳实践库"
       # subtitle shown in home page
-      subtitle = ""
+      subtitle = "开放实践库是一个开源的、由社区驱动的最佳实践和工具的启发知识库。"
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
@@ -279,7 +279,7 @@ theme = "FixIt"
 
   # FixIt 0.2.16 | CHANGED Social config about the author
   [params.social]
-    GitHub = ""
+    GitHub = "https://github.com/DevopsChina/openpracticelibrary-cn.git"
     Linkedin = ""
     Twitter = ""
     Instagram = ""
@@ -340,7 +340,7 @@ theme = "FixIt"
     Gitea = ""
     XMPP = ""
     Matrix = ""
-    Bilibili = ""
+    Bilibili = "https://space.bilibili.com/370989874"
     ORCID = ""
     Liberapay = ""
     Ko-Fi = ""
@@ -771,8 +771,8 @@ theme = "FixIt"
 
   # FixIt 0.2.14 | NEW GitHub banner in the top-right or top-left corner
   [params.githubCorner]
-    enable = false
-    permalink = "https://github.com/hugo-fixit/FixIt"
+    enable = true
+    permalink = "https://github.com/DevopsChina/openpracticelibrary-cn.git"
     title = "View source on GitHub"
     position = "right" # ["left", "right"]
 

@@ -14,9 +14,9 @@ type: posts
 description: 应该明确的定义业务领域中的术语和概念，从而消除沟通中的歧义。
 resources:
   - name: featured-image
-    src: featured-image.jpg
+    src: ubiquitous_language_galaxy_stable_difussion.jpeg
   - name: featured-image-preview
-    src: featured-image-preview.jpg
+    src: ubiquitous_language_galaxy_stable_difussion.jpeg
 ---
 应该明确的定义业务领域中的术语和概念，从而消除沟通中的歧义。
 <!--more-->
@@ -32,13 +32,13 @@ resources:
 - Stakeholders 利益干系人
 - Users 用户
 
-## 什么是普遍共识语言？
+## 定义
 
 普遍共识语言是一种最佳实践，旨在建立一个规范、严谨和明确的语言体系，让参与软件开发过程的每个人都使用相同的语言。通常是开发团队和用户之间的共同语言，但不限于此。产品所有者和其他利益干系人也应该采用它。
 
 它来自领域驱动设计世界。它最初来源于Eric Evans在他著作[《领域驱动设计：软件核心中的复杂性问题》](https://www.amazon.com/exec/obidos/ASIN/0321125215/domainlanguag-20)，该书发布于2003年。
 
-## 为什么要使用普遍共识语言？
+## 应用场景
 
 当业务领域非常复杂时，我们通常会发现：团队成员或用户对相同的概念有着不同的理解。
 
@@ -55,7 +55,7 @@ resources:
 - 消除开发过程中的歧义。
 - 在开发过程中建立所有参与者之间的共同语言，特别是开发人员和用户之间。
 
-## 如何使用普遍共识语言？
+## 如何操作
 
 普遍共识语言的输出应该是术语和概念，以及其定义的词汇表。理想情况下，该词汇表应该可供所有参与开发过程的人阅读和评审，而不仅仅是开发人员。使用一个Git代码存储管理术语表/词汇表可能是一个理想的选择，这样我们可以方便的跟踪变更和接受建议。
 
@@ -68,19 +68,22 @@ resources:
 3. 与开发团队、用户、PO产品所有者等各方进行确认。征求反馈意见。
 4. 迭代；)
 
-## 社区解读视频
+## 社区解读
 
 待更新。
 
-## 参考资源
+## 延伸资源
 
 - [《领域驱动设计：软件核心中的复杂性问题》文章](https://martinfowler.com/bliki/UbiquitousLanguage.html) 
 - [Eric Evans 的著作《Domain-Driven Design: Tackling Complexity in the Heart of Software》- 图书](https://www.amazon.com/exec/obidos/ASIN/0321125215/domainlanguag-20)
 - [How to develop an Ubiquitous Language - 文章](https://thedomaindrivendesign.io/developing-the-ubiquitous-language/)
 - [What is DDD - Eric Evans - DDD Europe 2019 - YouTube视频](https://www.youtube.com/watch?v=pMuiVlnGqjk&t=2978s)
 
-## 原文
+> 原文作者
 
-- <https://openpracticelibrary.com/practice/ubiquitous-language/>
+![](https://github.com/jtudelag.png)
+
 - 作者：Jorge Tudela
 - 发布日期：JANUARY 10, 2023
+
+> 原文链接 <https://openpracticelibrary.com/practice/ubiquitous-language/>
