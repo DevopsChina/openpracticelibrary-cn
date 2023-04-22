@@ -10,14 +10,14 @@ tags:
 categories: 
   - foundation
 type: posts
-description: 通过民主的方式形成讨论议程，为更有价值的对话创造条件
+description: 通过民主的方式形成讨论议程，为更有价值的对话创造条件。
 resources:
   - name: featured-image
     src: "lean-coffee-2.jpg"
   - name: featured-image-preview
     src: lean-coffee-2.jpg
 ---
-通过民主的方式形成讨论议程，为更有价值的对话创造条件
+通过民主的方式形成讨论议程，为更有价值的对话创造条件。
 <!--more-->
 
 ## 难度
@@ -31,7 +31,7 @@ resources:
 
 ## 定义
 
-精益咖啡（Lean Coffee）是由Jim Benson和Jeremy Lightsmith于2009年在西雅图发起的一种结构化但没有议程的会议。参与者聚集- 在一起，制定议程并开始讨论。它被故意设计为最少的结构，以- 确保会议连贯和高效。
+精益咖啡（Lean Coffee）是由Jim Benson和Jeremy Lightsmith于2009年在西雅图发起的一种结构化但没有议程的会议。参与者聚集在一起，制定议程并开始讨论。它被故意设计为最少的结构，以确保会议连贯和高效。
 
 ## 使用场景
 
@@ -72,24 +72,12 @@ resources:
 * [Original Lean Coffee](http://leancoffee.org/)
 * [Lean Coffee as a Retrospective](https://www.retrium.com/resources/techniques/lean-coffee)
 * [Lean Coffee Facilitator's Guide](https://medium.com/agile-outside-the-box/lean-coffee-facilitator-s-guide-d79d9f13d0a9) (Blog post)
-
-
-mediaGallery:
-
-- link: <https://github.com/openpracticelibrary/opl-media/blob/master/images/lean-coffee-2.jpg?raw=true>
+* link: <https://github.com/openpracticelibrary/opl-media/blob/master/images/lean-coffee-2.jpg?raw=true>
 resources:
-- link: <http://leancoffee.org/>
-    linkType: web
-    description: Original Lean Coffee
-- link: <https://www.retrium.com/resources/techniques/lean-coffee>
-    linkType: web
-    description: Lean Coffee as a Retrospective
-- link: <https://medium.com/agile-outside-the-box/lean-coffee-facilitator-s-guide-d79d9f13d0a9>
-    linkType: web
-    description: Lean Coffee Facilitator's Guide
-- linkType: podcast
-    link: <https://anchor.fm/openpracticelibrary/episodes/Lean-Coffee-w-Prakriti-Koller-e166qv9>
-    description: Lean Coffee episode on Open Practice Podcast
+* link: <http://leancoffee.org/>  Original Lean Coffee
+* link: <https://www.retrium.com/resources/techniques/lean-coffee>  Lean Coffee as a Retrospective
+* link: <https://medium.com/agile-outside-the-box/lean-coffee-facilitator-s-guide-d79d9f13d0a9> Lean Coffee Facilitator's Guide
+* podcast link: <https://anchor.fm/openpracticelibrary/episodes/Lean-Coffee-w-Prakriti-Koller-e166qv9>  Lean Coffee episode on Open Practice Podcast
 
 > 原文作者
 
