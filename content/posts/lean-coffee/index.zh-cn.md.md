@@ -13,9 +13,9 @@ type: posts
 description: 通过民主的方式形成讨论议程，为更有价值的对话创造条件。
 resources:
   - name: featured-image
-    src: "lean-coffee-2.jpg"
+    src: lean-coffee.jpg
   - name: featured-image-preview
-    src: lean-coffee-2.jpg
+    src: lean-coffee-sub.jpg
 ---
 通过民主的方式形成讨论议程，为更有价值的对话创造条件。
 <!--more-->
