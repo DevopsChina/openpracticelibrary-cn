@@ -78,7 +78,6 @@ resources:
 - Matt Takane等
 
 
-- PUBLISHED AUGUST 10, 2018
-
+- PUBLISHED AUGUST 10, 2018 
 
 > 原文链接： <https://openpracticelibrary.com/practice/daily-standup/>
