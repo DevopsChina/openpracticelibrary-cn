@@ -1,10 +1,11 @@
 ---
-templateKey: practice-page
 title: 每日站会
 type: posts
 date: 2023-04-28T12:21:10.000Z
-authors:
+author:
   name: 译者-车晓雪
+  link: https://openpracticelibrary.devopschina.org/
+  
 tags:
   - culture
 categories: 
@@ -69,6 +70,9 @@ resources:
 - [推进远程会议效率的小手段](https://openpracticelibrary.com/blog/facilitation-tips-for-remote-sessions/)
 - [走读看板 - 高效组织日站会的实践模式](https://www.youtube.com/watch?v=TOIccUxlqF0)
 
+{{< bilibili BV1Jk4y1j7UM >}}
+
+{{< bilibili BV1PP41117ZH >}}
 
 
 > 原文作者
