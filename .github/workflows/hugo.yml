@@ -57,7 +57,7 @@ jobs:
         run: |
           hugo \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
+            --baseURL "http://opl.stg.devopschina.org/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
