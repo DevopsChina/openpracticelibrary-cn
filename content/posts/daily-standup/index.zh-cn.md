@@ -3,7 +3,7 @@ title: 每日站会
 type: posts
 date: 2023-04-28T12:21:10.000Z
 author:
-  name: 译者-车晓雪
+  name: 译者-车晓雪 
   link: https://openpracticelibrary.devopschina.org/
   
 tags:
