@@ -266,7 +266,7 @@ theme = "FixIt"
       # subtitle shown in home page
       subtitle = "开放实践库是一个开源的、由社区驱动的最佳实践和工具的启发知识库。"
       # whether to use typeit animation for subtitle
-      typeit = true
+      typeit = false
       # whether to show social links
       social = true
       # FixIt 0.2.0 | NEW disclaimer (HTML format is supported)
