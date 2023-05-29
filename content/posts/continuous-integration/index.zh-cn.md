@@ -17,6 +17,7 @@ resources:
     src: continuous-integration.png
 ---
 持续集成，频繁地提交小的变更，而不是偶尔提交大的变更
+<!--more-->
 
 ## 难度
 
