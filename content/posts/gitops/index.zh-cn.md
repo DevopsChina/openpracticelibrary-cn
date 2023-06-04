@@ -13,9 +13,9 @@ categories:
 description: 习惯了用 Git？那就用 Git 来做所有的事情吧！
 resources:
   - name: featured-image
-    src: /images/gitops.png
+    src: gitops.png
   - name: featured-image-preview
-    src: /images/gitops.png
+    src: gitops-preview.png
 ---
 ## 定义
 
