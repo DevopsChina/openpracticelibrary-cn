@@ -48,7 +48,7 @@ jobs:
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
       - name: Update FixIt theme
-        run: git submodule update --remote --merge --allow-unrelated-histories
+        run: git submodule update --remote --merge --squash
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
