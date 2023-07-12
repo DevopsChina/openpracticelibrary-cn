@@ -1,5 +1,4 @@
 # 
-
 name: Hugo build and deploy
 on:
   push:
