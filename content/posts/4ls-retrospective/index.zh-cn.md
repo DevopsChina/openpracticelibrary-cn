@@ -1,169 +1,138 @@
 ---
-templateKey: practice-page
-title: 4Ls Retrospective
-subtitle: A team activity to understand what was liked, learned, lacked, and
-  longed for at the completion of a sprint or project.
-date: 2021-10-08T18:50:13.721Z
-authors:
-  - scheurich
+title: 4Ls回顾
+subtitle: 一个团队活动，用于在完成一个冲刺或项目后了解喜欢、学到的、缺少的和渴望的方面。
+date: 2023-08-22T08:48:41+08:00
+author:
+  name: 译者-刘征
+  link: https://martinliu.cn
+  email:
+  avatar:
+description: 一个团队活动，用于在完成一个冲刺或项目后了解喜欢、学到的、缺少的和渴望的方面。
+keywords:
+license:
+comment: false
+weight: 0
 tags:
   - measure
-categories: 
+categories:
   - delivery
-icon: /images/dd8b1513-5617-49c4-b80f-f26b00691124.jpeg
-whatIs: >-
-  What is the 4Ls Retrospective?
-
-
-  The 4 Ls retrospective is a team activity upon completion of a sprint or project designed to understand what worked, what didn’t, and what can be improved. The 4Ls stand for liked, learned, lacked, and longed for.
-whyDo: After a sprint/project, it can be helpful for the team to pause and take
-  stock of what happened. The 4Ls retrospective is a useful tool that empowers
-  the team to highlight the positive elements of a sprint/project and understand
-  the negative, allowing them to think from a factual rather than emotional
-  perspective.
-howTo: >-
-  At the end of each sprint/project, the team will provide input on what they
-  liked, learned, lacked and longed for across key workstreams.
-
-
-  The targeted outcome will be a prioritized list of actionable improvements with assigned owners on focus areas designed to build trust, improve efficiency, and increase engagement as we plan for the next sprint.
-
-
-  ### Sample Agenda
-
-
-  * Introduction
-
-    * Kickoff 4Ls definition, workshop logistics, target outcomes
-  * Collection
-
-    * Time boxed activity for participants to document in a digital collaboration tool (i.e. Miro) what was liked, learned, lacked and longed for in the last sprint/project phase
-  * Categorization
-
-    * Summarize & group lessons into themes
-  * Prioritization
-
-    * Time boxed activity for participants to vote on top lessons to action
-  * Next Steps
-
-    * Assign owners to recommend future improvements for prioritized lessons. Regroup to share findings, align with account team & leadership, plan and implement in next sprint
-
-  ### Workshop Logistics
-
-
-  Google Meet:
-
-
-  * Plan for 60 minutes
-
-  * Introduction - 5 minutes
-
-  * Collection - 15-20 minutes
-
-  * Categorization - 10 minutes
-
-  * Prioritization - 10 minutes
-
-  * Next Steps - 10 minutes
-
-
-  Please use camera, chat and feel free to use the hand raise feature.
-
-
-  Miro Board:
-
-
-  Participants access a digital collaboration tool, such as a Miro board.
-
-
-  The board is divided into four quadrants to represent Liked, Learned, Lacked and Longed For. The quantity of quandrants may be adjusted to reflect workstreams as needed by editing the collaboration board (i.e. Miro).
-
-
-  Participants use “sticky notes” to post what was Liked, Learned, Lacked and Longed For during the collection segment.
-
-
-  Team to collaborate and align on categorization of “themes” (i.e. Planning, Technical, Leadership, Communication, etc..)
-
-
-  Participants use “voting buttons” to select top actionable improvements during the prioritization segment.
-
-
-  ### Facilitating the 4Ls Retrospective
-
-
-  ***Set the tone and expectations***
-
-
-  Before starting the retrospective, make sure all participants understand its purpose. If the sprint/project being reflected on was stressful, consider addressing this openly and honestly before starting the retrospective. It is ultimately the facilitators job to set the tone and expectations for the activity, and it shouldn’t be taken lightly. The most successful retrospectives are completed when the team is fully bought into its importance and value, so the facilitator must take extra care to ensure this has happened before starting.
-
-
-  ***Determine what was liked about the sprint/project***
-
-
-  The first item in the 4 Ls retrospective is intended to uncover what people liked about the sprint/project. This is intentionally broad and open ended. It’s up to the facilitator to guide participants into more and more useful insights into what they liked, and why they liked it. The goal is to uncover the underlying reasons for why a particular thing was liked, in order to ensure it happens again during the next sprint/project.
-
-
-  ***Determine what was learned***
-
-
-  The most valuable lessons are often learned from mistakes made, or challenges overcome during the completion of actual work. Unfortunately, these lessons often go unshared with the team. This element of the retrospective asks participants to reflect on and share anything they might have learned.
-
-
-  It’s important for the facilitator to ensure the team understands no learning is too small to share, as well as to guide people into uncovering more learnings than they might have realized.
-
-
-  ***Uncover what was lacked***
-
-
-  This step is designed to surface everything that held the team back during the sprint/project. This can be something as simple as slow communication with an outside team, or something more complicated that requires extra analysis to uncover. The purpose of documenting what was lacked during a sprint/project is to make sure you don’t run into the same problem in future sprints/projects.
-
-
-  It’s common for participants to feel uncomfortable sharing what was lacking if they feel leadership doesn’t want to hear about it. This might be because they believe the solution is too expensive or time consuming to be worth investing in. Either way, it’s again up to the facilitator to ensure the team feels comfortable sharing as much as possible during this step.
-
-
-  ***Document what was longed for***
-
-
-  The last element of the 4 Ls retrospective involves reflecting on what was longed for. This can be something tangible like better equipment, or something less tangible, like more or less involvement from leadership.
-
-
-  Be careful that the ‘Longed for’ section isn’t simply a mirror of the what was lacked section. It will often be similar, but it gives you the opportunity to determine and prioritize what is needed based on the positive impact it may have. For example, if ‘faster computers’ was listed in the ‘Lacked’ section, ‘fast computers’ isn’t necessarily the only thing to add in this step. You might consider including ‘faster internet’ or ‘better software’ as other things that would solve for what was lacked.
-
-
-  ***5 tips to a successful 4Ls retrospective***
-
-
-  1. Give people space and time to reflect. 30-60 minutes of uninterrupted time to take stock of their thoughts.
-
-  2. Ask everyone to turn off their devices so they can focus on the retrospective. If distracted by phones or laptops, it will be harder to reflect.
-
-  3. Assure everyone that there are no right or wrong answers. It’s not a test! If people feel like they are unable to give honest feedback on what worked and what didn’t, the retrospective won’t uncover valuable insights.
-
-  4. Encourage team to focus on action, not emotion. The goal is to collect objective feedback and reflection. If sprint was a stressful one, consider a symbolic debrief activity to ease tension and lighten the mood before holding your retrospective. (Deep breath, pat on back)
-
-  5. Use the 4Ls retrospective to bring remote teams together after a difficult sprint to collaborate without constraints. Remote teams often feel isolated, and the lack of a formal debrief and reflection can harm morale. Hosting an online retrospective not only brings teams closer, but gives an opportunity to discover what was challenging or stressful to ensure the next sprint runs smoother.
-
-
-  ***Assign followups and action items***
-
-
-  This is perhaps the most important step in the retrospective process. If you don’t take the time to assign followup action items to specific people or teams, you won’t gain much from having completed the process.
-
-
-  Before ending the retrospective, ask for volunteers to own next steps. For any followup that doesn’t have a volunteer, assign it to the person most responsible for uncovering the insight during the retrospective. Close the session out by confirming everyone understand what is expected of them moving forward, and thank them for their time.
-mediaGallery:
-  - link: https://wac-cdn.atlassian.com/dam/jcr:07a5486d-04ac-4d8f-a810-cf9a701cb761/Modal-Article3.jpg?cdnVersion=467
-  - link: https://www.youtube.com/watch?v=HuR0ISFhz4g
+hiddenFromHomePage: false
+hiddenFromSearch: false
+summary:
 resources:
-  - link: https://miro.com/templates/4-ls-retrospective/
-    description: Miro Board
-    linkType: web
-  - link: https://www.atlassian.com/team-playbook/plays/4-ls-retrospective-technique
-    linkType: web
-    description: Technique
-time: 30-60 minutes
-difficulty: easy
-participants:
-  - Sprint or Project Team
-  - Product Owner
+  - name: featured-image
+    src: dd8b1513-5617-49c4-b80f-f26b00691124.jpeg
+  - name: featured-image-preview
+    src: dd8b1513-5617-49c4-b80f-f26b00691124.jpeg
+toc: true
+math: false
+lightgallery: false
+password:
+message:
+repost:
+  enable: 
+  url:
+
+# See details front matter: https://fixit.lruihao.cn/documentation/content-management/introduction/#front-matter
 ---
+
+<!--more-->
+
+## 定义
+
+4Ls 回顾是在冲刺或项目完成后的团队活动，旨在了解工作的情况、不足之处以及可以改进的地方。4Ls 代表喜欢（Liked）、学到的（Learned）、缺少的（Lacked）和渴望的（Longed For）。
+
+## 应用场景
+
+在冲刺/项目结束后，团队停下来回顾发生的事情是很有帮助的。4Ls 回顾是一个有用的工具，使团队能够强调冲刺/项目的积极元素，了解负面因素，从事实而不是情感的角度思考。
+
+## 如何操作
+
+在每个冲刺/项目结束时，团队将就上述四个方面（喜欢、学到的、缺少的、渴望的）在关键工作流中提供意见。
+
+目标是获得一个重点改进的优先列表，为重点工作领域指定负责人，以构建信任、提高效率，并在计划下一个冲刺时增加参与。
+
+**示例议程**
+
+* 介绍: 启动 4Ls 定义、研讨会日程、目标成果
+* 收集: 时间上限的活动，让参与者在数字协作工具（例如 Miro）中记录上一个冲刺/项目阶段中的喜欢、学到的、缺少的和渴望的内容
+* 分类: 总结和归类成主题
+* 优先级: 时间上限的活动，让参与者对重要的经验提出投票
+* 下一步: 为优先的经验指定负责人，推荐未来的改进。重新集结以分享发现，与客户团队和领导团队对齐，计划并在下一个冲刺中实施
+
+**研讨会日程**
+
+现实视频会议：
+
+* 计划60分钟
+* 介绍 - 5 分钟
+* 收集 - 15-20 分钟
+* 分类 - 10 分钟
+* 优先级 - 10 分钟
+* 下一步 - 10 分钟
+
+请使用摄像头、聊天，随意使用举手功能。
+
+Miro 画板：
+
+参与者访问数字协作工具，如 Miro 画板。
+
+画板分为四个象限，分别代表喜欢、学到的、缺少的和渴望的。可以根据需要通过编辑协作画板（例如 Miro）来调整象限的数量，以反映工作流。
+
+参与者使用“便利贴”在收集环节中发布喜欢、学到的、缺少的和渴望的内容。
+
+团队协作和对齐以对“主题”（例如规划、技术、领导力、沟通等）进行分类。
+
+参与者使用“投票按钮”在优先级环节中选择前几个可以实施的改进。
+
+## 引导 4Ls 回顾
+
+*A - 设定基调和预期*
+
+在开始回顾之前，请确保所有参与者了解其目的。如果要反思的冲刺/项目令人感到有压力，请在开始回顾之前坦率地解决这个问题。最成功的回顾是在团队完全认同其重要性和价值时完成的，因此，组织者在开始之前必须格外小心，确保这一点已经发生。
+
+*B - 确定对冲刺/项目的喜欢之处*
+
+4Ls 回顾的第一项旨在揭示人们对冲刺/项目的喜欢之处。这故意是广泛且开放性的。组织者可以引导参与者逐渐深入了解他们喜欢的事物以及为什么喜欢。目标是为了揭示特定事物为什么被喜欢的根本原因，以确保在下一个冲刺/项目中再次发生。
+
+*C - 确定学到的东西*
+
+最有价值的经验通常来自于在完成实际工作时犯的错误或克服的挑战。不幸的是，这些经验往往不会与团队分享。回顾的这个元素要求参与者反思并分享他们可能学到的任何内容。
+
+重要的是要确保组织者明白，没有哪个学习太小而不能分享，同时引导人们发现比他们意识到的更多的学习。
+
+*D - 揭示缺少的东西*
+
+此步骤旨在揭示在冲刺/项目中阻碍团队前进的所有问题。这可能是与外部团队的沟通速度较慢，也可能是需要额外分析才能解决的更复杂的问题。在冲刺/项目中记录缺少的东西的目的是确保您在未来的冲刺/项目中不会遇到相同的问题。
+
+参与者常常在感觉到领导不想听这些内容时感到不愿分享缺少的东西。这可能是因为他们认为解决方案过于昂贵或耗时，不值得投资。无论哪种情况，再次由组织者确保在此步骤中，团队感到舒适，能够在最大程度上分享内容。
+
+*E - 记录渴望的内容*
+
+4Ls 回顾的最后一个元素涉及对渴望的事物进行反思。这可能是有形的，如更好的设备，也可能是不太明确的，如更多或更少的领导参与。
+
+注意，“渴望的”部分不应仅仅是缺少部分的镜像。虽然它们通常会相似，但它给您提供了一个机会，可以基于它可能产生的积极影响来确定和优先考虑所需的内容。例如，如果“更快的计算机”列在“缺少的”部分中，那么在这一步中并不一定只能加入“更快的计算机”。您还可以考虑将“更快的互联网”或“更好的软件”作为其他可以解决缺少的东西的内容。
+
+*F - 成功进行 4Ls 回顾的5个提示*
+
+1. 给人们提供时间和空间来反思。连续30-60分钟的时间来思考他们的想法。
+2. 要求每个人关闭设备，以便他们可以专注于回顾。如果被手机或笔记本电脑分散了注意力，将更难进行反思。
+3. 向所有人保证没有正确或错误的答案。这不是一个测试！如果人们感觉无法就工作情况提供诚实反馈，回顾将无法发现有价值的见解。
+4. 鼓励团队关注行动，而不是情感。目标是收集客观的反馈和反思。如果冲刺是一个令人紧张的冲刺，请考虑在举行回顾之前进行象征性的总结活动，以缓解紧张氛围，提高情绪。（深呼吸，轻拍背部）
+5. 在难度较大的冲刺之后，使用 4Ls 回顾将远程团队聚集在一起，以便在没有限制的情况下进行协作。远程团队通常会感到孤立，缺乏正式的总结和反思会损害士气。举办在线回顾不仅能够拉近团队之间的距离，还能够发现什么是具有挑战性或压力的，以确保下一个冲刺更顺利地进行。
+
+*G - 分配跟进和行动项目*
+
+这可能是回顾过程中最重要的一步。如果您不花时间将后续行动分配给特定的人员或团队，那么完成过程后将不会获得太多收益。
+
+在结束回顾之前，请志愿者拥有下一步的责任。对于没有志愿者的任何后续行动，请将其分配给在回顾中揭示洞察力最多的人员。通过确认每个人明白未来的预期行动是什么，并感谢他们的时间来结束会议。
+
+## 相关资源
+
+![](Modal-Article3.jpg)
+
+{{< bilibili BV1H14y117YE >}}
+
+
+> 作者：Sherri Scheurich
+> 原文链接：<https://openpracticelibrary.com/practice/4ls-retrospective/>
