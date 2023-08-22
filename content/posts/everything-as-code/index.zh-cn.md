@@ -1,8 +1,9 @@
 ---
 title: 一切皆代码
 subtitle: 一切都可以写成代码，包括配置、基础设施和流水线
+type: posts
 date: 2023-08-08
-authors:
+author:
   name: 译者-王子建
   link: https://github.com/actini
 tags:
