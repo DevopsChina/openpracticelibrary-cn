@@ -17,6 +17,8 @@ resources:
   - name: featured-image-preview
     src: everything-as-code-preview.png
 ---
+<!--more-->
+
 ## 定义
 
   一切皆代码的实践其实就是把系统的所有组成部分都当成代码。比如用代码将配置保存在 Git 或者 SVN 仓库中。全方位地将配置代码化（包括功能开关、裸机服务器、操作系统、构建配置、应用属性和部署配置等）意味着所有的配置都可以被追踪，只需点击鼠标就能够重新创建这些配置。
@@ -48,12 +50,15 @@ resources:
 * [Martin Fowler](https://martinfowler.com/bliki/InfrastructureAsCode.html)
 * [Ansible](https://www.ansible.com/)
 * [Infrastructure-as-code](https://www.youtube.com/watch?v=E2KOF3AdNy0&list=PLkg9jnMh6bhd0avDugIM81BU9VkBEaMMz&index=10&t=0s)
+* [中国 DevOps 社区](https://space.bilibili.com/370989874)
+{{< bilibili BV1MF411C7Yk >}}
 
 > 原文作者
 
-- Marcos Entenza
-- Donal Spring
-- PUBLISHED AUGUST 15, 2018
+{{< image width="100px" width="100px" src="https://github.com/makentenza.png" caption="Marcos Entenza" >}}
+{{< image width="100px" width="100px" src="https://github.com/springdo.png" caption="Donal Spring" >}}
 
-> 原文连接：https://openpracticelibrary.com/practice/everything-as-code/
+PUBLISHED AUGUST 15, 2018
+
+> 原文连接：https://openpracticelibrary.com/practice/everything-as-code
 ---
