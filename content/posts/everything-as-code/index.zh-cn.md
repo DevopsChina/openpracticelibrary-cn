@@ -1,75 +1,64 @@
 ---
-templateKey: practice-page
-title: Everything-as-Code
-subtitle: Save everything as code - configuration, infrastructure and pipelines
-date: 2018-08-15T09:37:16.000Z
-authors:
-  - springdo
-  - makentenza
+title: 一切皆代码
+subtitle: 一切都可以写成代码，包括配置、基础设施和流水线
+type: posts
+date: 2023-08-08
+author:
+  name: 译者-王子建
+  link: https://github.com/actini
 tags:
   - methods
-categories: 
+categories:
   - foundation
-icon: /images/everything-as-code.jpeg
-whatIs: >-
-  Everything as Code is the practice of treating all parts of the system as
-  code. This means, storing configuration along with Source Code in a repository
-  such as git or svn. Storing the configuration from bottom to top
-  (communication switches, bare metal servers, operating systems, build
-  configurations, application properties and deployment configurations...) as
-  code means they are tracked and can be recreated at the click of a button.
-
-
-
-  Everything as Code includes system design, also stored as code. In old world IT, infrastructure required specialised skills and physical hardware and cables to be installed. Systems were precious or were not touched / updated often as the people who created them no longer work for the company. The dawn of cloud computing and cloud native applications has meant it is cheap and easy to spin up virtual infrastructure. By storing the configuration of virtual environments as code, they can be life-cycled and recreated whenever needed.
-whyDo: >-
-  1. **Traceability** - storing your config in `git` implies controls are in
-  place to track who / why a config has changed. Changes can be applied and
-  reverted and are tracked to a single user who made the change.
-
-  2. **Repeatable** - moving from one cloud provider to another should be simple in modern application development. Picking a deployment target should be like shopping around for the best price that week. By storing all things as code, systems can be re-created in moments in various providers.
-
-  3. **Tested** - Infra and code can be rolled out, validated and promoted into production environments with confidence and assurance it will behave as expected.
-
-  4. **Phoenix server** - No more fear of a servers' configuration drifting. If a server needs to be patched or randomly dies, it's OK. Just create it again from the stored configuration.
-
-  5. **Shared understanding** - When a cross-functional team is using 'Everything as Code' to describe all the parts of the Product they are developing together, they contribute to increase the shared understanding between Developers and Operations, they speak same language to describe the state of this Product and they use the same frameworks to accomplish their goals.
-howTo: >-
-  * [Martin Fowler](https://martinfowler.com/bliki/InfrastructureAsCode.html) on
-  Infra as Code.
-
-  * [Terraform](https://www.terraform.io/) is an infrastructure as code platform that can provision to AWS, Azure, Google Cloud, other clouds, or an on-premises datacenter. This infrastructure could include servers, databases, load balancers, caches, firewall settings, SSL certificates, queues, monitoring, subnet configurations, routing rules, and much more.
-
-  * [Ansible](https://www.ansible.com/) is an infrastructure automation tool created by Red Hat, the huge enterprise open source technology provider.
-mediaGallery:
-  - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/everything%20as%20code.jpeg?raw=true
+description: 在程序员的眼里，整个宇宙也不过是一行行代码，就像是现实版的 Metrix
 resources:
-  - link: https://martinfowler.com/bliki/InfrastructureAsCode.html
-    linkType: web
-    description: Martin Fowler
-  - link: https://www.ansible.com/
-    linkType: web
-    description: Ansible
-people: ""
-participants: []
-area: foundation-technical
+  - name: featured-image
+    src: everything-as-code.jpeg
+  - name: featured-image-preview
+    src: everything-as-code-preview.png
 ---
-## What is it?
+<!--more-->
 
-Everything as Code is the practice of treating all parts of the system as code. This means, storing configuration along with Source Code in a repository such as git or svn. Storing the configuration from bottom to top (communication switches, bare metal servers, operating systems, build configurations, application properties and deployment configurations...) as code means they are tracked and can be recreated at the click of a button.
+## 定义
 
-Everything as Code includes system design, also stored as code. In old world IT, infrastructure required specialised skills and physical hardware and cables to be installed. Systems were precious or were not touched / updated often as the people who created them no longer work for the company. The dawn of cloud computing and cloud native applications has meant it is cheap and easy to spin up virtual infrastructure. By storing the configuration of virtual environments as code, they can be life-cycled and recreated whenever needed.
+  一切皆代码的实践其实就是把系统的所有组成部分都当成代码。比如用代码将配置保存在 Git 或者 SVN 仓库中。全方位地将配置代码化（包括功能开关、裸机服务器、操作系统、构建配置、应用属性和部署配置等）意味着所有的配置都可以被追踪，只需点击鼠标就能够重新创建这些配置。
 
-## Why store all things as code?
+  一切皆代码也包括系统设计代码化。在以前 IT 的工作中，往往需要专业的技能、硬件和线缆才能部署基础设施，整个系统非常脆弱，尤其是在部署的人辞职之后，几乎不进行系统的更新或改动。随着云计划和云原生应用时代的到来，建设虚拟化的基础设施变得简单又便宜。采用代码记录虚拟化的环境配置，我们可以很方便地管理环境的生命周期，并且随时根据需要重建整个环境。
 
-1. Traceability - storing your config in `git` implies controls are in place to track who / why a config has changed. Changes can be applied and reverted and are tracked to a single user who made the change.
-2. Repeatable - moving from one cloud provider to another should be simple in modern application development. Picking a deployment target should be like shopping around for the best price that week. By storing all things as code, systems can be re-created in moments in various providers.
-3. Tested - Infra and code can be rolled out, validated and promoted into production environments with confidence and assurance it will behave as expected.
-4. Phoenix server - No more fear of a servers' configuration drifting. If a server needs to be patched or randomly dies, it's OK. Just create it again from the stored configuration.
-5. Shared understanding - When a cross-functional team is using 'Everything as Code' to describe all the parts of the Product they are developing together, they contribute to increase the shared understanding between Developers and Operations, they speak same language to describe the state of this Product and they use the same frameworks to accomplish their goals.
+## 概念
 
-## Further reading
+  1. **可追溯性** - 用 `git` 保存应用配置意味着能够追溯配置变更的作者和原因，这些配置随时都能够被部署、回滚，并且能够追溯到修改的人。
 
-* [Martin Fowler](https://martinfowler.com/bliki/InfrastructureAsCode.html) on Infra as Code.
-* [Ansible](https://www.ansible.com/) is an infrastructure automation tool created by Red Hat, the huge enterprise open source technology provider.
-* [Infrastructure-as-code](https://www.youtube.com/watch?v=E2KOF3AdNy0&list=PLkg9jnMh6bhd0avDugIM81BU9VkBEaMMz&index=10&t=0s) example using OpenShift.
+  1. **可重复性** - 在现代应用开发中，从一个云平台换到另一个应该是很容易的事情，而选择云平台也应该货比三家找到性价比最好的那家。如果你能把所有的内容都保存成代码，整个系统就可以分分钟部署到不同的云平台上。
+
+  1. **测试安全** - 基础设施和代码可以部署、验证并推广到生产环境中，并有信心保证其按预期运行。
+
+  1. **故障恢复** - 无需再为服务器配置管理犯难，就算服务器需要打补丁或者突然挂掉也没关系，只需按照保存的配置代码重新创建它即可。
+
+  2. **基本共识** - 多个团队遵循“一切皆代码”的原则来共同开发产品，有助于增加开发人员和运营人员之间的共识，因为他们都使用代码来描述该产品的状态，使用相同的工作方式来完成工作。
+
+## 实践
+
+  * [Martin Fowler](https://martinfowler.com/bliki/InfrastructureAsCode.html) 的基础设施即代码实践。
+
+  * [Terraform](https://www.terraform.io/) 是一个基础设施即代码的平台，兼容 AWS、Azure、Google Cloud 和其他云平台，以及私有的数据中心。Terraform 支持管理各种各样的组件，比如服务器、数据库、负载均衡、缓存、防火墙配置、SSL 证书、消息队列、监控、网络配置、路由规则等等。
+
+  * [Ansible](https://www.ansible.com/) 是一个由开源界的泰山北斗 Red Hat 开发的基础设施自动化工具。
+
+## 延伸资源
+
+* [Martin Fowler](https://martinfowler.com/bliki/InfrastructureAsCode.html)
+* [Ansible](https://www.ansible.com/)
+* [Infrastructure-as-code](https://www.youtube.com/watch?v=E2KOF3AdNy0&list=PLkg9jnMh6bhd0avDugIM81BU9VkBEaMMz&index=10&t=0s)
+* [中国 DevOps 社区](https://space.bilibili.com/370989874)
+{{< bilibili BV1MF411C7Yk >}}
+
+> 原文作者
+
+{{< image width="100px" width="100px" src="https://github.com/makentenza.png" caption="Marcos Entenza" >}}
+{{< image width="100px" width="100px" src="https://github.com/springdo.png" caption="Donal Spring" >}}
+
+PUBLISHED AUGUST 15, 2018
+
+> 原文连接：https://openpracticelibrary.com/practice/everything-as-code
+---
