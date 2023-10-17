@@ -1,131 +1,106 @@
 ---
-templateKey: practice-page
-title: Definition of Ready
+title: 准备就绪定义
+type: posts
 subtitle: Shared knowledge regarding what it means for a work item to be ready
   to be worked on
-date: 2018-08-16T03:38:19.000Z
-authors:
-  - mtakane
-  - ilaria66
+date: 2018-08-16T03:38:19+8:00
+author:
+  name: 译者-车晓雪 
+  link: https://openpracticelibrary.devopschina.org/
 tags:
   - culture
 categories: 
   - foundation
-icon: /images/dor.jpg
-whatIs: >-
-  * Criteria that is used to identify any work item as ready to be be taken by a
-  team member and worked on
-
-  * Collaboratively created, maintained and enforced criteria by the team
-whyDo: |-
-  * Reduce scope creep on "in-flight" work items
-  * Increase understanding of the work item when pulling it to be worked on
-howTo: >-
-  ### Tips for Remote Working
-
-
-  * It is reasonably easy to find an agreement on both definition of ready and done remotely
-
-  * One person can be a facilitator writing it based on everyone's input or everyone can co-edit
-
-  * Use virtual white boarding tool and use techniques such as “roman voting’ or adding a sticky w/name to gain consensus.
-
-
-  ### An Example
-
-
-  Whilst Definitions of Ready should be specific to the teams using them, it helps to have an idea of what others teams are using. Included below is just one example current in use in AXA PPP Healthcare:
-
-
-  > **DEFINITION OF READY** 
-
-  >
-
-  > User Stories meet *INVEST* criteria 
-
-  >
-
-  > ```
-
-  > Independent (of all others) 
-
-  >
-
-  > Negotiable (not a specific contract for features) 
-
-  >
-
-  > Valuable 
-
-  >
-
-  > Estimable (to a good approximation) 
-
-  >
-
-  > Small (so as to fit within an iteration) 
-
-  >
-
-  > Testable (in principle, even if there isn’t a test for it yet) 
-
-  > ```
-
-  >
-
-  > *Must have Acceptance Criteria*
-mediaGallery:
-  - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/DoR.jpg?raw=true
+description: 团队对工作达成启动条件的共识
 resources:
-  - link: https://openpracticelibrary.com/blog/facilitation-tips-for-remote-sessions/
-    linkType: web
-    description: Remote Facilitation Tips
-participants:
-  - Product Owner
-  - The Team
-area: foundation-culture-and-collaboration
-people: 2+
-time: 15 minutes
-perspectives:
-  - facilitation-tips-for-remote-sessions
-difficulty: easy
+  - name: featured-image
+    src: "dor.jpg"
+  - name: featured-image-preview
+    src: "dor.jpg"
 ---
-# What is it?
+DOR是团队对工作达成启动条件的共识
+<!--more-->
 
-* Criteria that is used to identify any work item as ready to be be taken by a team member and worked on
-* Collaboratively created, maintained and enforced criteria by the team
+ ## 难度
 
-# Why use it?
+> 简单
+> 
+ ## 参与者
+  - 产品负责人
+  - 团队成员
 
-* Reduce scope creep on "in-flight" work items
-* Increase understanding of the work item when pulling it to be worked on
 
-## Tips for Remote Working
+## 定义
+  * 团队用于评估一项工作是否具备启动条件的标准
+  * 由团队一起讨论确定、维护，并强制执行的标准
+  
+## 应用场景
+  * 避免当前工作项的内容越扩越大，超出范围控制
+  * 当拉动工作项到进行中时，通过准备就绪定义（DOR）评估，可让团队加深对工作项的理解
 
-* It is reasonable easy to find an agreement on both definition of ready and done remotely
-* One person can be a facilitator writing it based on everyone input or everyone can co-edit
-* Use virtual white boarding  tool and use techniques such as “roman voting’ or adding a sticky w/name to gain consensus.
 
-## An Example
+## 如何操作
+  ### 远程工作的技巧
 
-Whilst Definitions of Ready should be specific to the teams using them, it helps to have an idea of what others teams are using. Included below is just one example current in use in AXA PPP Healthcare:
 
-> DEFINITION OF READY
->
-> \
->
-> User Stories meet INVEST criteria
->
-> \    Independent (of all others)
->
-> \    Negotiable (not a specific contract for features)
->
-> \    Valuable
->
-> \    Estimable (to a good approximation)
->
-> \    Small (so as to fit within an iteration)
->
-> \    Testable (in principle, even if there isn’t a test for it yet)
->
-> Must have Acceptance Criteria
+  * 团队远程就准备就绪定义（DOR）和完成定义（DOD）的标准达成统一，是一件相对容易的事情。
+
+  * 既可以由一人主导把大家对标准的要求统一记录下来，也可以由大家一起协同编辑。
+
+  * 使用虚拟白板工具，用“Roman Voting”或标记姓名的便利贴的方式，来实现远程团队间的信息同步。
+
+
+  ### 实例
+
+
+  每个团队都有自己特有的准备就绪定义（DOR），但是了解其他团队是如何定义DOR的，对自己团队合理定义该标准也是很有帮助的。下面是AXA PPP Healthcare团队使用的DOR实例：
+
+
+  > **准备就绪定义** 
+
+  >
+
+  > 用户故事符合*INVEST*原则 
+
+  >
+
+  > * Independent：独立于其他故事 
+
+  >
+
+  > * Negotiable：可协商的（并非锁定合同范围的功能，就像传统的一锤子买卖）
+
+  >
+
+  > * Valuable：有价值的
+
+  >
+
+  > * Estimable：可估算的 （可估算到一个合适的准确度） 
+
+  >
+
+  > * Small：大小适中的 （可以在一轮迭代中交付）
+
+  >
+
+  > * Testable：可测试的（理论上可测试的，即使还没有对他执行过测试）
+
+  >
+
+  > *必须有准入标准*
+
+## 延伸资源:
+- [远程会议的推进技巧](https://openpracticelibrary.com/blog/facilitation-tips-for-remote-sessions/)
+
+> 原文作者
+
+![](https://github.com/mtakane.png)
+
+- Matt Takane等 
+
+
+- PUBLISHED AUGUST 16, 2018
+
+> 原文链接： <https://openpracticelibrary.com/practice/definition-of-ready/>
+
