@@ -1,384 +1,175 @@
 ---
-templateKey: practice-page
-title: 6 Dimensions of Discovery
-subtitle: Gather, document, sort and prioritise  our challenges and bright spots
-  across 6 dimensions.
-date: 2020-04-19T22:51:08.252Z
-authors:
-  - kattekrab
+title: 发现的6个维度
+subtitle: 在6个维度内收集、记录、整理和优先考虑我们的挑战和亮点。
+date: 2023-11-05T08:09:43+08:00
+author:
+  name: 译者-刘征
+  link: https://martinliu.cn
+  email:
+  avatar:
+description: 在6个维度内收集、记录、整理和优先考虑我们的挑战和亮点。
+keywords:
+license:
+comment: false
+weight: 0
 tags:
   - ideate
 categories: 
   - discovery
-icon: /images/6dimensions.png
-whatIs: >-
-  This is a facilitated information gathering activity designed to explore,
-  document and prioritise current challenges and bright spots in an
-  organisation, team or project across six interrelated dimensions.
-
-
-  * People & culture
-
-  * Tools & technologies
-
-  * Process
-
-  * Communication
-
-  * Work environment
-
-  * Governance
-
-
-  **Yes, there are overlaps across these dimensions.**
-
-
-  People communicate in governance processes about, and by using tools and technologies according to their culture and environment. The aim here is not to perfectly categorise everything into each dimension, but to think through our bright spots and challenges across these different dimensions.
-
-
-  *Debate about the overlaps can also lead to actionable insights and solutions.*
-
-
-  This practice originally focussed on challenges, but has been adapted to also explore Bright spots.  Bright spots are described in the book "[Switch: How to change, when change is hard](https://heathbrothers.com/books/switch/)" and has similarities with [Appreciative Inquiry](https://en.wikipedia.org/wiki/Appreciative_inquiry).
-whyDo: Quickly build shared understanding of the context of a given initiative,
-  uncover pain points (challenges) across the organization, team or project, and
-  reveal skills and strengths (bright spots) that should be harnessed to
-  accelerate momentum towards the [target
-  outcomes](https://openpracticelibrary.com/practice/target-outcomes/).
-howTo: >-
-  Ask the group to **think** about the current bright spots and challenges they
-  experience, and then get them to **categorize** these across 6 these
-  dimensions.
-
-
-  All participants should individually **write** up their challenges on sticky notes, then **post** them on the walls in the relevant dimension.
-
-
-  Facilitator, or a volunteer from the group should **review**, cluster and **summarise** the responses ([affinity mapping](https://openpracticelibrary.com/practice/affinity-mapping/)), before asking everyone to come back and **vote** for the most pressing challenges, and most relevant or useful bright spots to focus on.
-
-
-  **Optional**
-
-
-  You could use 2 different coloured dots when voting to create a prioritisation matrix: Important & Urgent, [Effort & Impact](https://openpracticelibrary.com/practice/impact-effort-prioritization-matrix/), Risk & Value, etc
-
-
-  **Focus**
-
-
-  Get alignment and be clear on how and where the group should focus.
-
-
-  * From their own individual perspective? Or their perception of how others see their challenges?
-
-  * On the organisation? The team? The project? The technology?
-
-  * Are you documenting current state? (issues) or thinking about challenges that might block desired state? (risks)
-
-  * Are you thinking about bright spot skills, strengths, processes within the team? Or in the broader organisation that might be available to help?
-
-
-  **In sequence, or all at once?**
-
-
-  A] everyone works in sync going through each dimension, one by one, together as a group spending 5 mins on each one.
-
-
-  Or
-
-
-  B] everyone works independently for 30 mins to populate all 6 frames, and then review each dimension together at the end.
-
-
-  **In person**
-
-
-  Tools
-
-
-  * Markers, sticky notes, sticky dots, sticky easel pad sheets, sufficient wall space.
-
-
-  For remote facilitation:
-
-  **[Mural template](https://app.mural.co/template/bcdbc8d5-e84c-4159-8fc5-fb84b40b151f/98cf62dd-75cc-44ad-97fd-b6211aee17e2)**
-
-
-  Set-up
-
-
-  * Prepare easel pad sheets with each of the 6 dimensions and post around the walls, or divide a large whiteboard into 6 areas. Give everyone dots, sticky notes, and a marker.
-
-
-  ### Definitions
-
-
-  Most people can quickly understand each of the dimensions and dive straight into the task without much explanation, but sometimes it becomes necessary to define the terms, discuss the differences, and provide examples. The following may be a useful starting point, or reference, for those who need it to help build shared understanding.
-
-
-  Here's some common definitions of these terms, but what do they mean to you and the team?
-
-  You can use these as a starting point for discussion, or as a reference for clarification.
-
-
-  **People and culture**: 
-
-
-  Organisation design, Performance management, Professional development, Hiring practices, Retention, Contribution practices
-
-
-  *What do we mean by "Culture?"* 
-
-
-  > "Ideas, customs, and social behaviour of a particular group of people or society." "Maintain an organism in conditions suitable for growth." (common biology def.)
-
-  >
-
-  > "Culture is to a human collective, what personality is to an individual." (Hofstede)
-
-
-  **Tools & Technology**: 
-
-
-  Platforms, networks, interfaces, infrastructure, applications.
-
-
-  *What do we mean by "Tools & Technologies?"* 
-
-
-  > "Technology is the knowledge and general concept or idea, and tools are how we apply it.  For example, fire is a technology, and sticks, matches, lighters, fuel, bellows, are how we apply, manage and maintain that technology." "Technology: Use of knowledge for practical purposes."
-
-  >
-
-  > "Tool: Device, implement or application used to carry out a particular function."
-
-
-  **Process**: 
-
-
-  Operations, management, support, release practices, guides and frameworks.
-
-
-  *What do we mean by "Process?"* 
-
-
-  > "actions or steps taken in order to achieve a particular end."
-
-  >
-
-  > "steps and decisions involved in the way work is completed."
-
-  >
-
-  > "interrelated work tasks initiated in response to an event to achieve a specific result."
-
-  >
-
-  > "standardised workflow for achieving a particular task.
-
-
-  **Work environment**: 
-
-
-  Physical environments, working styles, open plan, hot desks, remote / distributed.
-
-
-  *What do we mean by "Work environment?"* 
-
-
-  > "All your surroundings when working. Your physical working environment is, for example, your work tools as well as air, noise and light. But your working environment also includes the psychological aspects of how your work is organised and your wellbeing at work." 
-
-
-  **Communication**:
-
-
-  Stakeholder, staff & customer engagement, meeting cadence, online, offline, 1 to 1, 1 to many, fast feedback loops, realtime/async.
-
-
-  *What do we mean by "Communication?"* 
-
-
-  > "Imparting or exchanging of information by speaking, listening, writing, reading, or using some other medium."
-
-  >
-
-  > "Successfully conveying or sharing ideas and feelings."
-
-  >
-
-  > "Ways of sending or receiving information, such as phones, or computers."
-
-
-  **Governance**:
-
-
-  Direction, decisions, approval checkpoints, policy, budgeting, reporting, metrics, values and principles.
-
-
-  *What do we mean by "Governance?"* 
-
-
-  > "the framework of rules, relationships, systems and processes within and by which authority is exercised and controlled in corporations."
-
-  >
-
-  > "authority, accountability, stewardship, leadership, direction, and control."
-
-  >
-
-  > "direction and decision-making procedures and metrics for validating impacts to the project."
-
-
-  Credit to [David Worthington](https://www.linkedin.com/in/david-worthington-2b65b84/) and [Arash Dadras](https://www.linkedin.com/in/arash-dadras/) for introducing this practice.
-mediaGallery:
-  - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/6dimensions.png?raw=true
-participants:
-  - Everyone available for a discovery session with relevant insight to share. eg
-  - sponsor
-  - product owner
-  - BA
-  - architects
-  - team
-  - etc.
-area: discovery-loop-why
-people: 4+
-time: 1 hour
-perspectives:
-  - start-with-why
-  - target-outcomes
-  - impact-effort-prioritization-matrix
-difficulty: moderate
+hiddenFromHomePage: false
+hiddenFromSearch: false
+summary:
+resources:
+  - name: featured-image
+    src: 6dimensions.png
+  - name: featured-image-preview
+    src: 6dimensions.png
+toc: true
+math: false
+lightgallery: false
+password:
+message:
+repost:
+  enable: 
+  url:
+
+# See details front matter: https://fixit.lruihao.cn/documentation/content-management/introduction/#front-matter
 ---
-## What is it?
 
-This is a facilitated information gathering activity designed to explore, document and prioritise current challenges and bright spots in an organisation, team or project across six interrelated dimensions.
+<!--more-->
 
-* People & culture
-* Tools & technologies
-* Process
-* Communication
-* Work environment
-* Governance
+## 定义
 
-**Yes, there are overlaps across these dimensions.**
+这是一种通过引导的信息收集活动，旨在探索、记录并优先考虑组织、团队或项目中当前挑战和亮点，跨越六个相互关联的维度。
 
-People communicate in governance processes about, and by using tools and technologies according to their culture and environment. The aim here is not to perfectly categorise everything into each dimension, but to think through our bright spots and challenges across these different dimensions.
+* 人与文化
+* 工具与技术
+* 流程
+* 沟通
+* 工作环境
+* 治理
 
-*Debate about the overlaps can also lead to actionable insights and solutions.*
+**是的，这些维度之间存在一定的交叉。**
 
-This practice originally focussed on challenges, but has been adapted to also explore Bright spots.  Bright spots are described in the book "[Switch: How to change, when change is hard](https://heathbrothers.com/books/switch/)" and has similarities with [Appreciative Inquiry](https://en.wikipedia.org/wiki/Appreciative_inquiry).
+人们在治理过程中，需要根据其文化和环境使用工具和技术进行沟通。这里的目标不是将所有事物完美地归类到每个维度中，而是要思考我们在这些不同维度上的亮点和挑战。
 
-## Why use it?
+*对这些重叠部分进行辩论，也可以产生出可行的见解和解决方案。*
 
-Quickly build shared understanding of the context of a given initiative, uncover pain points (challenges) across the organisation, team or project, and reveal skills and strengths (bright spots) that should be harnessed to accelerate momentum towards the [target outcomes](https://openpracticelibrary.com/practice/target-outcomes/).
+这种做法最初侧重于挑战，但已经适应了探索亮点。亮点在书籍[《Switch: How to change, when change is hard》](https://heathbrothers.com/books/switch/)中有描述，并与[赞赏式探询](https://en.wikipedia.org/wiki/Appreciative_inquiry)亦有互通之处。
 
-## How to do it?
+## 应用场景
 
-Ask the group to **think** about the current bright spots and challenges they experience, and then get them to **categorise** these across 6 these dimensions.
+为什么要进行“发现的六个维度”？快速建立对特定举措背景的共识，揭示组织、团队或项目中的痛点（挑战），以及揭示应该利用的技能和优势（亮点），以加快走向[目标结果](https://openpracticelibrary.com/practice/target-outcomes/)的脚步。
 
-All participants should individually **write** up their challenges on sticky notes, then **post** them on the walls in the relevant dimension.
+## 如何操作
 
-Facilitator, or a volunteer from the group should **review**, cluster and **summarise** the responses (affinity grouping), before asking everyone to come back and **vote** for the most pressing challenges, and most relevant or useful bright spots to focus on.
+要求小组**思考**他们目前的亮点和挑战，然后让他们将这些**分类**到这六个维度中。
 
-**Optional**
+所有参与者应将他们的挑战分别写在**便利贴**上，然后将它们**贴**在相关维度的墙上。
 
-You could use 2 different coloured dots when voting to create a prioritisation matrix.
+引导者或小组中的志愿者应审查、归类并总结这些回应（[亲和映射](https://openpracticelibrary.com/practice/affinity-mapping/)），然后要求每个人回来，通过投票来选择出最紧迫的挑战是那些，并集中关注最相关或最有用的亮点。
 
-Eg. Important & Urgent, [Effort & Impact](https://openpracticelibrary.com/practice/impact-effort-prioritization-matrix/), Risk & Value, etc
+**可选**
 
-**\
-Focus**
+在投票时，您可以使用两种不同颜色的点来创建优先级矩阵：重要和紧急、工作量和影响、风险和价值等等。
 
-Get alignment and be clear on how and where the group should focus.
+**关注重点**
 
-* From their own individual perspective? Or their perception of how others see their challenges?
-* On the organisation? The team? The project? The technology?
-* Are you documenting current state? (issues) or thinking about challenges that might block desired state? (risks)
-* Are you thinking about bright spot skills, strengths, processes within the team? Or in the broader organisation that might be available to help?
+确保对小组应如何以及在哪里集中注意力达成一致。
 
-**In sequence, or all at once?**
+* 是从他们自己的个人视角？还是从他们对别人如何看待他们的挑战的感知？
+* 是对组织？团队？项目？还是技术？
+* 您是在记录当前状态吗？（问题）还是在考虑可能阻碍期望状态的挑战？（风险）
+* 您是在考虑团队内的亮点技能、优势、流程？还是在更广泛的组织中可能可用于帮助的情况？
 
-A] everyone works in sync going through each dimension, one by one, together as a group spending 5 mins on each one.
+**是按顺序进行，还是一次性完成？**
 
-Or
+方式 A： 每个人都同步地按照每个维度，一起作为一个小组进行，每个维度花费5分钟。
 
-B] everyone works independently for 30 mins to populate all 6 frames, and then review each dimension together at the end.
+或者。
 
-**In person**
+方式 B： 每个人独立工作30分钟，填写所有6个框架，然后在最后一起审查每个维度。
 
-Tools
+**现场**
 
-* Markers, sticky notes, sticky dots, sticky easel pad sheets, sufficient wall space.
+需要的工具： 标记笔、便利贴、粘性点、粘性展示板纸张、足够的墙壁空间。
 
-Set-up
+用于远程引导：Mural模板
 
-* Prepare easel pad sheets with each of the 6 dimensions and post around the walls, or divide a large whiteboard into 6 areas. Give everyone dots, sticky notes, and a marker.
+设置：准备带有这六个维度的展示板纸张，并贴在墙上，或将一个大白板分成6个区域。给每个人提供一些：投票贴纸、便利贴和记号笔。
 
-**Mural template**
+###  6 个维度的定义
 
-https://app.mural.co/template/bcdbc8d5-e84c-4159-8fc5-fb84b40b151f/98cf62dd-75cc-44ad-97fd-b6211aee17e2
+大多数人可以快速理解每个维度，不需要太多解释就可以直接开始任务，但有时有必要定义这些术语、讨论差异并提供示例。以下可能是帮助建立共识的有用起点或参考，供那些需要的人使用。
 
-## Further Information
+![](6dimensions.png)
 
-* Discovery: [https://www.thoughtworks.com/insights/blog/discovery-day-one](http://www.utsdesignindex.com/researchmethod/steep-analysis/)
-* STEEP analysis: [http://www.utsdesignindex.com/researchmethod/steep-analysis/ ](http://www.utsdesignindex.com/researchmethod/steep-analysis/)
-* Fishbone / Ishikawa: <https://en.wikipedia.org/wiki/Ishikawa_diagram>
-* Brightspots: <https://www.fastcompany.com/1514493/switch-dont-solve-problems-copy-success>
-* Appreciative inquiry: [https://en.wikipedia.org/wiki/Appreciative_inquiry ](https://en.wikipedia.org/wiki/Appreciative_inquiry)
+以下是这些术语的一些常见定义，但它们对您和团队意味着什么？您可以将这些作为讨论的起点，或作为澄清的参考。
+
+#### 1 人与文化
+
+组织设计，绩效管理，专业发展，招聘实践，人员保留，贡献实践
+
+*“文化”是什么意思？*
+
+* “特定群体或社会的思想、习俗和社会行为。”；
+* “在适合生长的条件下维持物体的生长。”（常见的生物学定义。）
+* “文化对于人类集体来说，就像个性对于个体一样。”（霍夫斯特德）
+
+#### 2 工具与技术
+
+平台，网络，接口，基础设施，应用程序。
+
+*“工具和技术”是什么意思？*
+
+* “技术是知识和一般概念或想法，而工具是我们如何应用它。例如，火是一种技术，而棍子、火柴、打火机、燃料、风箱是我们如何应用、管理和维护这项技术。”
+* “技术：利用知识进行实际目的。”
+* “工具：用于执行特定功能的设备、工具或应用程序。”
+
+#### 3 流程
+
+运营，管理，支持，发布实践，指南和框架。
+
+*“流程”是什么意思？*
+
+* “为实现特定目标而采取的行动或步骤。”
+* “工作完成方式涉及的步骤和决策。”
+* “为了实现特定结果而启动的相互关联的工作任务。”
+* “用于完成特定任务的标准化工作流程。”
+
+#### 4 工作环境
+
+物理工作场所，工作方式，开放式办公区，共享工位，远程/分布式。
+
+*“工作环境”是什么意思？*
+
+“工作时的所有周围环境。您的物理工作环境包括工作工具、空气、噪音和光线等。但您的工作环境还包括组织工作的心理方面以及您在工作中的幸福感。”
+
+#### 5 沟通
+
+利益相关者，员工和客户参与，会议节奏，线上，线下，一对一，一对多，快速反馈循环，实时/异步。
+
+*“沟通”是什么意思？*
+
+* “通过说话、听、写、阅读或使用其他媒介传递或交换信息。”
+* “成功传达或分享想法和感情。”
+* “发送或接收信息的方式，例如电话或计算机。”
+
+#### 6 治理
+
+方向，决策，批准检查点，政策，预算编制，报告，度量标准，价值观和原则。
+
+*“治理”是什么意思？*
+
+* “在公司内部和外部行使和控制权威的规则、关系、系统和流程框架。”
+* “权威，问责制，管理，领导，指导和控制。”
+* “用于验证对项目影响的方向和决策程序和指标。”
+
+致谢 [David Worthington](https://www.linkedin.com/in/david-worthington-2b65b84/) 和 [Arash Dadras](https://www.linkedin.com/in/arash-dadras/) 向我们介绍了这个实践。
 
 
+作者：Donna Benjamin
 
-## Definitions
+![](https://github.com/kattekrab.png)
 
-Most people can quickly understand each of the dimensions and dive straight into the task without much explanation, but sometimes it becomes necessary to define the terms, discuss the differences, and provide examples. The following may be a useful starting point, or reference, for those who need it to help build shared understanding.
-
-Here's some common definitions of these terms, but what do they mean to you and the team? \
-You can use these as a starting point for discussion, or as a reference for clarification.
-
-**People and culture**: \
-Organisation design, Performance management, Professional development, Hiring practices, Retention, Contribution practices
-
-*What do we mean by "Culture?"*
-
-"Ideas, customs, and social behaviour of a particular group of people or society." "Maintain an organism in conditions suitable for growth." (common biology def.)
-"Culture is to a human collective, what personality is to an individual." (Hofstede)
-
-**Tools & Technology**: \
-Platforms, networks, interfaces, infrastructure, applications.
-
-*What do we mean by "Tools & Technologies?"*
-
-"Technology is the knowledge and general concept or idea, and tools are how we apply it.  For example, fire is a technology, and sticks, matches, lighters, fuel, bellows, are how we apply, manage and maintain that technology." "Technology: Use of knowledge for practical purposes."
-"Tool: Device, implement or application used to carry out a particular function."
-
-**Process**: \
-Operations, management, support, release practices, guides and frameworks.
-
-*What do we mean by "Process?"*
-
-"actions or steps taken in order to achieve a particular end." "steps and decisions involved in the way work is completed."
-"interrelated work tasks initiated in response to an event to achieve a specific result."
-"standardised workflow for achieving a particular task.
-
-**Work environment**: \
-Physical environments, working styles, open plan, hot desks, remote / distributed.
-
-*What do we mean by "Work environment?"*
-
-"All your surroundings when working. Your physical working environment is, for example, your work tools as well as air, noise and light. But your working environment also includes the psychological aspects of how your work is organised and your wellbeing at work."
-
-**Communication**: \
-Stakeholder, staff & customer engagement, meeting cadence, online, offline, 1 to 1, 1 to many, fast feedback loops, realtime/async.
-
-*What do we mean by "Communication?"*
-
-"Imparting or exchanging of information by speaking, listening, writing, reading, or using some other medium." "Successfully conveying or sharing ideas and feelings."
-"Ways of sending or receiving information, such as phones, or computers."
-
-**Governance**: \
-Direction, decisions, approval checkpoints, policy, budgeting, reporting, metrics, values and principles.
-
-*What do we mean by "Governance?"*
-
-"the framework of rules, relationships, systems and processes within and by which authority is exercised and controlled in corporations." "authority, accountability, stewardship, leadership, direction, and control."
-"direction and decision-making procedures and metrics for validating impacts to the project."
+原文链接：<https://openpracticelibrary.com/practice/6-dimensions-of-discovery/>
