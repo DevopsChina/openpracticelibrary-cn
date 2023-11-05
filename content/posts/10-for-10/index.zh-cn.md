@@ -1,86 +1,71 @@
 ---
-templateKey: practice-page
-authors:
-  - julieta-varsano
-howTo: >-
-  All you have to do as the facilitator of a 10 for 10 session is turn the topic
-  you want to Brainstorm into a "How Might We" phrased challenge. This is very
-  simple. Essentially you are rephrasing whatever challenge or topic you have
-  into something that is actionable!
-
-
-  Check out a step-by-step guide by AJ&Smart on how to execute a successful 10-for-10 session in the Look at 10-for-10 section below!
-
-
-  Is there something you've been stuck on? Why don't you take it for a test run? Try it out with your team or client! It only takes 10 minutes to see how powerful something like this can be in practice!
-resources:
-  - link: https://www.workshopperplaybook.com/ordernow
-    linkType: purchase
-    description: The Workshopper Playbook by Jonathan Courtney
-participants: []
-area: discovery-loop-outcomes
-date: 2020-06-24T15:27:10.904Z
+title: 10对10头脑风暴
+author:
+  name: 译者-刘征
+  link: https://martinliu.cn
+  email:
+  avatar:
+description: 终极头脑风暴（只需10分钟！）
+date: 2023-11-05T10:02:43+08:00
+keywords: 头脑风暴
 categories: 
   - options
-whatIs: "One of the most common types of workshops that every designer, PM or
-  consultant will have to run in their lives is the plain and simple
-  Brainstorming Workshop. There are literally billions of Brainstorming workshop
-  styles out there you can choose from… But, many of them are completely broken
-  because of one big thing: They end up being big, messy discussions where the
-  loudest person wins... or where the boss wins. This is because many
-  Brainstorming techniques don't take human-nature, implied hierarchies or even
-  varied personalities into consideration."
-whyDo: >-
-  The 10 for 10 workshop helps teams to think quickly and objectively and be
-  focussed with their prioritisation. It's lightweight, fun and super useful!
-  The only thing you need to start a 10 for 10 session is a topic. Since you can
-  use this method to brainstorm almost anything, there are very few limitations,
-  still, it's always better to give some examples:
 
-  * Generating ideas for a company event
-
-  * Generating ideas for new features for an app
-
-  * Generating headline ideas for a new landing page
-
-  * Generating ideas to improve your office environment
-mediaGallery:
-  - link: https://youtu.be/OJ2guxkhvKU
-  - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/10for10.png?raw=true
-people: Min. 2
-time: 10min
-perspectives: []
-title: 10-for-10
-subtitle: The ultimate brainstorming exercise!
+subtitle: 终极头脑风暴（只需10分钟！）
 tags:
   - ideate
-icon: /images/10-for-10-by-aj-smart-1-.jpg
-difficulty: easy
+resources:
+  - name: featured-image
+    src: 10-for-10-by-aj-smart-1-.webp
+  - name: featured-image-preview
+    src: 10-for-10-by-aj-smart-1-.webp
 ---
-# What is it?
 
-One of the most common types of workshops that every designer, PM or consultant will have to run in their lives is the plain and simple Brainstorming Workshop. There are literally billions of Brainstorming workshop styles out there you can choose from… But, many of them are completely broken because of one big thing: They end up being big, messy discussions where the loudest person wins... or where the boss wins. This is because many Brainstorming techniques don't take human-nature, implied hierarchies or even varied personalities into consideration.
+* 难度： 容易
+* 人数： 最少 2 人
 
-The 10 for 10 workshop helps teams to think quickly and objectively and be focussed with their prioritisation. It's lightweight, fun and super useful! The only thing you need to start a 10 for 10 session is a topic. Since you can use this method to brainstorm almost anything, there are very few limitations, still, it's always better to give some examples:
+## 定义
 
-\- Generating ideas for a company event
+每一位设计师、产品经理或顾问，在其职业生涯中都必须组织的最常见类型的工作坊，就是简单的头脑风暴工作坊。实际上有数十亿种头脑风暴工作坊的风格可供选择... 但是，其中许多都是完全无用的，因为有一个关键在于：它们最终变成了声音最大的人赢得胜利的混乱讨论... 或者老板赢了。这是因为：许多头脑风暴技术并未考虑到人性、隐性的等级制度，甚至不同的个性。
 
-\- Generating ideas for new features for an app
+## 使用场景
 
-\- Generating headline ideas for a new landing page
+10对10的头脑风暴工作坊帮助团队快速、客观地思考，并专注于他们的优先级。它简洁、有趣且非常实用！您开始10对10头脑风暴会议所需要的唯一前提就是一个主题。由于您几乎可以使用此方法进行几乎任何事情的头脑风暴，因此限制非常少，但最好还是提供一些使用场景示例示例：
 
-\- Generating ideas to improve your office environment
+* 为公司活动生成创意
+* 为应用程序的新功能生成创意
+* 为新的着陆页面生成标题创意
+* 生成改善办公环境的创意
 
-# How to use it?
+## 如何操作
 
-All you have to do as the facilitator of a 10 for 10 session is turn the topic you want to Brainstorm into a "How Might We" phrased challenge. This is very simple. Essentially you are rephrasing whatever challenge or topic you have into something that is actionable!
+您作为10对10会议的引导者要做的就是将您想要进行头脑风暴的主题转化为一个以“我们如何”开头的挑战。这看似非常简单。本质上，您正在根据您所面临的任何挑战或主题，将表达重新调整的可操作的内容！
 
-Here's a step-by-step guide by AJ&Smart on how to execute a successful 10-for-10 session:
+查看AJ&Smart提供的关于如何执行成功的10对10会议的逐步指南，请在下面的“看看10对10”部分查看！
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OJ2guxkhvKU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+您有什么困扰的事吗？为什么不试一下呢？与您的团队或客户一起尝试一下！只需10分钟，您就可以看到类似这样的东西在实践中有多么强大！
 
-Is there something you've been stuck on? Why don't you take it for a test run? Try it out with your team or client! It only takes 10 minutes to see how powerful something like this can be in practice!
+因此，步骤如下：
 
-# More resources:
+1. 设定参与者的挑战
+2. 让人们有5分钟时间提出尽可能多的想法
+3. 让人们有1分钟的时间选择他们的前10个想法，舍弃其余的想法
+4. 让每个参与者将他们的前10个想法贴在白板或墙上
+5. 将所有便利贴的内容读给大家听，移除重复的内容
+6. 以便利贴的形式给予每个人10次投票权
+7. 让参与者有3分钟的时间进行投票（即在便利贴上贴上投票点）
+8. 按照投票数重新排列便利贴的顺序
+9. 完成！
 
-[The Workshopper Playbook](https://www.workshopperplaybook.com/ordernow) by Jonathan Courtney
+## 相关视频
+
+{{< bilibili BV1T94y1V7zf >}}
+
+## 扩展资源
+
+* [The Workshopper Playbook](https://www.workshopperplaybook.com/ordernow) by Jonathan Courtney
+* <https://github.com/openpracticelibrary/opl-media/blob/master/images/10for10.png?raw=true>
+
+原文作者：Julieta Varsano
+
+原文链接：<https://openpracticelibrary.com/practice/10-for-10/>
