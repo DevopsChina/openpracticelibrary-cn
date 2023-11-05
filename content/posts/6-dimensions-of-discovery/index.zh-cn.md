@@ -1,15 +1,13 @@
 ---
-title: 6 Dimensions of Discovery
-subtitle: Gather, document, sort and prioritise  our challenges and bright spots
-  across 6 dimensions.
+title: 发现的6个维度
+subtitle: 在6个维度内收集、记录、整理和优先考虑我们的挑战和亮点。
 date: 2023-11-05T08:09:43+08:00
 author:
   name: 译者-刘征
   link: https://martinliu.cn
   email:
   avatar:
-description: Gather, document, sort and prioritise  our challenges and bright spots
-  across 6 dimensions.
+description: 在6个维度内收集、记录、整理和优先考虑我们的挑战和亮点。
 keywords:
 license:
 comment: false
@@ -40,7 +38,7 @@ repost:
 
 <!--more-->
 
-## 什么是“发现的六个维度”？
+## 定义
 
 这是一种通过引导的信息收集活动，旨在探索、记录并优先考虑组织、团队或项目中当前挑战和亮点，跨越六个相互关联的维度。
 
@@ -100,7 +98,7 @@ repost:
 
 设置：准备带有这六个维度的展示板纸张，并贴在墙上，或将一个大白板分成6个区域。给每个人提供一些：投票贴纸、便利贴和记号笔。
 
-### 定义
+###  6 个维度的定义
 
 大多数人可以快速理解每个维度，不需要太多解释就可以直接开始任务，但有时有必要定义这些术语、讨论差异并提供示例。以下可能是帮助建立共识的有用起点或参考，供那些需要的人使用。
 
