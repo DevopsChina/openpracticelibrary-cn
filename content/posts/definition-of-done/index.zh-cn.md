@@ -5,10 +5,6 @@ author:
   name: 译者-车晓雪 
   link: https://openpracticelibrary.devopschina.org/
 
-author:
-  name: 译者-车晓雪 
-  link: https://openpracticelibrary.devopschina.org/
-
 tags:
   - culture
 categories: 
@@ -63,7 +59,8 @@ resources:
 
 > 原文作者
 
-
+![](https://github.com/tdbeattie.png)
 - Tim Beattie
+![](https://github.com/mtakane.png)
 - Matt Takane
 - *PUBLISHED AUGUST 10, 2018*
