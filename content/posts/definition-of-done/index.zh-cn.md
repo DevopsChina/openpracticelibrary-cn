@@ -1,6 +1,6 @@
 ---
 title: 完成定义
-date: 2018-08-29T20:14:43+8:00
+date: 2023-11-05T20:14:43+8:00
 author:
   name: 译者-车晓雪 
   link: https://openpracticelibrary.devopschina.org/
