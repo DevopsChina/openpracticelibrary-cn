@@ -1,83 +1,66 @@
 ---
-templateKey: practice-page
-title: Definition of Done
-subtitle: Shared knowledge and understanding regarding what it means for a work
-  item to be done by a team
-date: 2018-08-29T20:14:43.236Z
-authors:
-  - tdbeattie
-  - mtakane
-  - mvmaestri
+title: 完成定义
+date: 2018-08-29T20:14:43+8:00
+author:
+  name: 译者-车晓雪 
+  link: https://openpracticelibrary.devopschina.org/
+
 tags:
   - culture
 categories: 
   - foundation
-icon: /images/dod.jpeg
-whatIs: >-
-  * Criteria agreed across the team and shared with others that should be met
-  before any work items is considered complete by any team member.
+description: 完成定义DOD是团队对一项工作完成标准的共识
 
-  * *Collaboratively created, maintained and enforced criteria by the team.*
-
-  * A place where non-functional and functional work that should be performed for each and every work item can be managed.
-whyDo: >-
-  * Aligns understanding and shared expectations across stakeholder groups on,
-  for example, quality, assurance and documentation activities being performed
-  throughout delivery.
-
-  * Drives quality into products being built incrementally.
-howTo: >-
-  ### Tips for Remote Working
-
-
-  * It is reasonably easy to find an agreement on both definition of ready and done remotely.
-
-  * *One person can be a facilitator writing it based on everyone's input or everyone can co-edit.*
-
-  * Use virtual white-boarding tool and use techniques such as "roman voting" or adding a sticky w/name to gain consensus.
-mediaGallery:
-  - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/DoD.JPG?raw=true
 resources:
-  - link: https://www.scruminc.com/definition-of-done/
-    linkType: web
-    description: Scrum Inc 5 minute course
-  - link: https://www.scrum.org/resources/blog/walking-through-definition-done
-    linkType: web
-    description: Walking through the Definition of Done
-  - link: https://www.agilelearninglabs.com/2018/02/how-to-create-your-teams-definition-of-done/
-    linkType: web
-    description: How to create your team’s Definition Of Done
-  - link: https://openpracticelibrary.com/blog/facilitation-tips-for-remote-sessions/
-    linkType: web
-    description: Remote Facilitation Tips
-participants:
-  - The Team
-area: foundation-culture-and-collaboration
-people: 2+
-time: 15 minutes
-perspectives:
-  - facilitation-tips-for-remote-sessions
-difficulty: easy
+  - name: dod
+    src: "dod.jpeg"
+  - name: dod-preview
+    src: "dod.jpeg"
+
 ---
-## What is it?
+完成定义（DOD）是团队对一项工作完成标准的共识
 
-* Criteria agreed across the team and shared with others that should be met before any work items is considered complete by any team member.
-* Collaboratively created, maintained and enforced criteria by the team.
-* A place where non-functional and functional work that should be performed for each and every work item can be managed.
+## 难度
 
-## Why use it?
+> 简单
 
-* Aligns understanding and shared expectations across stakeholder groups on, for example, quality, assurance and documentation activities being performed throughout delivery.
-* Drives quality into products being built incrementally.
+## 参与者
+  - 团队成员
 
-## Tips for Remote Working
+## 定义
+  * 团队内部一套达成共识的标准，用于判断一项工作是否完成，并且公开分享给其他相关人员。
 
-* It is reasonable easy to find an agreement on both definition of ready and done remotely.
-* One person can be a facilitator writing it based on everyone input or everyone can co-edit.
-* Use virtual white-boarding tool and use techniques such as "roman voting" or adding a sticky w/name to gain consensus.
+  * *团队协同制定、维护和执行的标准。*
 
-## Want to learn more?
+  * 适配所有的非功能性和功能性需求任务，而且每一项工作都被管理覆盖。
+ 
+## 应用场景
+  * 对齐不同干系团队对工作任务的理解和期望，例如质量部，确保质量保证和文档等活动在交付过程中被执行。
 
-* [Scrum Inc 5 minute course](https://www.scruminc.com/definition-of-done/)
-* [Walking through the Definition of Done](https://www.scrum.org/resources/blog/walking-through-definition-done)
-* [How to create your team’s Definition Of Done](https://www.agilelearninglabs.com/2018/02/how-to-create-your-teams-definition-of-done/)
+  * 推动产品质量的逐步提升
+
+## 如何操作
+
+  ### 远程工作技巧
+
+
+  * 团队通过远程沟通协作，对准备就绪（DOR）和完成（DOD）的标准定义达成一致，是一件相对容易的事情。
+
+  * *既可以由一人主导把大家对标准的要求统一记录下来，也可以由大家一起协同编辑。*
+
+  * 利用虚拟白板工具，采取“Roman Voting”或标记姓名的便利贴的方式，来实现远程团队间的信息同步。
+ 
+## 延伸资源
+
+- [5分钟的ScrumInc实例课程](https://www.scruminc.com/definition-of-done/) 
+- [深度解析DoD](https://www.scrum.org/resources/blog/walking-through-definition-done)
+- [如何建立团队的DoD](https://www.agilelearninglabs.com/2018/02/how-to-create-your-teams-definition-of-done/)
+- [远程会议组织技巧](https://openpracticelibrary.com/blog/facilitation-tips-for-remote-sessions/)
+
+> 原文作者
+
+![](https://github.com/tdbeattie.png)
+- Tim Beattie
+![](https://github.com/mtakane.png)
+- Matt Takane
+- *PUBLISHED AUGUST 10, 2018*
