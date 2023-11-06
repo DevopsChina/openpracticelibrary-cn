@@ -3,7 +3,7 @@ title: 准备就绪定义
 type: posts
 subtitle: Shared knowledge regarding what it means for a work item to be ready
   to be worked on
-date: 2018-08-16T03:38:19+8:00
+date: 2023-11-03T08:09:43+08:00
 author:
   name: 译者-车晓雪 
   link: https://openpracticelibrary.devopschina.org/
