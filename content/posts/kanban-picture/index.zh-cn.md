@@ -1,195 +1,128 @@
 ---
-participants: []
-templateKey: practice-page
-title: Kanban Picture
-subtitle: >-
-  The Kanban Picture suggests a "work dynamic" for teams starting with the
-  Kanban Method.
-date: 2019-10-15T18:32:07.285Z
+title: 看板墙
+type: posts
+date: 2019-10-15T18:32:07+08:00
+author:
+  name: 译者-车晓雪 
+  link: https://openpracticelibrary.devopschina.org/
+
+tags:
+  - culture
+categories: 
+  - foundation
+description: 看板墙能够动态展示当下实时的工作情况，是团队实践看板工作方法的推荐实践。
+
+resources:
+  - name: featured-image
+    src: "kanban-picture-english.png"
+  - name: featured-image-preview
+    src: "kanban-picture-english.png"
+
 authors:
   - andresuman
-tags: []
-whatIs: A suggestion to explain and start with the Kanban Method.
-howTo: >-
-  #### Functional Item
 
-
-  “Between dogs and camels, all things are animals. You should avoid rats and
-  Elephants” - Although there is variability in the size of the items, we avoid
-  the extremes. A functional item generates value, each card on the board
-  represents a delivery of value perceived by the business. if you want a dog,
-  it’s leg, tail or head alone does not generate value.
-
-
-  #### Replenishment
-
-
-  Replenishment is the act of understanding and committing to demand. It is like
-  a wedding - after the commitment point it is not desirable to give up the item
-  (although it may happen ☹️ ). Kanban is a pull system - Frequent replenishment
-  is more agile, on-demand replenishment is most agile!
-
-
-  #### Kanban Meeting
-
-
-  “Stop starting, start finishing!” iterates across the tickets from right
-  (closest to completion) to left (most recently started). “Ask the cards, not
-  the people” - What can we do to finish this job?
-
-
-  #### Done/Demo
-
-
-  At the end of the work, the team can demonstrate the result to the
-  stakeholders. The team may decide to demonstrate on small batches of
-  functionality of the same subject or on demand.
-
-
-  #### Retrospectives
-
-
-  Evaluate work output at regular intervals, analyze metrics and seek continuous
-  improvement.
-
-
-  #### WIP Limit
-
-
-  Limit work in progress. These sample numbers represent the maximum number of
-  functional items for workflow. Promote finishing and provoke important
-  discussions. “Stop starting, start finishing!”
-
-
-  #### One Way
-
-
-  Do not move cards backwards. An item flows when work is completed at each
-  step. If a correction needs to be made, keep the item in the same column,
-  eventually signaling that a block exists. Focus on finishing.
-
-
-  #### Metrics
-
-
-  *Throughput* - The amount of items delivered in a given time frame, usually
-  weeks.
-
-  *Lead Time* - The clock starts ticking on replenishment and ends when the item
-  is delivered.The number of calendar days to get an item done is the lead time.
-
-  *CFD* - Cumulative Flow Diagram Shows demand, WIP, approximate average lead
-  time and delivery rate capabilities.
-
-  To collect these metrics you only need the start and finishing date for an
-  item then count how many items you have per day in each column.
-
-
-  #### Explicit Policies
-
-
-  Post policies where you can see them. Policies are rules for how we work and
-  should be developed collaboratively. Example - pull criteria, wip limits, date
-  to deploy.
-
-
-  #### SDM
-
-
-  Service Delivery Manager is a suggested role to manage the flow. SDM manages
-  blockers, collects metrics, and supports team for flow improvement.
-
-
-  #### Class of Service
-
-
-  Class of service is based on cost of delay and defines how this category of
-  item is treated in the system. A “tiger on fire” (expedite) has higher
-  priority than other animals (standard). The most common classes of services
-  are standard, expedite, fixed-date and intangible.
-
-
-  #### Extra
-
-
-  #### *Blocker/Block Column*
-
-
-  Do not have a column for blocked items. A block is a condition for an item in
-  some column of workflow, not a part of the workflow.
-jumbotron: /images/kanban-picture-english.png
-area: delivery-deliver
-icon: /images/kanban-picture-english.png
-whyDo: It's simple and it's a funny explanation.
-mediaGallery:
-  - link: >-
-      https://openpracticelibrary.github.io/opl-media/images/kanban-picture-english.png
-categories: 
-  - delivery
 ---
-## What is it?
 
-A suggestion to explain and start with the Kanban Method.
+看板墙能够动态展示当下实时的工作情况，是团队实践看板工作方法的推荐实践。
+<!--more-->
 
-## Why use it?
 
-It's simple and it's a funny explanation.
+## 定义
+团队理解和开启看板工作方法的推荐实践。
 
-## Explanation
+## 应用场景
+看板墙简单而有趣，可以获取和了解当前的工作情况。
 
-**Functional Item**
+## 如何操作
 
-“Between dogs and camels, all things are animals. You should avoid rats and Elephants” - Although there is variability in the size of the items, we avoid the extremes. A functional item generates value, each card on the board represents a delivery of value perceived by the business. if you want a dog, it’s leg, tail or head alone does not generate value.
+  #### 工作项
 
-**Replenishment**
 
-Replenishment is the act of understanding and committing to demand. It is like a wedding - after the commitment point it is not desirable to give up the item (although it may happen :( ). Kanban is a pull system - Frequent replenishment is more agile, on-demand replenishment is most agile!
+  “在狗和骆驼之间，万物都是动物。你应该避免老鼠和大象。” -- 尽管每个工作项的规模不同，我们需要尽量避免极端情况。每个工作项都要产生价值，因此看板墙上的每个卡片都代表一个被业务用户认可的价值交付。如果你想要一只狗，那么只交付腿、尾巴或者脑袋都无法带来预期价值收益。
 
-**Kanban Meeting**
 
-“Stop starting, start finishing!” iterates across the tickets from right (closest to completion) to left (most recently started). “Ask the cards, not the people” - What can we do to finish this job?
+  #### 填充
 
-**Done/Demo**
 
-At the end of the work, the team can demonstrate the result to the stakeholders. The team may decide to demonstrate on small batches of functionality of the same subject or on demand.
+  填充是理解需求和承诺交付的活动。就像婚姻，一旦承诺共度一生，就不希望半途终止（尽管事实上它有可能发生☹️）。看板是拉动系统 —— 频繁填充更敏捷，然而按需填充显然是最敏捷的！
 
-**Retrospectives**
 
-Evaluate work output at regular intervals, analyze metrics and seek continuous improvement.
+  #### 看板会议
 
-**WIP Limit**
 
-Limit work in progress. These sample numbers represent the maximum number of functional items for workflow. Promote finishing and provoke important discussions. “Stop starting, start finishing!”
+  “暂缓开始，聚焦完成！”， 从右（接近完成）向左（刚刚启动）循环走读卡片。“关注任务卡片，而不是人”  —— 我们应该做什么来完成这项任务？
 
-**One Way**
 
-Do not move cards backwards. An item flows when work is completed at each step. If a correction needs to be made, keep the item in the same column, eventually signaling that a block exists. Focus on finishing.
+  #### 完成/演示
 
-**Metrics**
 
-_Throughput_ - The amount of items delivered in a given time frame, usually weeks.
+  当工作完成后，团队可以向干系人展示成果。团队可以决定把一类功能的分小批次做展示，也可以按需展示。
 
-_Lead Time_ - The clock starts ticking on replenishment and ends when the item is delivered.The number of calendar days to get an item done is the lead time.
 
-_CFD_ - Cumulative Flow Diagram Shows demand, WIP, approximate average lead time and delivery rate capabilities.
+  #### 复盘
 
-To collect these metrics you only need the start and finishing date for an item then count how many items you have per day in each column.
 
-**Explicit Policies**
+  按照固定的节奏评估工作产出，分析度量指标，不断持续改进。
 
-Post policies where you can see them. Policies are rules for how we work and should be developed collaboratively. Example - pull criteria, wip limits, date to deploy.
 
-**SDM**
+  #### 限制在制品
 
-Service Delivery Manager is a suggested role to manage the flow. SDM manages blockers, collects metrics, and supports team for flow improvement.
 
-**Class of Service**
+  限制在制品数量。在工作流中，每一栏（步骤）的数字代表该栏可以允许的最大并行工作项数量。“限制在制品”可以有效推动工作项完成，并促进团队内部的沟通协作。“暂缓开始，聚焦完成！”
 
-Class of service is based on cost of delay and defines how this category of item is
- treated in the system. A “tiger on fire” (expedite) has higher priority than other animals (standard). The most common classes of services are standard, expedite, fixed-date and intangible.
 
-**Extra**
+  #### 单向流动
 
-**_Blocker/Block Column_**
 
-Do not have a column for blocked items. A block is a condition for an item in some column of workflow, not a part of the workflow.
+  不要反向移动卡片。针对一个工作项卡片，当完成一个步骤后，该卡片就顺序流动到下一个步骤（栏）。如果需要额外的修正工作，就让这个工作项停留在该栏，并最终标记为阻塞。聚焦完成。
+
+
+  #### 度量
+
+
+  *吞吐率* — 在给定时间内交付的工作项数量，通常以周来计。
+
+  *前置时间* — 从工作项卡片被填充开始计时，一直到这个卡片交付。完成一个工作项所需的自然日周期即为该工作项的前置时间。
+
+  *累计流图CFD* — 累计流图展示了需求、在制品限制、平均前置时间和交付能力。
+
+  你只需要采集工作项的开始和完成时间，和统计每天在每栏上的工作项数量，就可以获得上面的这些指标。
+
+
+  #### 显示化规则
+
+
+  在醒目的地方展示规则。规则是我们工作与协同开发的依据。例如：拉动条件，在制品限制，发布日期。
+
+
+  #### 服务发布经理
+
+
+  服务发布经理（SDM）是负责流动管理的一个推荐角色。SDM管理阻塞，采集度量指标，并支持团队不断改善流动。
+
+
+  #### 服务分类
+
+
+  服务分类是基于延迟成本（CoD）来设置，并定义了不同分类的系统处理方式。“着火的老虎”（加急类）比其他动物（标准类）有更高的优先级。常见的服务分类有：标准类，加急类，固定交付日期类和无形类。
+
+
+  #### 特别说明
+
+
+  #### *阻塞/阻塞列*
+
+
+  不要在看板上为阻塞项专门建立一栏。阻塞代表在工作流中某一栏的工作项当前所处的状态，并不是工作流的一个组成部分（一道工序）。
+
+
+  > 原文作者
+
+![](https://github.com/andresuman.png)
+
+- Andre Suman
+
+
+- PUBLISHED OCTOBER 15, 2019 
+
+> 原文链接： <https://openpracticelibrary.com/practice/kanban-picture/>
