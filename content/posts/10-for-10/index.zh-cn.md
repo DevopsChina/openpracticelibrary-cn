@@ -1,17 +1,16 @@
 ---
 title: 10对10头脑风暴
+subtitle: 终极头脑风暴（只需10分钟！）
 author:
   name: 译者-刘征
   link: https://martinliu.cn
   email:
   avatar:
-description: 终极头脑风暴（只需10分钟！）
 date: 2023-11-05T10:02:43+08:00
 keywords: 头脑风暴
 categories: 
   - options
-
-subtitle: 终极头脑风暴（只需10分钟！）
+description: 终极头脑风暴（只需10分钟！）
 tags:
   - ideate
 resources:
@@ -20,7 +19,7 @@ resources:
   - name: featured-image-preview
     src: 10-for-10-by-aj-smart-1-.webp
 ---
-
+<!--more-->
 * 难度： 容易
 * 人数： 最少 2 人
 

@@ -1,13 +1,13 @@
 ---
 title: 5 元素画布
-subtitle: Building empathy and collaboration between silos to solve complex problems.
+subtitle: 在不同部门之间建立同理心和合作，以解决复杂问题。
 date: 2023-10-07T08:09:43+08:00
 author:
   name: 译者-刘征
   link: https://martinliu.cn
   email:
   avatar:
-description: Building empathy and collaboration between silos to solve complex problems.
+description: 在不同部门之间建立同理心和合作，以解决复杂问题。
 keywords:
 license:
 comment: false
