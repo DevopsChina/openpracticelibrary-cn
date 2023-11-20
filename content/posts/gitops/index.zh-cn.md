@@ -17,6 +17,7 @@ resources:
   - name: featured-image-preview
     src: gitops-preview.png
 ---
+<!--more-->
 ## 定义
 
   GitOps 是一种通过 Git 操作来管理开发、发布工作流程的模式，其概念相当直观：
