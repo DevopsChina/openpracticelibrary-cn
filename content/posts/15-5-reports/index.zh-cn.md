@@ -1,101 +1,100 @@
 ---
-templateKey: practice-page
-title: 15/5 Reports
-subtitle: Reporting for people who don't have time for reports
-date: 2021-06-04T11:06:35.789Z
-authors:
-  - tom-geraghty
+title: 15/5 报告
+subtitle: 适合没有时间写报告的人的报告
+date: 2023-11-19T21:31:56+08:00
+draft: false
+author:
+  name: 译者-刘征
+  link: https://martinliu.cn
+  email:
+  avatar:
+description: 适合没有时间写报告的人的报告
+keywords: 汇报
+comment: false
+weight: 0
 tags:
   - methods
-categories: 
+categories:
   - foundation
-icon: /images/person-pencil.jpeg
-whatIs: >-
-  Originally created by Yvon Chouinard, founder of the clothing brand Patagonia,
-  and inspired by the Scrum standup questions, 15/5 reports are a great way to
-  keep a regular pulse across teams and organisations. They should take no more
-  than 15 minutes to write, and no more than 5 minutes to read.
-
-
-  When you create a weekly cadence of 15/5 reports, you can use them to inform 1-1 meetings you have, and it helps you report up and across to other team leaders or managers.
-whyDo: >-
-  Ensuring that everyone knows what's going on in an organisation can be hard.
-  None of us want to spend lots of time writing or reading reports, but only
-  communicating verbally can take a lot of time and risk losing granularity or
-  accuracy of information.
-
-
-  Many people find it easier to communicate in written form, because it gives them more time to think about what they're saying and how to say it. 
-
-
-  By using weekly 15/5 reports, people know there's always a space to report anything good, bad, or interesting.
-howTo: >-
-  You will probably want to use different questions to the below, and you should
-  also evolve your questions as you and your teams evolve too.
-
-
-  Use the below as a starting point though, and see how you get on. There should be around three "mandatory" questions (though people are free to state "I have nothing to report on", or similar) and you can include a few optional questions that add extra context and ideas.
-
-
-  It can be useful to ask people to have 15/5 reports to you for the end of the week, a Friday morning, for example. This means you have time to digest them before the weekend. Choose the timing and cadence that works best for your team. Suggest to your team that they don't wait until the day to write them - instead, make notes through the week, and then writing it should be really easy - because you already know what to write.
-
-
-  Even if you have around ten or more people sending reports to you, this is a very effective method of ensuring you can support your team in the best way possible, and can keep yourself and the rest of the organisation informed about progress, challenges, and opportunities.
-
-
-  Be sure to respond to every report - even if it's a quick acknowledgement and thanks - because it can be very demotivating for people to write these without receiving a response.
-
-
-
-
-  Example questions:
-
-
-  **What are your main achievements this week? What are you most proud of or satisfied with?**
-
-
-  This question means the report starts with highlighting success. And people should be encouraged to add non-work achievements too.
-
-
-  **Is there anything worrying or concerning you in or outside of work?**
-
-
-  This is a really important question. You can address these concerns in your 1-1s, and if multiple people raise the same concern, you can get in front of it before it becomes too big.
-
-
-  **How are you feeling, and what is the morale of your team around you?**
-
-
-  This question may take weeks or months before people begin to answer honestly and safely, but it's really important. This is one of the key ways you can keep a pulse on the team culture and morale.
-
-
-  **Is there anything I could be doing better, differently or more of that would help you?**
-
-
-  As a leader, it's important that you constantly and consistently ask for feedback. Whilst you might not get any significant feedback every week, asking regularly helps to provide the space to do so. Ensure that you react positively to any feedback you get, and act on it.
-
-
-  **Optional questions:**
-
-
-  **Where are you facing any challenges or blockages?**
-
-
-  This is your opportunity to improve productivity and process. As a leader, a huge part of your role means ensuring that your team can work without anything getting in their way.
-
-
-  **What would you change about the work environment, the team, or the organisation?**
-
-
-  Some great ideas come out of this question, especially if you ask it often. Be sure to try to act on any suggestions you receive.
-mediaGallery:
-  - link: https://cdn.britannica.com/09/157609-050-54CC600B/person-pencil.jpg?w=400&h=300&c=crop
+hiddenFromHomePage: false
+hiddenFromSearch: false
 resources:
-  - link: https://www.inc.com/leigh-buchanan/patagonia-founder-yvon-chouinard-15five.html
-    description: 15/5 Reports - How Patagonia's Roving CEO Stays in the Loop
-    linkType: web
-  - link: https://brandvines.com/wp-content/uploads/2013/06/5-15-for-Sample-Report.pdf
-    description: 15/5 Template from Brandvines
-    linkType: web
-participants: []
+  - name: featured-image
+    src: person-pencil.jpeg
+  - name: featured-image-preview
+    src: person-pencil.jpeg
+toc: true
+math: false
+lightgallery: false
+password:
+message:
+repost:
+  enable: false
+  url:
 ---
+
+<!--more-->
+## 定义
+
+15/5报告最初由Patagonia服装品牌创始人Yvon Chouinard创建，灵感来自Scrum每日站会所使用的问题，认为那是保持团队和组织定期同步的一种很好的方式。撰写这些报告的时间不应超过15分钟，阅读时间不应超过5分钟。
+
+当您建立了每周提交15/5报告的习惯后，您可以在1对1会议中使用它们，并有助于向其他团队的领导或经理汇报现状。
+
+## 使用场景
+
+想要确保所有人都知道组织里到底发生了什么？可能会是很困难的事情。谁都不想花很多时间撰写或阅读报告，但仅通过口头沟通，又可能会需要花费更多的时间，并存在着细节遗漏，或准确性失真的风险。
+
+许多人发现：其实用书面的形式交流会更容易，因为这给了他们更多的时间来思考要说什么？以及如何表达。
+
+通过使用每周的15/5报告，人们知道总是存在这么一种形式：可以用于报告任何好的、坏的或有趣的事情。
+
+## 如何操作
+
+您可能希望使用不同的问题，而且随着您和您的团队发展，您还应该不断发展这些问题。
+
+尽管人们有自由表达“我没有要报告的内容”等，但您可以用下面的这些问题作为起点，看看效果如何。应该有大约三个“强制性”问题，并且您可以包含一些可选问题，用来补充必要的上下文和想法。
+
+要求大家在周末结束前（例如星期五上午）向您提交15/5报告可能会很有用。这意味着：您有时间在周末前消化它们。要选择出最适合团队的时间和节奏。建议您的团队成员不要等在报告提交的当日才去编写报告 - 取而代之的是：成员在一周中持续不断的做笔记，然后写报告的时候就应该会很容易了 - 因为大家都已经知道要写什么内容了。
+
+即使有十几个或更多的人向您发送报告，这仍然是一种非常有效的方法，可以确保您用最佳方式支持到团队，并可以让您和组织的其他人都了解到各种进展、挑战和机会。
+
+您要确保回复每一份报告 - 即便只是简短的认可和感谢 - 因为如果人们没有收到回复，这可能会让他们在写这些报告的时候感到非常泄气。
+
+示例问题：
+
+1. **本周您的主要成就是什么？您最为自豪或满意的是什么？**
+
+   这个问题意味着：报告要从最突出的成就为开头。人们也还应该在工作之外的成就上得到鼓励。
+
+2. **在工作内外，有什么让您感到担忧或关切的事情吗？**
+
+   这是一个非常重要的问题。您可以在1对1会议中解决这些问题，如果多人提出相同的担忧，您可以在问题变得过大之前解决它。
+
+3. **您目前的感觉如何，您周围的团队士气如何？**
+
+   这个问题可能需要几周或几个月，人们才会开始诚实而安全地回答，但这非常重要。这是您保持团队文化和士气上同步的关键方式之一。
+
+4. **有什么我可以做得更好、不同或更多，从而能帮助到您的吗？**
+
+   作为领导者，不断而一贯地要求反馈是很重要的。虽然您可能不会每周都收到重大的反馈，但定期提问有助于提供改善的空间。确保您对收到的任何反馈，都做出积极的反应，并对其采取行动。
+
+可选问题：
+
+1. **您在哪些方面面临挑战或障碍？**
+
+   这是改善生产力和流程的机会。作为领导者，您的工作很大一部分涉及确保您的团队能够顺利工作，没有任何妨碍。
+
+2. **您想要改变工作环境、团队或组织的那些方面？**
+
+   这个问题会带来一些很好的想法，特别是如果您经常提问的话。确保尝试采纳您收到的任何建议。
+
+## 扩展资源
+
+* [15/5 Reports - How Patagonia's Roving CEO Stays in the Loop](https://www.inc.com/leigh-buchanan/patagonia-founder-yvon-chouinard-15five.html)
+* [15/5 Template from Brandvines](https://brandvines.com/wp-content/uploads/2013/06/5-15-for-Sample-Report.pdf)
+
+原文作者：Tom Geraghty
+
+![Tom Geraghty](https://github.com/tom-geraghty.png)
+
+原文链接：<https://openpracticelibrary.com/practice/15-5-reports/>
