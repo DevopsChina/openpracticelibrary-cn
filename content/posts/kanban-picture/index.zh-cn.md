@@ -1,7 +1,7 @@
 ---
 title: 看板墙
 type: posts
-date: 2019-10-15T18:32:07+08:00
+date: 2019-10-15T18:32:07+08:00 
 author:
   name: 译者-车晓雪 
   link: https://openpracticelibrary.devopschina.org/
@@ -17,9 +17,6 @@ resources:
     src: "kanban-picture-english.png"
   - name: featured-image-preview
     src: "kanban-picture-english.png"
-
-authors:
-  - andresuman
 
 ---
 
