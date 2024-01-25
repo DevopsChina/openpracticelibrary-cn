@@ -1,7 +1,7 @@
 ---
 title: 看板墙
 type: posts
-date: 2019-10-15T18:32:07+08:00 
+date: 2024-01-19T21:53:27+08:00
 author:
   name: 译者-车晓雪 
   link: https://openpracticelibrary.devopschina.org/

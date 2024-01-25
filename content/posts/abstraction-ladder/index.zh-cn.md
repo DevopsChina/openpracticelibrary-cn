@@ -22,9 +22,9 @@ hiddenFromSearch: false
 summary:
 resources:
   - name: featured-image
-    src: abstraction-ladder-example.jpeg
+    src: 0_WWZkgUrui1QzkE8N.jpg
   - name: featured-image-preview
-    src: abstraction-ladder-example.jpeg
+    src: 0_WWZkgUrui1QzkE8N.jpg
 toc: true
 math: false
 lightgallery: false
@@ -78,7 +78,7 @@ repost:
 
 ## 延伸资源
 
-
+![例子](abstraction-ladder-example.jpeg)
 
 * [Using Abstraction Laddering: How to Build the Right Question and Stick to it](https://medium.com/the-conversation-factory/using-abstraction-laddering-how-to-build-the-right-question-and-stick-to-it-c0efb012248e)
 * [Up and Down the Ladder of Abstraction](https://medium.com/@tombarrett/up-and-down-the-ladder-of-abstraction-cb73533be751)
