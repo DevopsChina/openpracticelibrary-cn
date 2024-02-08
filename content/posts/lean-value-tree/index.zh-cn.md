@@ -1,7 +1,7 @@
 ---
 title: 精益价值树
 type: posts
-date: 2020-07-07T09:00:01+08:00
+date: 2024-02-08T09:00:01+08:00
 author:
   name: 译者-车晓雪 
   link: https://openpracticelibrary.devopschina.org/
