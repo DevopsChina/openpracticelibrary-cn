@@ -1,239 +1,178 @@
 ---
-templateKey: practice-page
-title: Mentorship
-subtitle: Resource mentors and mentees with structured mentoring.
-date: 2022-09-20T01:17:03.717Z
-authors:
-  - john-remoteaf
+title: 导师制度
+subtitle: 导师制度是最古老的人类知识传播方式之一。在这种实践中，我们利用视觉板来帮助导师和学员保持清晰和一致。
+date: 2024-05-19T21:53:27+08:00
+draft: false
+author:
+  name: 译者-刘征
+  link: https://martinliu.cn
+  email:
+  avatar:
+description: 导师制度是最古老的人类知识传播方式之一。在这种实践中，我们利用视觉板来帮助导师和学员保持清晰和一致。
+keywords:  导师制度, 导师, 学员, 一致性, 会议, 反思
+license:
+comment: false
+weight: 0
 tags:
-  - methods
-  - culture
-categories: 
-  - foundation
-icon: /images/mentorship-kick-off-open-pattern-mentorship-agreement.jpg
-whatIs: >-
-  Mentorship as a general practice is one of the oldest forms of spreading
-  knowledge between people. In this version of the practice we leverage the use
-  of visual boards to provide clarity and alignment to the mentor and the
-  mentee. This practice is intended to be leveraged on an as needed basis, it’s
-  expected that for each mentorship there may be elements of the practice that
-  are less relevant. It is worth noting that mentorships may be completely
-  informal, this practice is designed to support mentorships that would benefit
-  from lightweight structure.
-
-
-  This framing of Mentorship has been developed based of research and co-designed by the remote:af community. A video of the event has been provided below.
-
-
-  E﻿xample images of the Mentorship pattern in use have been provided in the share link with the templates.
-whyDo: Mentorship can provide organisations with reinforced channels of
-  information outside of hierarchy and providing ongoing learning and
-  development between people. As a learning and development practice,
-  mentorships are effective in providing nuanced career growth for the mentor
-  and the mentee.
-howTo: >-
-  Mentorships can often be non-linear, over the course of a given mentorship you
-  may find the roles between mentor and mentee shift and change. To support a
-  wider range of contexts the practice has been segmented into three domains;
-
-
-  * Alignment – between the Mentor and Mentee
-
-  * Sessions – that facilitate growth and learning
-
-  * Reflection – on the mentorship and how it’s evolved
-
-
-  Examples of each section completed is provided in the images section.
-
-
-  ## A﻿lignment
-
-
-  ### S﻿tory.Me Cards
-
-
-  Rapport is the cornerstone of relationships between people. The Story.Me Cards are a light exercise that encourages self-disclosures within boundaries to help people get to know each other better. This practice focuses specifically on the mentorship itself, if you don’t use Story.Me Cards as a rapport building exercise then it’s highly recommended to allow space for the mentor and mentee get to know each other. A link to the Story.Me Cards available on the Miroverse is listed below the practice.
-
-
-  Recommend in section timebox: 10 minutes
-
-
-
-
-  ### Mentor/ Mentee Context
-
-
-  The first activity in this practice is allowing space for the Mentor and the Mentee to explore what they hope to achieve from the mentorship. This activity combined with the Story.Me Cards can useful preparation work for the first mentoring session
-
-
-
-
-  #### M﻿otivations
-
-
-  The six questions in this section are posed to encourage reflection for the Mentor/Mentee. 
-
-
-  1. What about your history is important to you?
-
-  2. What is the most rewarding work you’ve done?
-
-  3. What have you found exciting in the past year?
-
-  4. What do you hope to focus on in the future?
-
-  5. What will you find rewarding about your focus?
-
-  6. What about your focus is going to be exciting?
-
-
-  Capture at least one answer to each question in the spaces provided on the card.
-
-
-  #### P﻿otential Goals
-
-
-  Reflect on your motivations and brainstorm some potential goals you’d like to achieve through this mentorship. Look for themes in your answers from the motivations section to get inspiration. It’s helpful to be ambitious here, since the Mentor/Mentee will agree on goals in the Mentorship Agreement.
-
-
-  #### B﻿oundaries
-
-
-  An effective mentorship needs boundaries to maintain focus. This will also help the mentor and the mentee explore any conflicts in expectations at the start of the mentorship. Capture in the boundaries section any topics or concerns you have with the mentorship. It’s important to include considerations about confidentiality, limitations on personal inquiry and methods for sharing feedback.
-
-
-
-
-  ### M﻿entorship Agreement
-
-
-  In this space we bring the contexts of the Mentor and Mentee together to agree on the rules of engagement, goals and rhythm of the mentorship. It is useful for the mentor and mentee to present their respective contexts to introduce this activity.
-
-
-
-  Recommend in session timebox: 30 minutes 
-
-
-
-
-  #### Our Boundaries
-
-
-  Discuss and agree on the boundaries important to both the mentor and the mentee. Create a shared view of what topics are out scope for the mentorship. Mitigate and conflicts between the boundaries of the mentor and mentee through compromise. If any conflicts aren’t reconcilable, shift to an open discussion around if this mentorship should continue.
-
-
-  Note: there is a section regarding confidentiality in ‘agreed behaviours’
-
-
-
-
-  #### Outcomes
-
-
-  Generate and agree on the goals of this mentorship. Ideally the mentor and mentee will share a single goal to provide focus, which can be updated later if needed. When writing multiple goals, ensure they relate to either the potential goals or motivations of both the mentor and the mentee.
-
-
-
-
-  #### Cadence
-
-
-  Capture relevant in response to the questions. Consider adding additional details as needed to avoid confusion.
-
-
-  * When will the mentorship end? 
-
-  * How often will we meet? 
-
-  * What tools will we use to stay in touch?
-
-
-
-
-  #### Agreed behaviours
-
-
-  Capture the behaviours expected to be demonstrated in the mentorship. Typically both the mentor and the mentee should be equally accountable for maintaining the agreed behaviours.
-
-
-  * How will we communicate when things get difficult? (to help navigate conflict)
-
-  * What can we count on each other for? (expectations for standard behaviour)
-
-  * What doe we need to keep confidential? (specificity regarding confidentiality)
-
-
-
-
-  ### Sessions
-
-
-  #### Mentorship Timeline
-
-
-  The timeline exists to provide a shared space of your time together to support reflection and continuous learning. There are three sections; appreciations, learnings and resources. Both the mentee and the mentor should aim to contribute to the timeline.
-
-
-  Appreciations is to capture the moments where the mentor or mentee genuinely appreciates something that occurred due to the mentorship. 
-
-
-  Learnings is to capture what has been learned as a result of the mentorship.
-
-
-  Resources is to capture books, websites and other suggested material discussed during the course of the mentorship. A ‘Start’ and ‘Finish’ has been provided to help the mentor and mentee correlate their growth the mentorships duration.
-
-
-
-
-  A ‘Start’ and ‘Finish’ has been provided to help the mentor and mentee correlate their growth the mentorships duration.
-
-
-
-
-  #### Mentoring Session Card
-
-
-  The session card is intended to be duplicated as needed and is relatively simple. There are two sections, the workspace and actions. The workspace can be used as a visual aide to assist in conversations during the mentorship and the actions space is reserved for the commitments made during a session.
-
-
-
-
-  ### Reflection
-
-
-  #### Mentorship Reflection
-
-
-  The mentorship reflection is designed to support the closing of a mentorship. While simple, this session may take some time depending on the length of the mentorship and the relationship that has developed between the mentor and mentee.
-
-
-  #### Outcomes
-
-
-  Reflect on the Mentorship Timeline and the Outcomes captured in the mentorship agreement. This is a space for celebration and reflection on lessons learned.
-
-
-  #### Network
-
-
-  Discuss any network connections that could provide further support to the mentor or mentee. Consider who could amplify the learning or progress made.
-
-
-  #### Next Steps
-
-
-  Capture the mentor’s and mentee’s intentions for what they will do next as a consequence of the mentorship.
-mediaGallery:
-  - link: https://www.youtube.com/watch?v=2OPpJcbUAmw&t
+  - value
+categories:
+  - Foundation
+hiddenFromHomePage: false
+hiddenFromSearch: false
+summary:
 resources:
-  - linkType: web
-    link: https://miro.com/miroverse/connection-in-remote-working/
-    description: Story.Me Cards
-  - link: https://drive.google.com/drive/folders/1MGXwkyElS23u0DHqKiSGHNmPuyynlg34?usp=sharing
-    linkType: web
-    description: Mentorship Templates
-people: 2+
-difficulty: easy
-participants: []
+  - name: featured-image
+    src: mentorship-kick-off-open-pattern-mentorship-agreement.jpg
+  - name: featured-image-preview
+    src: mentorship-kick-off-open-pattern-mentorship-agreement.jpg
+toc: true
+math: false
+lightgallery: false
+password:
+message:
+repost:
+  enable: false
+  url:
+
+# See details front matter: https://fixit.lruihao.cn/documentation/content-management/introduction/#front-matter
 ---
+
+<!--more-->
+> 难度：容易
+
+## 定义
+
+导师制度是最古老的人类知识传播方式之一。在这种实践中，我们利用视觉板来帮助导师和学员保持清晰和一致。这种方法旨在根据需要灵活使用，每个导师关系中可能有些要素不太相关。需要注意的是，导师关系可能完全非正式，这种方法是为了支持那些需要轻量结构的导师关系。
+
+这种导师框架由 remote:af 社区在研究基础上共同设计开发。活动视频已在下方提供。
+
+共享链接中包含了导师模式使用的示例图片和模板。
+
+## 应用场景
+
+导师制度可以为组织提供层级之外的信息交流渠道，促进持续的学习和发展。作为一种学习和发展实践，导师制度有效地为导师和学员提供了深入的职业成长机会。
+
+## 如何操作
+
+导师关系通常是非线性的，在导师关系期间，导师和学员的角色可能会发生变化。为了支持更多样的情境，这种方法分为三个部分：
+
+* 一致性 – 导师和学员之间的协调
+* 会议 – 促进成长和学习
+* 反思 – 对导师关系及其发展的回顾
+
+每个部分的完成示例在图片部分提供。
+
+### 一致性
+
+#### Story.Me 卡片
+
+建立关系的基础是相互了解。Story.Me 卡片是一个轻松的练习，鼓励在边界内进行自我披露，帮助人们更好地了解彼此。如果不使用 Story.Me 卡片作为建立关系的练习，那么建议留出时间让导师和学员相互了解。Miroverse 上提供了 Story.Me 卡片的链接。
+
+推荐时限：10分钟
+
+#### 导师/学员背景
+
+此活动的第一个步骤是为导师和学员提供空间，以探索他们希望从导师关系中获得什么。这个活动与 Story.Me 卡片相结合，是第一次导师会议的有用准备工作。
+
+#### 动机
+
+这个部分的六个问题旨在鼓励导师和学员进行反思。
+
+1. 你的历史中什么对你来说很重要？
+2. 你做过的最有回报的工作是什么？
+3. 过去一年中你发现了什么令人兴奋的事情？
+4. 你希望未来专注于什么？
+5. 你会觉得专注于什么会有回报？
+6. 你未来的专注点有什么令人兴奋的地方？
+
+在卡片上提供的空间中记录每个问题的至少一个答案。
+
+#### 潜在目标
+
+反思你的动机，并头脑风暴一些你希望通过这次导师关系实现的潜在目标。从动机部分的答案中寻找灵感，发现主题。此处有野心是有帮助的，因为导师和学员将在导师协议中同意目标。
+
+#### 边界
+
+一个有效的导师关系需要边界以保持专注。这也有助于导师和学员在导师关系开始时探索任何期望的冲突。在边界部分记录你对导师关系的任何话题或顾虑。重要的是包括关于保密性、个人查询的限制和反馈分享方法的考虑。
+
+#### 导师协议
+
+在此空间中，我们将导师和学员的背景结合起来，同意互动规则、目标和导师关系的节奏。导师和学员介绍各自背景以引入此活动是有用的。
+
+推荐时限：30分钟
+
+#### 我们的边界
+
+讨论并同意导师和学员双方都认为重要的边界。创建一个关于导师关系中哪些话题不在范围内的共享视图。通过妥协来缓解导师和学员边界之间的冲突。如果任何冲突无法调和，转向公开讨论是否应继续这次导师关系。
+
+注意：在“同意的行为”部分有关于保密性的部分。
+
+#### 结果
+
+生成并同意这次导师关系的目标。理想情况下，导师和学员将分享一个目标以提供专注，必要时可以更新。当写多个目标时，确保它们与导师和学员的潜在目标或动机相关。
+
+#### 频率
+
+根据问题捕获相关响应。考虑添加额外细节以避免混淆。
+
+* 导师关系何时结束？
+* 我们多久见一次？
+* 我们将使用哪些工具保持联系？
+
+#### 同意的行为
+
+捕获导师关系中期望表现的行为。通常导师和学员都应同样负责维护同意的行为。
+
+* 当事情变得困难时我们如何沟通？（帮助导航冲突）
+* 我们可以彼此指望什么？（标准行为的期望）
+* 我们需要保密什么？（关于保密的具体性）
+
+## 会议
+
+### 导师时间线
+
+时间线的存在是为了提供一个共享空间，以支持反思和持续学习。共有三个部分：感谢、学习和资源。导师和学员都应该努力为时间线做出贡献。
+
+感谢是为了捕捉导师或学员因导师关系而真心感激的时刻。
+
+学习是为了捕捉导师关系的结果。
+
+资源是为了捕捉在导师关系过程中讨论的书籍、网站和其他建议材料。提供了“开始”和“结束”以帮助导师和学员将其成长与导师关系的持续时间相关联。
+
+提供了“开始”和“结束”以帮助导师和学员将其成长与导师关系的持续时间相关联。
+
+### 导师会议卡片
+
+会议卡片旨在根据需要重复使用，相对简单。共有两个部分，工作区和行动。工作区可用作导师关系期间对话的视觉辅助工具，行动空间则保留用于会议期间的承诺。
+
+## 反思
+
+### 导师反思
+
+导师反思旨在支持导师关系的结束。虽然简单，但根据导师关系的长度和导师与学员之间发展的关系，此会议可能需要一些时间。
+
+#### 结果
+
+反思导师时间线和导师协议中捕捉的结果。这是一个庆祝和反思学到的教训的空间。
+
+#### 网络
+
+讨论可能为导师或学员提供进一步支持的网络连接。考虑谁可以放大学习或进展。
+
+#### 下一步
+
+捕捉导师和学员打算因导师关系接下来做什么。
+
+## 延伸资源
+
+* 视频: <https://www.youtube.com/watch?v=2OPpJcbUAmw&t>
+* Story.Me Cards <https://miro.com/miroverse/connection-in-remote-working/>
+* Mentorship Templates : <https://drive.google.com/drive/folders/1MGXwkyElS23u0DHqKiSGHNmPuyynlg34?usp=sharing>
+
+> 原文作者
+
+* John Tooth
+
+* ![John Tooth](https://github.com/john-remoteaf.png)
+
+> 原文链接：<https://openpracticelibrary.com/practice/mentorship/>
