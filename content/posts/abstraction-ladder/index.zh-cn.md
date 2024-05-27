@@ -14,7 +14,7 @@ license:
 comment: false
 weight: 0
 tags:
-  - value
+  -  value
 categories:
   - discovery
 hiddenFromHomePage: false

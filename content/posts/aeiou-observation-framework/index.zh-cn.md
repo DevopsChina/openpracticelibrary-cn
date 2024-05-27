@@ -1,250 +1,135 @@
 ---
-subtitle: A heuristic framework used for ethnographic observations.
-participants:
-  - Lead Researcher
-  - Product Owner
-  - Project Team
-resources:
-  - link: 'https://www.epicpeople.org/building-a-useful-research-tool/'
-    linkType: web
-    description: 'Building a Useful Research Tool: An Origin Story of AEIOU'
-  - link: 'https://help.ethnohub.com/guide/aeiou-framework'
-    linkType: web
-    description: AEIOU Framework
-  - link: 'http://www.libraryuxtoolkit.com/search.html#flyOnTheWall'
-    linkType: web
-    description: Free Column Worksheet
-  - link: 'https://www.creatlr.com/template/1knjaTEkdFHvtBOLr8DAx/aeiou-empathy-map/'
-    linkType: web
-    description: Free Empathy Map Worksheet
-templateKey: practice-page
-title: AEIOU Observation Framework
-date: 2018-11-30T22:42:50.138Z
-authors:
-  - darcief
-area: discovery-loop-why
+title: AEIOU 观察框架
+subtitle: 一个用于人类学研究观察的启发式框架。
+date: 2024-05-03T11:53:27+08:00
+draft: false
+author:
+  name: 译者-刘征
+  link: https://martinliu.cn
+  email:
+  avatar:
+description: 一个用于人类学研究观察的启发式框架。
+keywords:
+license:
+comment: false
+weight: 0
 tags:
-  - validate
-perspectives:
-  - product-ownership
-icon: /images/aeiou-empathy-map.png
-jumbotron: /images/aeiou_worksheet_crop.jpg
-jumbotronAlt: AEIOU Framework
-people: 2+
-time: 1+ Hours
-difficulty: easy
-whatIs: >-
-  [TheDesignExchange.org](https://thedesignexchange.org) put together a really
-  great video quickly describing the AEIOU Observation Framework in less than
-  one minute, so please take a look by clicking the image below:
-
-  [![AEIOU, The Design Exchange
-  Video](https://i.ytimg.com/vi/Uvvd6pcNX84/maxresdefault.jpg)](https://www.youtube.com/watch?v=Uvvd6pcNX84)
-
-  That video says it all but for reference AEIOU stands for:
-
-  > **A - Activities**
-
-
-  > **E - Environments**
-
-
-  > **I - Interactions**
-
-
-  > **O - Objects**
-
-
-  > **U - Users**
-
-
-  This heuristic framework provides an observation technique used to document
-  contextual inquiries during ethnographic studies. For the purposes of digital
-  product and software practices, AEIOU is helpful for categorizing and
-  interpreting observations gathered during user research field studies and
-  usability testing efforts.
-
-  The acronym AEIOU provides an easy to recall mnemonic for how to observe
-  qualitative research, it also quickly turns raw notes into categories that can
-  inform research analysis to develop key insights and other findings.
-whyDo: >-
-  AEIOU relates to five heuristic categories to be observed and documented
-  during user interviews, which provides a guideline for how to capture research
-  data. This outline quickly defines each category:
-
-  * **Activities:** What actions and behaviors are people taking to reach goals?
-
-
-  * **Environments:** What is the overall setting in which the activities are
-  taking place? How are people behaving in the environment?
-
-
-  * **Interactions:** What are the basic interactions occurring for people to
-  reach goals? What effect do people have on activities and environment?
-
-
-  * **Objects:** What are all the details that form the environment? How do
-  objects relate to people, activities and interactions?
-
-
-  * **Users:** Who are the people being observed? What are their personalities
-  like? How do they engage with other people to reach goals?
-
-
-  AEIOU is a starting point for research efforts, the above category definitions
-  can be iterated upon and refined to align with project goals. [Rick E.
-  Robinson](https://www.epicpeople.org/building-a-useful-research-tool/),
-  creator of AEIOU, calls it a “categorizing heuristic” which can be modified.
-howTo: >-
-  ## How to conduct a contextual inquiry using AEIOU?
-
-  AEIOU provides a template for observing contextual inquiries and collecting
-  qualitative data. Simply use the framework to create a worksheet which can be
-  taken in the field for researchers to utilize. It will help gather
-  observational data in addition to other ethnographic methods such as audio,
-  photos and video.
-
-  The worksheet design can be a simple word processing document with added space
-  to take notes in each section, or organized with columns similar to a
-  spreadsheet like this example:
-
-  ![AEIOU Column Worksheet ](/images/aeiou_worksheet.jpg)
-
-  The worksheet can also be designed in a fun way like this empathy map example:
-
-  ![AEIOU Empathy Map
-  https://www.creatlr.com/template/1knjaTEkdFHvtBOLr8DAx/aeiou-empathy-map/](/images/aeiou-empathy-map.png)
-
-  ## How to use AEIOU as a methodology?
-
-  While AEIOU was not necessarily created to inform methodology it can also
-  provide a guideline for conducting user research.
-
-  Sometimes with exploratory studies that have lengthy technically specific
-  discussion guides, the data collection is often broad and later analysis will
-  define the categories of information. In this case, AEIOU can be used as a
-  method for aligning a team upon the heuristic observation strategy and
-  planning research data collection.
-
-  **PRO TIP:** Include a section on the discussion guide cover page with a quick
-  overview of what to look for. This is a helpful reminder for observers and
-  note takers about responsibilities during a user interview session. These
-  bullets are a good example of what to include and can be modified or added to
-  for alignment with project goals:
-
-  * AEIOU Framework (Activities, Environments, Interactions, Objects, Users) *
-  Capture what you see (participant’s body language, artifacts used, etc.) *
-  Capture what you hear in their words (quotes, stories, keywords,
-  contradictions, etc.) * Capture what you feel that the user is feeling
-  (emotions, beliefs, confusion, passion, etc.)
-
-  ## Facilitation Notes
-
-  **Prerequisite Knowledge**
-
-
-  Some idea of the research goals is helpful.
-
-
-  **Deliverable**
-
-
-  The worksheets will be used to include in research analysis activities.
-
-
-  **Supply list:**
-
-
-  * AEIOU Worksheet
-
-
-  * Printer
-mediaGallery:
-  - link: >-
-      https://openpracticelibrary.github.io/opl-media/images/aeiou-empathy-map.png
-  - link: 'https://openpracticelibrary.github.io/opl-media/images/aeiou_worksheet.jpg'
-  - link: 'https://youtu.be/Uvvd6pcNX84'
-  - link: 'https://i.ytimg.com/vi/Uvvd6pcNX84/maxresdefault.jpg'
-categories: 
+  -  validate
+categories:
   - discovery
+hiddenFromHomePage: false
+hiddenFromSearch: false
+summary:
+resources:
+  - name: featured-image
+    src: aeiou-empathy-map.png
+  - name: featured-image-preview
+    src: aeiou-empathy-map.png
+toc: true
+math: false
+lightgallery: false
+password:
+message:
+repost:
+  enable: false
+  url:
+
+# See details front matter: https://fixit.lruihao.cn/documentation/content-management/introduction/#front-matter
 ---
-## What is the AEIOU Observation Framework about?
 
-<a href="https://thedesignexchange.org" target="_blank">TheDesignExchange.org</a> put together a really great video quickly describing the AEIOU Observation Framework in less than one minute, so please take a look by clicking the image below:
+<!--more-->
 
-[![AEIOU, The Design Exchange Video](https://i.ytimg.com/vi/Uvvd6pcNX84/maxresdefault.jpg)](https://www.youtube.com/watch?v=Uvvd6pcNX84)
+> 参与人员: 2+ ，产品负责人、项目经理、研究员
 
-That video says it all but for reference AEIOU stands for:
+> 时间: 1+ Hours
 
-> **A - Activities**\
-> **E - Environments**\
-> **I - Interactions**\
-> **O - Objects**\
-> **U - Users**
+> 难度: easy
 
-This heuristic framework provides an observation technique used to document contextual inquiries during ethnographic studies. For the purposes of digital product and software practices, AEIOU is helpful for categorizing and interpreting observations gathered during user research field studies and usability testing efforts.
+## 定义
 
-The acronym AEIOU provides an easy to recall mnemonic for how to observe qualitative research, it also quickly turns raw notes into categories that can inform research analysis to develop key insights and other findings.
+[TheDesignExchange.org](https://thedesignexchange.org) 制作了一个简短的视频，在不到一分钟的时间里介绍了 AEIOU 观察框架，请点击下方图片观看：
 
-## Why use AEIOU?
+[![AEIOU, The Design Exchange 视频](maxresdefault.jpg)](https://www.youtube.com/watch?v=Uvvd6pcNX84)
 
-AEIOU relates to five heuristic categories to be observed and documented during user interviews, which provides a guideline for how to capture research data. This outline quickly defines each category:
+以上 YouTube 视频介绍了所有内容，作为参考，AEIOU 代表：
 
-* **Activities:** What actions and behaviors are people taking to reach goals?
-* **Environments:** What is the overall setting in which the activities are taking place? How are people behaving in the environment?
-* **Interactions:** What are the basic interactions occurring for people to reach goals? What effect do people have on activities and environment?
-* **Objects:** What are all the details that form the environment? How do objects relate to people, activities and interactions?
-* **Users:** Who are the people being observed? What are their personalities like? How do they engage with other people to reach goals?
+* **A - 活动**
+* **E - 环境**
+* **I - 互动**
+* **O - 对象**
+* **U - 用户**
 
-AEIOU is a starting point for research efforts, the above category definitions can be iterated upon and refined to align with project goals. [Rick E. Robinson](https://www.epicpeople.org/building-a-useful-research-tool/), creator of AEIOU, calls it a “categorizing heuristic” which can be modified.
+这个启发式框架提供了一种用于记录民族志研究中上下文调查的观察技术。对于数字产品和软件实践，AEIOU 有助于在用户研究实地研究和可用性测试中分类和解释观察结果。
 
-## How to conduct a contextual inquiry using AEIOU?
+AEIOU 作为一个缩略词，为如何进行定性研究观察提供了一个易于记忆的助记符，也能迅速将原始笔记分类，从而为研究分析提供信息，发展出关键洞察和其他发现。
 
-AEIOU provides a template for observing contextual inquiries and collecting qualitative data. Simply use the framework to create a worksheet which can be taken in the field for researchers to utilize. It will help gather observational data in addition to other ethnographic methods such as audio, photos and video.
+## 应用场景
 
-The worksheet design can be a simple word processing document with added space to take notes in each section, or organized with columns similar to a spreadsheet like this example:
+AEIOU 涉及在用户访谈期间需要观察和记录的五个启发式类别，为如何捕捉研究数据提供了指南。以下是每个类别的简要定义：
 
-![AEIOU Column Worksheet ](/images/aeiou_worksheet.jpg)
+* **活动**：人们为达到目标采取了哪些行动和行为？
+* **环境**：活动发生的总体环境是什么？人们在环境中的行为如何？
+* **互动**：人们为达到目标进行的基本互动是什么？人们对活动和环境有何影响？
+* **对象**：构成环境的所有细节是什么？对象如何与人、活动和互动相关？
+* **用户**：被观察的对象是谁？他们的个性如何？他们如何与他人互动以达到目标？
 
-The worksheet can also be designed in a fun way like this empathy map example:
+AEIOU 是研究工作的起点，以上类别定义可以根据项目目标进行迭代和细化。[Rick E. Robinson](https://www.epicpeople.org/building-a-useful-research-tool/)，AEIOU 的创建者，称其为一种“分类启发法”，可以进行修改。
 
-![AEIOU Empathy Map https://www.creatlr.com/template/1knjaTEkdFHvtBOLr8DAx/aeiou-empathy-map/](/images/aeiou-empathy-map.png)
+## 如何操作
 
-## How to use AEIOU as a methodology?
+将 AEIOU 用作观测框架。
 
-While AEIOU was not necessarily created to inform methodology it can also provide a guideline for conducting user research.
+### 如何使用 AEIOU 进行上下文调查？
 
-Sometimes with exploratory studies that have lengthy technically specific discussion guides, the data collection is often broad and later analysis will define the categories of information. In this case, AEIOU can be used as a method for aligning a team upon the heuristic observation strategy and planning research data collection.
+AEIOU 提供了一个模板，用于观察上下文调查和收集定性数据。只需使用框架创建一个工作表，研究人员可以在实地使用它。它将有助于收集观察数据，此外还有其他民族志方法如音频、照片和视频。
 
-**PRO TIP:** Include a section on the discussion guide cover page with a quick overview of what to look for. This is a helpful reminder for observers and note takers about responsibilities during a user interview session. These bullets are a good example of what to include and can be modified or added to for alignment with project goals:
+工作表设计可以是一个简单的文字处理文档，每个部分留出记录笔记的空间，或者像这个示例一样，用类似于电子表格的列进行组织：
 
-* AEIOU Framework (Activities, Environments, Interactions, Objects, Users)
-* Capture what you see (participant’s body language, artifacts used, etc.)
-* Capture what you hear in their words (quotes, stories, keywords, contradictions, etc.)
-* Capture what you feel that the user is feeling (emotions, beliefs, confusion, passion, etc.)
+![AEIOU 列工作表 ](aeiou_worksheet.jpg)
 
-## Facilitation Notes
+工作表也可以设计得有趣一些，比如这个同理心地图示例：
 
-**Prerequisite Knowledge**\
-Some idea of the research goals is helpful.
+![AEIOU 同理心地图 https://www.creatlr.com/template/1knjaTEkdFHvtBOLr8DAx/aeiou-empathy-map/](aeiou-empathy-map.png)
 
-**Deliverable**\
-The worksheets will be used to include in research analysis activities.
+### 如何将 AEIOU 作为一种方法论？
 
-**Supply list:**\
+虽然 AEIOU 并非专为指导方法论而创建，但它也可以为进行用户研究提供指导。
 
-* AEIOU Worksheet\
-* Printer
+在技术性详细讨论指南的探索性研究中，数据收集通常是广泛的，后期分析将定义信息类别。在这种情况下，AEIOU 可以作为一种方法，用于团队在启发式观察策略和规划研究数据收集方面达成一致。
 
-## Resource Links
+**专家提示**：在讨论指南封面页包含一节，简要概述要观察的内容。这是提醒观察者和记录员在用户访谈期间职责的有用提示。这些要点是一个很好的示例，可以根据项目目标进行修改或添加：
+
+* AEIOU 框架（活动、环境、互动、对象、用户）
+* 捕捉你看到的（参与者的肢体语言、使用的工具等）
+* 捕捉你听到的他们的话（引言、故事、关键词、矛盾等）
+* 捕捉你感觉到用户的感受（情绪、信念、困惑、热情等）
+
+### 便利贴
+
+**前提知识**
+了解研究目标有帮助。
+
+**交付物**
+工作表将用于包括在研究分析活动中。
+
+**物品清单**
+
+* AEIOU 工作表
+* 打印机
+
+## 延伸资源
 
 * [Building a Useful Research Tool: An Origin Story of AEIOU](https://www.epicpeople.org/building-a-useful-research-tool/)
 * [AEIOU Framework](https://help.ethnohub.com/guide/aeiou-framework)
 * [Free Column Worksheet](http://www.libraryuxtoolkit.com/search.html#flyOnTheWall)
 * [Free Empathy Map Worksheet](https://www.creatlr.com/template/1knjaTEkdFHvtBOLr8DAx/aeiou-empathy-map/)
 
-## Related Practices
+## 相关实践
 
 * [Empathy Mapping](https://openpracticelibrary.com/practice/empathy-mapping/)
 
-##
+> 原文作者
+
+* Darcie Fitzpatrick
+
+> 原文链接：[<https://openpracticelibrary.com/practice/aeiou-observation-framework/>](https://openpracticelibrary.com/practice/aeiou-observation-framework/)
