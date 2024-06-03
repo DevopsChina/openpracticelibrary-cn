@@ -1,127 +1,89 @@
 ---
-templateKey: practice-page
-title: Affinity Mapping
-subtitle: Identify insights, patterns and trends in research and ideas
-date: 2019-10-24T18:10:09.959Z
-authors:
-  - ilaria66
+title: 亲和图法
+subtitle: 在研究和构思中识别见解、模式和趋势。
+date: 2024-05-20T21:53:27+08:00
+draft: false
+author:
+  name: 译者-刘征
+  link: https://martinliu.cn
+  email:
+  avatar:
+description: 在研究和构思中识别见解、模式和趋势。
+keywords:
+license:
+comment: false
+weight: 0
 tags:
   - methods
-categories: 
+categories:
   - foundation
-icon: /images/am4.jpg
-whatIs: >-
-  Affinity Mapping is a practice used to organize ideas or insights. It allows
-  large numbers of ideas  stemming from brainstorming to be sorted into groups,
-  based on their natural relationships, for review and analysis. It is also
-  frequently used in contextual inquiry as a way to organize notes and insights
-  from field interviews for synthesis and analysis. Additionally, it can be used
-  for organizing freeform comments, such as open-ended survey responses, support
-  call logs, or other qualitative data.
-
-
-  Check out the media gallery for a quick intro video.
-whyDo: >-
-  Most of us are familiar with brainstorming—a method by which a group generates
-  as many ideas around a topic as possible in a limited amount of time.
-  Brainstorming works to get a high quantity of information on the table. But it
-  begs the follow-up question of how to gather meaning from all the data.
-
-
-  Using a simple Affinity Diagram technique can help us discover embedded patterns (and sometimes break old patterns) of thinking by sorting and clustering language-based information into relationships. It can also give us a sense of where most people’s thinking is focused.
-
-
-  Use an affinity diagram when you want to find categories and meta-categories within a cluster of ideas and when you want to see which ideas are most common within a group.
-howTo: >-
-  1. If you are brainstorming ideas, clearly state the objective of the
-  brainstorm (a [How Might We
-  statement](https://openpracticelibrary.com/practice/hmw/) or Problem
-  Statement). If you are synthesizing research data, collect all data and write
-  each observation/data point on a separate sticky.
-
-
-  2. Have the group post them on a flat working surface visible to everyone.
-
-
-  3. Based on guidance from the players, move related stickies next to each other to start forming clusters based on relationships. Involve the group in the process as much as possible. Have the players approach the wall to post their notes—it saves time—and allows them to do an initial, general sorting in columns or clusters. When done, it should look something like this:
-
-
-  4. Create a sticky-note “parking lot” close to the display for ideas that don’t appear to fall into a natural category. Redundancy in ideas is OK; don’t discard sticky notes because they’re already represented. It’s helpful to leave repeated ideas posted since it indicates to the group how many people are thinking the same thing. At this stage, ask the players to try to avoid searching for higher categories and simply to focus on grouping the information based on the affinities.
-
-
-  5. Once the content is sorted, ask the group to suggest categories that represent the columns you’ve created and write the categories they agree on at the top of the column (or near a cluster if you chose a cluster rather than a column display). Don’t let the players spend an inordinate amount of time agreeing on a name for a category. If there’s disagreement over “Facilities” versus “Infrastructure,” write them both. If the players produce categories that are significantly different, pay attention to which category gets the most approval from the group and write that one. Once done, you might have something that looks like this:
-
-
-  ![](/images/screen-shot-2019-10-24-at-2.25.16-pm.png)
-
-
-  ### Tips for remote sessions
-
-  - It works quite well online, it is one of the practices used in combination with others, to group ideas. - Get used to it as is is very useful in any kind of remote work. - Show an example, and allow different people to playback the results at the end to get more engagement.
-mediaGallery:
-  - link: https://www.youtube.com/watch?v=iFXBI5NguYk
-  - link: https://youtu.be/UynxDyr0lAo
+hiddenFromHomePage: false
+hiddenFromSearch: false
+summary:
 resources:
-  - link: https://www.interaction-design.org/literature/article/affinity-diagrams-learn-how-to-cluster-and-bundle-ideas-and-facts
-    linkType: web
-    description: Detailed post from the Interaction Design Foundation
-  - link: https://generalassemb.ly/design/user-experience-design/affinity-mapping
-    linkType: web
-    description: Detailed steps and tips from General Assembly
-  - link: https://gamestorming.com/affinity-map/
-    linkType: web
-    description: Detailed steps and tips from Game Storming
-  - link: https://openpracticelibrary.com/blog/facilitation-tips-for-remote-sessions/
-    linkType: web
-    description: Remote Facilitation Tips
-participants:
-  - Product Team Members
-jumbotron: /images/am4.jpg
-area: discovery-loop-outcomes
-people: 3+
-time: 5-90 min
-perspectives:
-  - facilitation-tips-for-remote-sessions
-difficulty: moderate
+  - name: featured-image
+    src: am4.jpg
+  - name: featured-image-preview
+    src: am4.jpg
+toc: true
+math: false
+lightgallery: false
+password:
+message:
+repost:
+  enable: false
+  url:
+
+# See details front matter: https://fixit.lruihao.cn/documentation/content-management/introduction/#front-matter
 ---
-## What is it?
 
-Affinity Mapping is a practice used to organize ideas or insights. It allows large numbers of ideas  stemming from brainstorming to be sorted into groups, based on their natural relationships, for review and analysis. It is also frequently used in contextual inquiry as a way to organize notes and insights from field interviews for synthesis and analysis. Additionally, it can be used for organizing freeform comments, such as open-ended survey responses, support call logs, or other qualitative data.
+<!--more-->
 
-Here's a quick intro video:\
+> 参与人数: 3+
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UynxDyr0lAo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> 时间：5-90 分钟
 
-## Why use it?
+> 难度：中等
 
-Most of us are familiar with brainstorming—a method by which a group generates as many ideas around a topic as possible in a limited amount of time. Brainstorming works to get a high quantity of information on the table. But it begs the follow-up question of how to gather meaning from all the data.
+## 定义
 
-Using a simple Affinity Diagram technique can help us discover embedded patterns (and sometimes break old patterns) of thinking by sorting and clustering language-based information into relationships. It can also give us a sense of where most people’s thinking is focused.
+亲和图是一种用于整理想法或见解的方法。它可以将大量的头脑风暴想法根据其自然关系进行分类，以便进行审查和分析。它也经常用于情境调查中，作为组织现场采访笔记和见解以进行综合和分析的一种方法。此外，它还可以用于整理自由形式的评论，如开放式调查问卷的回答、支持电话记录或其他定性数据。
 
-Use an affinity diagram when you want to find categories and meta-categories within a cluster of ideas and when you want to see which ideas are most common within a group.
+这里有一个快速介绍视频："<https://www.youtube.com/embed/UynxDyr0lAo>"
 
-## Steps
+## 应用场景
 
-1. If you are brainstorming ideas, clearly state the objective of the brainstorm (a [How Might We statement](https://openpracticelibrary.com/practice/hmw/) or Problem Statement). If you are synthesizing research data, collect all data and write each observation/data point on a separate sticky.
-2. Have the group post them on a flat working surface visible to everyone.
-3. Based on guidance from the players, move related stickies next to each other to start forming clusters based on relationships. Involve the group in the process as much as possible. Have the players approach the wall to post their notes—it saves time—and allows them to do an initial, general sorting in columns or clusters. When done, it should look something like this:
-4. Create a sticky-note “parking lot” close to the display for ideas that don’t appear to fall into a natural category. Redundancy in ideas is OK; don’t discard sticky notes because they’re already represented. It’s helpful to leave repeated ideas posted since it indicates to the group how many people are thinking the same thing. At this stage, ask the players to try to avoid searching for higher categories and simply to focus on grouping the information based on the affinities.
-5. Once the content is sorted, ask the group to suggest categories that represent the columns you’ve created and write the categories they agree on at the top of the column (or near a cluster if you chose a cluster rather than a column display). Don’t let the players spend an inordinate amount of time agreeing on a name for a category. If there’s disagreement over “Facilities” versus “Infrastructure,” write them both. If the players produce categories that are significantly different, pay attention to which category gets the most approval from the group and write that one. Once done, you might have something that looks like this:
+我们大多数人都熟悉头脑风暴——一种通过小组在有限时间内围绕一个主题尽可能多地产生想法的方法。头脑风暴的作用是将大量信息展示出来，但它引出了一个后续问题，即如何从所有数据中获取意义。
+
+使用一个简单的亲和图技术可以通过将基于语言的信息分类和聚类为关系，帮助我们发现嵌入的模式（有时打破旧的思维模式）。它还可以让我们知道大多数人的思维集中在哪些地方。
+
+当你想在一组想法中找到类别和元类别，并且想看到哪些想法在一组人中最常见时，请使用亲和图。
+
+## 如何操作
+
+1. 如果你在进行头脑风暴，请明确说明头脑风暴的目标（一个 [如何实现我们的问题](https://openpracticelibrary.com/practice/hmw/)或问题陈述）。如果你在综合研究数据，请收集所有数据并将每个观察/数据点写在一个单独的便签纸上。
+2. 让小组将便签纸贴在所有人都能看到的平坦工作表面上。
+3. 根据参与者的指导，将相关的便签纸移动到一起，以开始根据关系形成聚类。尽可能多地让小组参与这个过程。让参与者走到墙前贴上他们的便签纸——这样可以节省时间——并让他们在列或聚类中进行初步的一般排序。完成后，它应该看起来像这样：
+4. 在展示区域附近创建一个便签纸“停车场”，用于那些似乎不属于自然类别的想法。想法的重复是可以的；不要因为便签纸上已有类似的想法而丢弃它们。保留重复的想法是有帮助的，因为它表明有多少人有相同的想法。在这个阶段，请参与者尽量避免寻找更高层次的类别，而只关注基于亲和关系对信息进行分组。
+5. 内容排序完成后，请小组建议代表你创建的列的类别，并将他们同意的类别写在列的顶部（如果你选择的是聚类而不是列显示，则写在聚类附近）。不要让参与者花费过多时间在类别名称上。如果对“设施”与“基础设施”有分歧，写下两个名称。如果参与者提出的类别有显著差异，请注意哪个类别获得了最多的认可并写下那个名称。完成后，你可能会得到这样的结果：
 
 ![](/images/screen-shot-2019-10-24-at-2.25.16-pm.png)
 
+## 远程会议的提示
 
-## Tips for remote sessions
+- 它在网上效果很好，是与其他实践结合使用以分组想法的有效方法之一。
+- 熟悉它，因为在任何类型的远程工作中它都非常有用。
+- 显示一个示例，并让不同的人在结束时回放结果以获得更多的参与。
 
-- It works quite well online, it is one of the practices used in combination with others, to group ideas.
-- Get used to it as is is very useful in any kind of remote work.
-- Show an example, and allow different people to playback the results at the end to get more engagement.
+## 延伸资源
 
+- [来自互动设计基金会的详细帖子](https://www.interaction-design.org/literature/article/affinity-diagrams-learn-how-to-cluster-and-bundle-ideas-and-facts)
+- [来自 General Assembly 的详细步骤和提示](https://generalassemb.ly/design/user-experience-design/affinity-mapping)
+- [Gamestorming.com 上的亲和图法指南](https://gamestorming.com/affinity-map/)
+- [亲和图练习的延时视频](https://www.youtube.com/watch?v=iFXBI5NguYk)
 
+> 原文作者
 
-## Further Information
+- Ilaria Doria
 
-* [Detailed post from the Interaction Design Foundation](https://www.interaction-design.org/literature/article/affinity-diagrams-learn-how-to-cluster-and-bundle-ideas-and-facts)
-* [Detailed steps and tips from General Assembly](https://generalassemb.ly/design/user-experience-design/affinity-mapping)
-* [Affinity Mapping on Gamestorming.com](https://gamestorming.com/affinity-map/)
-* [Time Lapse video of Affinity Mapping Exercise](https://www.youtube.com/watch?v=iFXBI5NguYk)
+> 原文链接：<https://openpracticelibrary.com/practice/affinity-mapping/>
